@@ -7,29 +7,22 @@ A library for getting data about countries.
 ```javascript
 const countrydata = require( 'countrydata' );
 
-// by default, will look up country data by ISO3166 alpha3 code
-const usa = countrydata.get( 'USA' );
+// look up country data by ISO3166 alpha3 code
+const usa_by_alpha3 = countrydata.alpha3.USA;
 
-// you can look up by alpha3 explicity
-const usaByAlpha3 = countrydata.get( {
-    alpha3: 'USA'
+// look up country by ISO3166 alpha2
+const usa_by_alpha2 = countrydata.alpha2.US;
+
+// look up country by ISO3166 numeric
+const usaByNumeric = countrydata.numeric[ 840 ];
+
+// .all is the array of all countries, which you can use for finding/filtering, eg:
+const countries_using_usd = countrydata.all.filter( country => {
+    return country.iso3166.currency.code === 'USD';
 } );
 
-// you can lookup by alpha2
-const usaByAlpha3 = countrydata.get( {
-    alpha2: 'US'
-} );
-
-// you can look up by numeric code
-const usaByNumeric = countrydata.get( {
-    numeric: 840
-} );
-
-// you can write your own finder
-const usaByCustom = countrydata.get( {
-    test: country => {
-        return country.name.en && country.name.en === 'United States';
-    }
+const usa_by_find = countrydata.all.find( country => {
+    return country.name.en && country.name.en === 'United States';
 } );
 ```
 
