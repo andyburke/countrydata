@@ -18,7 +18,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -1046,7 +1047,8 @@
                 "name": "Aruban Florin",
                 "code": "AWG",
                 "numeric": 533,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "ƒ"
             }
         },
         "phone": {
@@ -1096,7 +1098,8 @@
                 "name": "Afghani",
                 "code": "AFN",
                 "numeric": 971,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "؋"
             }
         },
         "phone": {
@@ -1226,7 +1229,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -1269,7 +1273,8 @@
                 "name": "Lek",
                 "code": "ALL",
                 "numeric": 8,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "Lek"
             }
         },
         "phone": {
@@ -1312,7 +1317,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -1404,7 +1410,8 @@
                 "name": "Argentine Peso",
                 "code": "ARS",
                 "numeric": 32,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -1498,7 +1505,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -1585,7 +1593,8 @@
                 "name": "Australian Dollar",
                 "code": "AUD",
                 "numeric": 36,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -1635,7 +1644,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -1678,7 +1688,8 @@
                 "name": "Azerbaijanian Manat",
                 "code": "AZN",
                 "numeric": 944,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₼"
             }
         },
         "phone": {
@@ -1776,7 +1787,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -1953,7 +1965,8 @@
                 "name": "Bulgarian Lev",
                 "code": "BGN",
                 "numeric": 975,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "лв"
             }
         },
         "phone": {
@@ -2055,7 +2068,8 @@
                 "name": "Bahamian Dollar",
                 "code": "BSD",
                 "numeric": 44,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -2098,7 +2112,8 @@
                 "name": "Convertible Mark",
                 "code": "BAM",
                 "numeric": 977,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "KM"
             }
         },
         "phone": {
@@ -2141,7 +2156,8 @@
                 "name": "Belarussian Ruble",
                 "code": "BYR",
                 "numeric": 974,
-                "minor_unit": 0
+                "minor_unit": 0,
+                "symbol": "p."
             }
         },
         "phone": {
@@ -2193,7 +2209,8 @@
                 "name": "Belize Dollar",
                 "code": "BZD",
                 "numeric": 84,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "BZ$"
             }
         },
         "phone": {
@@ -2236,7 +2253,8 @@
                 "name": "Bermudian Dollar",
                 "code": "BMD",
                 "numeric": 60,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -2283,7 +2301,8 @@
                 "name": "Boliviano",
                 "code": "BOB",
                 "numeric": 68,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$b"
             }
         },
         "phone": {
@@ -2326,7 +2345,8 @@
                 "name": "Brazilian Real",
                 "code": "BRL",
                 "numeric": 986,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "R$"
             }
         },
         "phone": {
@@ -2520,7 +2540,8 @@
                 "name": "Barbados Dollar",
                 "code": "BBD",
                 "numeric": 52,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -2563,7 +2584,8 @@
                 "name": "Brunei Dollar",
                 "code": "BND",
                 "numeric": 96,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -2609,7 +2631,8 @@
                 "name": "Indian Rupee",
                 "code": "INR",
                 "numeric": 356,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₹"
             }
         },
         "phone": {
@@ -2652,7 +2675,8 @@
                 "name": "Pula",
                 "code": "BWP",
                 "numeric": 72,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "P"
             }
         },
         "phone": {
@@ -2753,7 +2777,8 @@
                 "name": "Canadian Dollar",
                 "code": "CAD",
                 "numeric": 124,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -2909,7 +2934,8 @@
                 "name": "Swiss Franc",
                 "code": "CHF",
                 "numeric": 756,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "CHF"
             }
         },
         "phone": {
@@ -2952,7 +2978,8 @@
                 "name": "Chilean Peso",
                 "code": "CLP",
                 "numeric": 152,
-                "minor_unit": 0
+                "minor_unit": 0,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -2996,7 +3023,8 @@
                 "name": "Yuan Renminbi",
                 "code": "CNY",
                 "numeric": 156,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "¥"
             }
         },
         "phone": {
@@ -3239,7 +3267,8 @@
                 "name": "New Zealand Dollar",
                 "code": "NZD",
                 "numeric": 554,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -3283,7 +3312,8 @@
                 "name": "Colombian Peso",
                 "code": "COP",
                 "numeric": 170,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -3418,7 +3448,8 @@
                 "name": "Costa Rican Colon",
                 "code": "CRC",
                 "numeric": 188,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₡"
             }
         },
         "phone": {
@@ -3470,7 +3501,8 @@
                 "name": "Cuban Peso",
                 "code": "CUP",
                 "numeric": 192,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₱"
             }
         },
         "phone": {
@@ -3513,7 +3545,8 @@
                 "name": "Cayman Islands Dollar",
                 "code": "KYD",
                 "numeric": 136,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -3554,7 +3587,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -3597,7 +3631,8 @@
                 "name": "Czech Koruna",
                 "code": "CZK",
                 "numeric": 203,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "Kč"
             }
         },
         "phone": {
@@ -3643,7 +3678,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -3779,7 +3815,8 @@
                 "name": "Danish Krone",
                 "code": "DKK",
                 "numeric": 208,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "kr"
             }
         },
         "phone": {
@@ -3874,7 +3911,8 @@
                 "name": "Dominican Peso",
                 "code": "DOP",
                 "numeric": 214,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "RD$"
             }
         },
         "phone": {
@@ -3972,7 +4010,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -4016,7 +4055,8 @@
                 "name": "Egyptian Pound",
                 "code": "EGP",
                 "numeric": 818,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "£"
             }
         },
         "phone": {
@@ -4108,7 +4148,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -4155,7 +4196,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -4241,7 +4283,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -4287,7 +4330,8 @@
                 "name": "Fiji Dollar",
                 "code": "FJD",
                 "numeric": 242,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -4333,7 +4377,8 @@
                 "name": "Falkland Islands Pound",
                 "code": "FKP",
                 "numeric": 238,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "£"
             }
         },
         "phone": {
@@ -4377,7 +4422,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -4434,7 +4480,8 @@
                 "name": "Danish Krone",
                 "code": "DKK",
                 "numeric": 208,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "kr"
             }
         },
         "phone": {
@@ -4471,7 +4518,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -4560,7 +4608,8 @@
                 "name": "Pound Sterling",
                 "code": "GBP",
                 "numeric": 826,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "£"
             }
         },
         "phone": {
@@ -4611,7 +4660,8 @@
                 "name": "Lari",
                 "code": "GEL",
                 "numeric": 981,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₾"
             }
         },
         "phone": {
@@ -4701,7 +4751,8 @@
                 "name": "Gibraltar Pound",
                 "code": "GIP",
                 "numeric": 292,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "£"
             }
         },
         "phone": {
@@ -4785,7 +4836,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -4965,7 +5017,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -5051,7 +5104,8 @@
                 "name": "Danish Krone",
                 "code": "DKK",
                 "numeric": 208,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "kr"
             }
         },
         "phone": {
@@ -5095,7 +5149,8 @@
                 "name": "Quetzal",
                 "code": "GTQ",
                 "numeric": 320,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "Q"
             }
         },
         "phone": {
@@ -5144,7 +5199,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -5185,7 +5241,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -5226,7 +5283,8 @@
                 "name": "Guyana Dollar",
                 "code": "GYD",
                 "numeric": 328,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -5269,7 +5327,8 @@
                 "name": "Hong Kong Dollar",
                 "code": "HKD",
                 "numeric": 344,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -5318,7 +5377,8 @@
                 "name": "Lempira",
                 "code": "HNL",
                 "numeric": 340,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "L"
             }
         },
         "phone": {
@@ -5370,7 +5430,8 @@
                 "name": "Croatian Kuna",
                 "code": "HRK",
                 "numeric": 191,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "kn"
             }
         },
         "phone": {
@@ -5414,7 +5475,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -5460,7 +5522,8 @@
                 "name": "Forint",
                 "code": "HUF",
                 "numeric": 348,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "Ft"
             }
         },
         "phone": {
@@ -5512,7 +5575,8 @@
                 "name": "Rupiah",
                 "code": "IDR",
                 "numeric": 360,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "Rp"
             }
         },
         "phone": {
@@ -5559,7 +5623,8 @@
                 "name": "Indian Rupee",
                 "code": "INR",
                 "numeric": 356,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₹"
             }
         },
         "phone": {
@@ -5608,7 +5673,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -5672,7 +5738,8 @@
                 "name": "Iranian Rial",
                 "code": "IRR",
                 "numeric": 364,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "﷼"
             }
         },
         "phone": {
@@ -5758,7 +5825,8 @@
                 "name": "Iceland Krona",
                 "code": "ISK",
                 "numeric": 352,
-                "minor_unit": 0
+                "minor_unit": 0,
+                "symbol": "kr"
             }
         },
         "phone": {
@@ -5807,7 +5875,8 @@
                 "name": "New Israeli Sheqel",
                 "code": "ILS",
                 "numeric": 376,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₪"
             }
         },
         "phone": {
@@ -5850,7 +5919,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -5893,7 +5963,8 @@
                 "name": "Jamaican Dollar",
                 "code": "JMD",
                 "numeric": 388,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "J$"
             }
         },
         "phone": {
@@ -5979,7 +6050,8 @@
                 "name": "Yen",
                 "code": "JPY",
                 "numeric": 392,
-                "minor_unit": 0
+                "minor_unit": 0,
+                "symbol": "¥"
             }
         },
         "phone": {
@@ -6028,7 +6100,8 @@
                 "name": "Tenge",
                 "code": "KZT",
                 "numeric": 398,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "лв"
             }
         },
         "phone": {
@@ -6118,7 +6191,8 @@
                 "name": "Som",
                 "code": "KGS",
                 "numeric": 417,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "лв"
             }
         },
         "phone": {
@@ -6164,7 +6238,8 @@
                 "name": "Riel",
                 "code": "KHR",
                 "numeric": 116,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "៛"
             }
         },
         "phone": {
@@ -6220,7 +6295,8 @@
                 "name": "Australian Dollar",
                 "code": "AUD",
                 "numeric": 36,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -6311,7 +6387,8 @@
                 "name": "Won",
                 "code": "KRW",
                 "numeric": 410,
-                "minor_unit": 0
+                "minor_unit": 0,
+                "symbol": "₩"
             }
         },
         "phone": {
@@ -6404,7 +6481,8 @@
                 "name": "Kip",
                 "code": "LAK",
                 "numeric": 418,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₭"
             }
         },
         "phone": {
@@ -6447,7 +6525,8 @@
                 "name": "Lebanese Pound",
                 "code": "LBP",
                 "numeric": 422,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "£"
             }
         },
         "phone": {
@@ -6494,7 +6573,8 @@
                 "name": "Liberian Dollar",
                 "code": "LRD",
                 "numeric": 430,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -6633,7 +6713,8 @@
                 "name": "Swiss Franc",
                 "code": "CHF",
                 "numeric": 756,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "CHF"
             }
         },
         "phone": {
@@ -6676,7 +6757,8 @@
                 "name": "Sri Lanka Rupee",
                 "code": "LKR",
                 "numeric": 144,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₨"
             }
         },
         "phone": {
@@ -6719,7 +6801,8 @@
                 "name": "Rand",
                 "code": "ZAR",
                 "numeric": 710,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "R"
             }
         },
         "phone": {
@@ -6765,7 +6848,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -6808,7 +6892,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -6851,7 +6936,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -6980,7 +7066,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -7162,7 +7249,8 @@
                 "name": "Mexican Peso",
                 "code": "MXN",
                 "numeric": 484,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -7204,7 +7292,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -7243,7 +7332,8 @@
                 "name": "Denar",
                 "code": "MKD",
                 "numeric": 807,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "ден"
             }
         },
         "phone": {
@@ -7332,7 +7422,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -7421,7 +7512,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -7464,7 +7556,8 @@
                 "name": "Tugrik",
                 "code": "MNT",
                 "numeric": 496,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₮"
             }
         },
         "phone": {
@@ -7514,7 +7607,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -7555,7 +7649,8 @@
                 "name": "Mozambique Metical",
                 "code": "MZN",
                 "numeric": 943,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "MT"
             }
         },
         "phone": {
@@ -7678,7 +7773,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -7719,7 +7815,8 @@
                 "name": "Mauritius Rupee",
                 "code": "MUR",
                 "numeric": 480,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₨"
             }
         },
         "phone": {
@@ -7807,7 +7904,8 @@
                 "name": "Malaysian Ringgit",
                 "code": "MYR",
                 "numeric": 458,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "RM"
             }
         },
         "phone": {
@@ -7851,7 +7949,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -7892,7 +7991,8 @@
                 "name": "Rand",
                 "code": "ZAR",
                 "numeric": 710,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "R"
             }
         },
         "phone": {
@@ -8024,7 +8124,8 @@
                 "name": "Australian Dollar",
                 "code": "AUD",
                 "numeric": 36,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -8068,7 +8169,8 @@
                 "name": "Naira",
                 "code": "NGN",
                 "numeric": 566,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₦"
             }
         },
         "phone": {
@@ -8117,7 +8219,8 @@
                 "name": "Cordoba Oro",
                 "code": "NIO",
                 "numeric": 558,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "C$"
             }
         },
         "phone": {
@@ -8160,7 +8263,8 @@
                 "name": "New Zealand Dollar",
                 "code": "NZD",
                 "numeric": 554,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -8197,7 +8301,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -8238,7 +8343,8 @@
                 "name": "Norwegian Krone",
                 "code": "NOK",
                 "numeric": 578,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "kr"
             }
         },
         "phone": {
@@ -8284,7 +8390,8 @@
                 "name": "Nepalese Rupee",
                 "code": "NPR",
                 "numeric": 524,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₨"
             }
         },
         "phone": {
@@ -8330,7 +8437,8 @@
                 "name": "Australian Dollar",
                 "code": "AUD",
                 "numeric": 36,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -8373,7 +8481,8 @@
                 "name": "New Zealand Dollar",
                 "code": "NZD",
                 "numeric": 554,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -8422,7 +8531,8 @@
                 "name": "Rial Omani",
                 "code": "OMR",
                 "numeric": 512,
-                "minor_unit": 3
+                "minor_unit": 3,
+                "symbol": "﷼"
             }
         },
         "phone": {
@@ -8465,7 +8575,8 @@
                 "name": "Pakistan Rupee",
                 "code": "PKR",
                 "numeric": 586,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₨"
             }
         },
         "phone": {
@@ -8508,7 +8619,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -8554,7 +8666,8 @@
                 "name": "Nuevo Sol",
                 "code": "PEN",
                 "numeric": 604,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "S/."
             }
         },
         "phone": {
@@ -8597,7 +8710,8 @@
                 "name": "Philippine Peso",
                 "code": "PHP",
                 "numeric": 608,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₱"
             }
         },
         "phone": {
@@ -8640,7 +8754,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -8722,7 +8837,8 @@
                 "name": "Zloty",
                 "code": "PLN",
                 "numeric": 985,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "zł"
             }
         },
         "phone": {
@@ -8774,7 +8890,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -8818,7 +8935,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -8862,7 +8980,8 @@
                 "name": "Guarani",
                 "code": "PYG",
                 "numeric": 600,
-                "minor_unit": 0
+                "minor_unit": 0,
+                "symbol": "Gs"
             }
         },
         "phone": {
@@ -8983,7 +9102,8 @@
                 "name": "Qatari Rial",
                 "code": "QAR",
                 "numeric": 634,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "﷼"
             }
         },
         "phone": {
@@ -9035,7 +9155,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -9079,7 +9200,8 @@
                 "name": "New Romanian Leu",
                 "code": "RON",
                 "numeric": 946,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "lei"
             }
         },
         "phone": {
@@ -9122,7 +9244,8 @@
                 "name": "Russian Ruble",
                 "code": "RUB",
                 "numeric": 643,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₽"
             }
         },
         "phone": {
@@ -9216,7 +9339,8 @@
                 "name": "Saudi Riyal",
                 "code": "SAR",
                 "numeric": 682,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "﷼"
             }
         },
         "phone": {
@@ -9345,7 +9469,8 @@
                 "name": "Singapore Dollar",
                 "code": "SGD",
                 "numeric": 702,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -9391,7 +9516,8 @@
                 "name": "Saint Helena Pound",
                 "code": "SHP",
                 "numeric": 654,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "£"
             }
         },
         "phone": {
@@ -9428,7 +9554,8 @@
                 "name": "Norwegian Krone",
                 "code": "NOK",
                 "numeric": 578,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "kr"
             }
         },
         "phone": {
@@ -9465,7 +9592,8 @@
                 "name": "Solomon Islands Dollar",
                 "code": "SBD",
                 "numeric": 90,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -9593,7 +9721,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -9636,7 +9765,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -9682,7 +9812,8 @@
                 "name": "Somali Shilling",
                 "code": "SOS",
                 "numeric": 706,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "S"
             }
         },
         "phone": {
@@ -9725,7 +9856,8 @@
                 "name": "Netherlands Antillean Guilder",
                 "code": "ANG",
                 "numeric": 532,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "ƒ"
             }
         },
         "phone": {
@@ -9766,7 +9898,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -9807,7 +9940,8 @@
                 "name": "Serbian Dinar",
                 "code": "RSD",
                 "numeric": 941,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "Дин."
             }
         },
         "phone": {
@@ -9897,7 +10031,8 @@
                 "name": "Surinam Dollar",
                 "code": "SRD",
                 "numeric": 968,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -9946,7 +10081,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -9989,7 +10125,8 @@
                 "name": "Euro",
                 "code": "EUR",
                 "numeric": 978,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "€"
             }
         },
         "phone": {
@@ -10044,7 +10181,8 @@
                 "name": "Swedish Krona",
                 "code": "SEK",
                 "numeric": 752,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "kr"
             }
         },
         "phone": {
@@ -10087,7 +10225,8 @@
                 "name": "Seychelles Rupee",
                 "code": "SCR",
                 "numeric": 690,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₨"
             }
         },
         "phone": {
@@ -10130,7 +10269,8 @@
                 "name": "Syrian Pound",
                 "code": "SYP",
                 "numeric": 760,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "£"
             }
         },
         "phone": {
@@ -10173,7 +10313,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -10312,7 +10453,8 @@
                 "name": "Baht",
                 "code": "THB",
                 "numeric": 764,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "฿"
             }
         },
         "phone": {
@@ -10401,7 +10543,8 @@
                 "name": "New Zealand Dollar",
                 "code": "NZD",
                 "numeric": 554,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -10481,7 +10624,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -10563,7 +10707,8 @@
                 "name": "Trinidad and Tobago Dollar",
                 "code": "TTD",
                 "numeric": 780,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "TT$"
             }
         },
         "phone": {
@@ -10695,7 +10840,8 @@
                 "name": "Australian Dollar",
                 "code": "AUD",
                 "numeric": 36,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -10734,7 +10880,8 @@
                 "name": "New Taiwan Dollar",
                 "code": "TWD",
                 "numeric": 901,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "NT$"
             }
         },
         "phone": {
@@ -10863,7 +11010,8 @@
                 "name": "Hryvnia",
                 "code": "UAH",
                 "numeric": 980,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "₴"
             }
         },
         "phone": {
@@ -10924,7 +11072,8 @@
                 "name": "Peso Uruguayo",
                 "code": "UYU",
                 "numeric": 858,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$U"
             }
         },
         "phone": {
@@ -10967,7 +11116,8 @@
                 "name": "Uzbekistan Sum",
                 "code": "UZS",
                 "numeric": 860,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "лв"
             }
         },
         "phone": {
@@ -11053,7 +11203,8 @@
                 "name": "Bolivar",
                 "code": "VEF",
                 "numeric": 937,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "Bs"
             }
         },
         "phone": {
@@ -11096,7 +11247,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -11132,7 +11284,8 @@
                 "name": "US Dollar",
                 "code": "USD",
                 "numeric": 840,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "$"
             }
         },
         "phone": {
@@ -11173,7 +11326,8 @@
                 "name": "Dong",
                 "code": "VND",
                 "numeric": 704,
-                "minor_unit": 0
+                "minor_unit": 0,
+                "symbol": "₫"
             }
         },
         "phone": {
@@ -11346,7 +11500,8 @@
                 "name": "Yemeni Rial",
                 "code": "YER",
                 "numeric": 886,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "﷼"
             }
         },
         "phone": {
@@ -11389,7 +11544,8 @@
                 "name": "Rand",
                 "code": "ZAR",
                 "numeric": 710,
-                "minor_unit": 2
+                "minor_unit": 2,
+                "symbol": "R"
             }
         },
         "phone": {
