@@ -1,22 +1,34 @@
 'use strict';
 
-const data = require( './countrydata.json' );
+const countries = require( './data/countries.json' );
+const currencies = require( './data/currencies.json' );
+
+Object.values( countries ).forEach( ( country ) => {
+	country.currencies = country.currencies.map( ( currency_id ) => ( currencies[ currency_id ] ) );
+} );
 
 module.exports = {
-    all: data,
+	get: function( id ) {
+		if ( typeof id === 'string' ) {
+			if ( id.length === 3 ) {
+				return countries[ id ];
+			}
+			else if ( id.length === 2 ) {
+				return this.all().find( ( country ) => ( country.iso3166.alpha2 === id ) );
+			}
+			else {
+				return undefined;
+			}
+		}
+		else if ( typeof id === 'number' ) {
+			return this.all().find( ( country ) => ( country.iso3166.numeric === id ) );
+		}
+		else {
+			return undefined;
+		}
+	},
 
-    alpha3: data.reduce( ( prev, country ) => {
-        prev[ country.iso3166.alpha3 ] = country;
-        return prev;
-    }, {} ),
-
-    alpha2: data.reduce( ( prev, country ) => {
-        prev[ country.iso3166.alpha2 ] = country;
-        return prev;
-    }, {} ),
-
-    numeric: data.reduce( ( prev, country ) => {
-        prev[ country.iso3166.numeric ] = country;
-        return prev;
-    }, {} )
+	all: function() {
+		return Object.values( countries );
+	}
 };
