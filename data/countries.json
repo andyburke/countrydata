@@ -1,0 +1,10831 @@
+{
+	"ABW": {
+		"area": 180,
+		"currencies": [
+			"AWG"
+		],
+		"iso3166": {
+			"alpha2": "AW",
+			"alpha3": "ABW",
+			"independent": false,
+			"name": "Aruba",
+			"numeric": 533
+		},
+		"latitude": 12.5,
+		"longitude": -69.96666666,
+		"name": {
+			"de": "Aruba",
+			"en": "Aruba",
+			"es": "Aruba",
+			"fr": "Aruba",
+			"it": "Aruba",
+			"ja": "アルバ"
+		},
+		"phone": {
+			"code": "297",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 107394,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": null
+	},
+	"AFG": {
+		"area": 652230,
+		"currencies": [
+			"AFN"
+		],
+		"iso3166": {
+			"alpha2": "AF",
+			"alpha3": "AFG",
+			"independent": true,
+			"name": "Afghanistan",
+			"numeric": 4
+		},
+		"latitude": 33,
+		"longitude": 65,
+		"name": {
+			"de": "Afghanistan",
+			"en": "Afghanistan",
+			"es": "Afganistán",
+			"fr": "Afghanistan",
+			"it": "Afghanistan",
+			"ja": "アフガニスタン"
+		},
+		"phone": {
+			"code": "93",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 26023100,
+		"region": "Asia",
+		"subregion": "Southern Asia",
+		"timezones": [
+			"UTC+04:30"
+		]
+	},
+	"AGO": {
+		"area": 1246700,
+		"currencies": [
+			"AOA"
+		],
+		"iso3166": {
+			"alpha2": "AO",
+			"alpha3": "AGO",
+			"independent": true,
+			"name": "Angola",
+			"numeric": 24
+		},
+		"latitude": -12.5,
+		"longitude": 18.5,
+		"name": {
+			"de": "Angola",
+			"en": "Angola",
+			"es": "Angola",
+			"fr": "Angola",
+			"it": "Angola",
+			"ja": "アンゴラ"
+		},
+		"phone": {
+			"code": "244",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 24383301,
+		"region": "Africa",
+		"subregion": "Middle Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"AIA": {
+		"area": 91,
+		"currencies": [
+			"XCD"
+		],
+		"iso3166": {
+			"alpha2": "AI",
+			"alpha3": "AIA",
+			"independent": false,
+			"name": "Anguilla",
+			"numeric": 660
+		},
+		"latitude": 18.25,
+		"longitude": -63.16666666,
+		"name": {
+			"de": "Anguilla",
+			"en": "Anguilla",
+			"es": "Anguilla",
+			"fr": "Anguilla",
+			"it": "Anguilla",
+			"ja": "アンギラ"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"2645": {
+					"type": "mobile"
+				},
+				"2647": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 13452,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": null
+	},
+	"ALA": {
+		"area": 1580,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "AX",
+			"alpha3": "ALA",
+			"independent": false,
+			"name": "Åland Islands",
+			"numeric": 248
+		},
+		"latitude": 60.116667,
+		"longitude": 19.9,
+		"name": {
+			"de": "Åland",
+			"en": "Åland Islands",
+			"es": "Alandia",
+			"fr": "Åland",
+			"it": "Isole Aland",
+			"ja": "オーランド諸島"
+		},
+		"phone": {
+			"code": "358",
+			"lengths": [
+				6,
+				7,
+				8
+			],
+			"prefixes": {
+				"18": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 28875,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": null
+	},
+	"ALB": {
+		"area": 28748,
+		"currencies": [
+			"ALL"
+		],
+		"iso3166": {
+			"alpha2": "AL",
+			"alpha3": "ALB",
+			"independent": true,
+			"name": "Albania",
+			"numeric": 8
+		},
+		"latitude": 41,
+		"longitude": 20,
+		"name": {
+			"de": "Albanien",
+			"en": "Albania",
+			"es": "Albania",
+			"fr": "Albanie",
+			"it": "Albania",
+			"ja": "アルバニア"
+		},
+		"phone": {
+			"code": "355",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 2893005,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"AND": {
+		"area": 468,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "AD",
+			"alpha3": "AND",
+			"independent": true,
+			"name": "Andorra",
+			"numeric": 20
+		},
+		"latitude": 42.5,
+		"longitude": 1.5,
+		"name": {
+			"de": "Andorra",
+			"en": "Andorra",
+			"es": "Andorra",
+			"fr": "Andorre",
+			"it": "Andorra",
+			"ja": "アンドラ"
+		},
+		"phone": {
+			"code": "376",
+			"lengths": [
+				6
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				},
+				"4": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 76949,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"ARE": {
+		"area": 83600,
+		"currencies": [
+			"AED"
+		],
+		"iso3166": {
+			"alpha2": "AE",
+			"alpha3": "ARE",
+			"independent": true,
+			"name": "United Arab Emirates",
+			"numeric": 784
+		},
+		"latitude": 24,
+		"longitude": 54,
+		"name": {
+			"de": "Vereinigte Arabische Emirate",
+			"en": "United Arab Emirates",
+			"es": "Emiratos Árabes Unidos",
+			"fr": "Émirats arabes unis",
+			"it": "Emirati Arabi Uniti",
+			"ja": "アラブ首長国連邦"
+		},
+		"phone": {
+			"code": "971",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 9157000,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+04"
+		]
+	},
+	"ARG": {
+		"area": 2780400,
+		"currencies": [
+			"ARS"
+		],
+		"iso3166": {
+			"alpha2": "AR",
+			"alpha3": "ARG",
+			"independent": true,
+			"name": "Argentina",
+			"numeric": 32
+		},
+		"latitude": -34,
+		"longitude": -64,
+		"name": {
+			"de": "Argentinien",
+			"en": "Argentina",
+			"es": "Argentina",
+			"fr": "Argentine",
+			"it": "Argentina",
+			"ja": "アルゼンチン"
+		},
+		"phone": {
+			"code": "54",
+			"lengths": [
+				6,
+				7,
+				8,
+				9
+			],
+			"prefixes": {}
+		},
+		"population": 43131966,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−03:00"
+		]
+	},
+	"ARM": {
+		"area": 29743,
+		"currencies": [
+			"AMD"
+		],
+		"iso3166": {
+			"alpha2": "AM",
+			"alpha3": "ARM",
+			"independent": true,
+			"name": "Armenia",
+			"numeric": 51
+		},
+		"latitude": 40,
+		"longitude": 45,
+		"name": {
+			"de": "Armenien",
+			"en": "Armenia",
+			"es": "Armenia",
+			"fr": "Arménie",
+			"it": "Armenia",
+			"ja": "アルメニア"
+		},
+		"phone": {
+			"code": "374",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"4": {
+					"type": "mobile"
+				},
+				"5": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 3006800,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+04:00"
+		]
+	},
+	"ASM": {
+		"area": 199,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "AS",
+			"alpha3": "ASM",
+			"independent": false,
+			"name": "American Samoa",
+			"numeric": 16
+		},
+		"latitude": -14.33333333,
+		"longitude": -170,
+		"name": {
+			"de": "Amerikanisch-Samoa",
+			"en": "American Samoa",
+			"es": "Samoa Americana",
+			"fr": "Samoa américaines",
+			"it": "Samoa Americane",
+			"ja": "アメリカ領サモア"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"684258": {
+					"type": "mobile"
+				},
+				"684733": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 55519,
+		"region": "Oceania",
+		"subregion": "Polynesia",
+		"timezones": null
+	},
+	"ATG": {
+		"area": 442,
+		"currencies": [
+			"XCD"
+		],
+		"iso3166": {
+			"alpha2": "AG",
+			"alpha3": "ATG",
+			"independent": true,
+			"name": "Antigua and Barbuda",
+			"numeric": 28
+		},
+		"latitude": 17.05,
+		"longitude": -61.8,
+		"name": {
+			"de": "Antigua und Barbuda",
+			"en": "Antigua and Barbuda",
+			"es": "Antigua y Barbuda",
+			"fr": "Antigua-et-Barbuda",
+			"it": "Antigua e Barbuda",
+			"ja": "アンティグア・バーブーダ"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"2687": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 86295,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"AUS": {
+		"area": 7692024,
+		"currencies": [
+			"AUD"
+		],
+		"iso3166": {
+			"alpha2": "AU",
+			"alpha3": "AUS",
+			"independent": true,
+			"name": "Australia",
+			"numeric": 36
+		},
+		"latitude": -27,
+		"longitude": 133,
+		"name": {
+			"de": "Australien",
+			"en": "Australia",
+			"es": "Australia",
+			"fr": "Australie",
+			"it": "Australia",
+			"ja": "オーストラリア"
+		},
+		"phone": {
+			"code": "61",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"4": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 23868800,
+		"region": "Oceania",
+		"subregion": "Australia and New Zealand",
+		"timezones": [
+			"UTC+05:00",
+			"UTC+06:30",
+			"UTC+07:00",
+			"UTC+08:00",
+			"UTC+09:30",
+			"UTC+10:00",
+			"UTC+10:30",
+			"UTC+11:30"
+		]
+	},
+	"AUT": {
+		"area": 83871,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "AT",
+			"alpha3": "AUT",
+			"independent": true,
+			"name": "Austria",
+			"numeric": 40
+		},
+		"latitude": 47.33333333,
+		"longitude": 13.33333333,
+		"name": {
+			"de": "Österreich",
+			"en": "Austria",
+			"es": "Austria",
+			"fr": "Autriche",
+			"it": "Austria",
+			"ja": "オーストリア"
+		},
+		"phone": {
+			"code": "43",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 8602112,
+		"region": "Europe",
+		"subregion": "Western Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"AZE": {
+		"area": 86600,
+		"currencies": [
+			"AZN"
+		],
+		"iso3166": {
+			"alpha2": "AZ",
+			"alpha3": "AZE",
+			"independent": true,
+			"name": "Azerbaijan",
+			"numeric": 31
+		},
+		"latitude": 40.5,
+		"longitude": 47.5,
+		"name": {
+			"de": "Aserbaidschan",
+			"en": "Azerbaijan",
+			"es": "Azerbaiyán",
+			"fr": "Azerbaïdjan",
+			"it": "Azerbaijan",
+			"ja": "アゼルバイジャン"
+		},
+		"phone": {
+			"code": "994",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"4": {
+					"type": "mobile"
+				},
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 9636300,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+04:00"
+		]
+	},
+	"BDI": {
+		"area": 27834,
+		"currencies": [
+			"BIF"
+		],
+		"iso3166": {
+			"alpha2": "BI",
+			"alpha3": "BDI",
+			"independent": true,
+			"name": "Burundi",
+			"numeric": 108
+		},
+		"latitude": -3.5,
+		"longitude": 30,
+		"name": {
+			"de": "Burundi",
+			"en": "Burundi",
+			"es": "Burundi",
+			"fr": "Burundi",
+			"it": "Burundi",
+			"ja": "ブルンジ"
+		},
+		"phone": {
+			"code": "257",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				},
+				"29": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 9823827,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"BEL": {
+		"area": 30528,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "BE",
+			"alpha3": "BEL",
+			"independent": true,
+			"name": "Belgium",
+			"numeric": 56
+		},
+		"latitude": 50.83333333,
+		"longitude": 4,
+		"name": {
+			"de": "Belgien",
+			"en": "Belgium",
+			"es": "Bélgica",
+			"fr": "Belgique",
+			"it": "Belgio",
+			"ja": "ベルギー"
+		},
+		"phone": {
+			"code": "32",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"4": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 11248330,
+		"region": "Europe",
+		"subregion": "Western Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"BEN": {
+		"area": 112622,
+		"currencies": [
+			"XOF"
+		],
+		"iso3166": {
+			"alpha2": "BJ",
+			"alpha3": "BEN",
+			"independent": true,
+			"name": "Benin",
+			"numeric": 204
+		},
+		"latitude": 9.5,
+		"longitude": 2.25,
+		"name": {
+			"de": "Benin",
+			"en": "Benin",
+			"es": "Benín",
+			"fr": "Bénin",
+			"it": "Benin",
+			"ja": "ベナン"
+		},
+		"phone": {
+			"code": "229",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 10315244,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"BFA": {
+		"area": 272967,
+		"currencies": [
+			"XOF"
+		],
+		"iso3166": {
+			"alpha2": "BF",
+			"alpha3": "BFA",
+			"independent": true,
+			"name": "Burkina Faso",
+			"numeric": 854
+		},
+		"latitude": 13,
+		"longitude": -2,
+		"name": {
+			"de": "Burkina Faso",
+			"en": "Burkina Faso",
+			"es": "Burkina Faso",
+			"fr": "Burkina Faso",
+			"it": "Burkina Faso",
+			"ja": "ブルキナファソ"
+		},
+		"phone": {
+			"code": "226",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 18450494,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"BGD": {
+		"area": 147570,
+		"currencies": [
+			"BDT"
+		],
+		"iso3166": {
+			"alpha2": "BD",
+			"alpha3": "BGD",
+			"independent": true,
+			"name": "Bangladesh",
+			"numeric": 50
+		},
+		"latitude": 24,
+		"longitude": 90,
+		"name": {
+			"de": "Bangladesch",
+			"en": "Bangladesh",
+			"es": "Bangladesh",
+			"fr": "Bangladesh",
+			"it": "Bangladesh",
+			"ja": "バングラデシュ"
+		},
+		"phone": {
+			"code": "880",
+			"lengths": [
+				8,
+				9,
+				10
+			],
+			"prefixes": {
+				"1": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 158875000,
+		"region": "Asia",
+		"subregion": "Southern Asia",
+		"timezones": [
+			"UTC+06:00"
+		]
+	},
+	"BGR": {
+		"area": 110879,
+		"currencies": [
+			"BGN"
+		],
+		"iso3166": {
+			"alpha2": "BG",
+			"alpha3": "BGR",
+			"independent": true,
+			"name": "Bulgaria",
+			"numeric": 100
+		},
+		"latitude": 43,
+		"longitude": 25,
+		"name": {
+			"de": "Bulgarien",
+			"en": "Bulgaria",
+			"es": "Bulgaria",
+			"fr": "Bulgarie",
+			"it": "Bulgaria",
+			"ja": "ブルガリア"
+		},
+		"phone": {
+			"code": "359",
+			"lengths": [
+				8,
+				9
+			],
+			"prefixes": {
+				"43": {
+					"type": "mobile"
+				},
+				"87": {
+					"type": "mobile"
+				},
+				"88": {
+					"type": "mobile"
+				},
+				"89": {
+					"type": "mobile"
+				},
+				"98": {
+					"type": "mobile"
+				},
+				"99": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 7202198,
+		"region": "Europe",
+		"subregion": "Eastern Europe",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"BHR": {
+		"area": 765,
+		"currencies": [
+			"BHD"
+		],
+		"iso3166": {
+			"alpha2": "BH",
+			"alpha3": "BHR",
+			"independent": true,
+			"name": "Bahrain",
+			"numeric": 48
+		},
+		"latitude": 26,
+		"longitude": 50.55,
+		"name": {
+			"de": "Bahrain",
+			"en": "Bahrain",
+			"es": "Bahrein",
+			"fr": "Bahreïn",
+			"it": "Bahrein",
+			"ja": "バーレーン"
+		},
+		"phone": {
+			"code": "973",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 1359800,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"BHS": {
+		"area": 13943,
+		"currencies": [
+			"BSD"
+		],
+		"iso3166": {
+			"alpha2": "BS",
+			"alpha3": "BHS",
+			"independent": true,
+			"name": "Bahamas",
+			"numeric": 44
+		},
+		"latitude": 24.25,
+		"longitude": -76,
+		"name": {
+			"de": "Bahamas",
+			"en": "The Bahamas",
+			"es": "Bahamas",
+			"fr": "Bahamas",
+			"it": "Bahamas",
+			"ja": "バハマ"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"242": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 368390,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−05:00"
+		]
+	},
+	"BIH": {
+		"area": 51209,
+		"currencies": [
+			"BAM"
+		],
+		"iso3166": {
+			"alpha2": "BA",
+			"alpha3": "BIH",
+			"independent": true,
+			"name": "Bosnia and Herzegovina",
+			"numeric": 70
+		},
+		"latitude": 44,
+		"longitude": 18,
+		"name": {
+			"de": "Bosnien und Herzegowina",
+			"en": "Bosnia and Herzegovina",
+			"es": "Bosnia y Herzegovina",
+			"fr": "Bosnie-Herzégovine",
+			"it": "Bosnia ed Erzegovina",
+			"ja": "ボスニア・ヘルツェゴビナ"
+		},
+		"phone": {
+			"code": "387",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 3791622,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"BLR": {
+		"area": 207600,
+		"currencies": [
+			"BYR"
+		],
+		"iso3166": {
+			"alpha2": "BY",
+			"alpha3": "BLR",
+			"independent": true,
+			"name": "Belarus",
+			"numeric": 112
+		},
+		"latitude": 53,
+		"longitude": 28,
+		"name": {
+			"de": "Weißrussland",
+			"en": "Belarus",
+			"es": "Bielorrusia",
+			"fr": "Biélorussie",
+			"it": "Bielorussia",
+			"ja": "ベラルーシ"
+		},
+		"phone": {
+			"code": "375",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"25": {
+					"type": "mobile"
+				},
+				"29": {
+					"type": "mobile"
+				},
+				"33": {
+					"type": "mobile"
+				},
+				"44": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 9485300,
+		"region": "Europe",
+		"subregion": "Eastern Europe",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"BLZ": {
+		"area": 22966,
+		"currencies": [
+			"BZD"
+		],
+		"iso3166": {
+			"alpha2": "BZ",
+			"alpha3": "BLZ",
+			"independent": true,
+			"name": "Belize",
+			"numeric": 84
+		},
+		"latitude": 17.25,
+		"longitude": -88.75,
+		"name": {
+			"de": "Belize",
+			"en": "Belize",
+			"es": "Belice",
+			"fr": "Belize",
+			"it": "Belize",
+			"ja": "ベリーズ"
+		},
+		"phone": {
+			"code": "501",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 368310,
+		"region": "Americas",
+		"subregion": "Central America",
+		"timezones": [
+			"UTC−06:00"
+		]
+	},
+	"BMU": {
+		"area": 54,
+		"currencies": [
+			"BMD"
+		],
+		"iso3166": {
+			"alpha2": "BM",
+			"alpha3": "BMU",
+			"independent": false,
+			"name": "Bermuda",
+			"numeric": 60
+		},
+		"latitude": 32.33333333,
+		"longitude": -64.75,
+		"name": {
+			"de": "Bermuda",
+			"en": "Bermuda",
+			"es": "Bermudas",
+			"fr": "Bermudes",
+			"it": "Bermuda",
+			"ja": "バミューダ"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"4413": {
+					"type": "mobile"
+				},
+				"4415": {
+					"type": "mobile"
+				},
+				"4417": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 64237,
+		"region": "Americas",
+		"subregion": "Northern America",
+		"timezones": null
+	},
+	"BOL": {
+		"area": 1098581,
+		"currencies": [
+			"BOB"
+		],
+		"iso3166": {
+			"alpha2": "BO",
+			"alpha3": "BOL",
+			"independent": true,
+			"name": "Bolivia, Plurinational State of",
+			"numeric": 68
+		},
+		"latitude": -17,
+		"longitude": -65,
+		"name": {
+			"de": "Bolivien",
+			"en": "Bolivia",
+			"es": "Bolivia",
+			"fr": "Bolivie",
+			"it": "Bolivia",
+			"ja": "ボリビア多民族国"
+		},
+		"phone": {
+			"code": "591",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 11410651,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"BRA": {
+		"area": 8515767,
+		"currencies": [
+			"BRL"
+		],
+		"iso3166": {
+			"alpha2": "BR",
+			"alpha3": "BRA",
+			"independent": true,
+			"name": "Brazil",
+			"numeric": 76
+		},
+		"latitude": -10,
+		"longitude": -55,
+		"name": {
+			"de": "Brasilien",
+			"en": "Brazil",
+			"es": "Brasil",
+			"fr": "Brésil",
+			"it": "Brasile",
+			"ja": "ブラジル"
+		},
+		"phone": {
+			"code": "55",
+			"lengths": [
+				10,
+				11
+			],
+			"prefixes": {
+				"31": {
+					"type": "mobile"
+				},
+				"32": {
+					"type": "mobile"
+				},
+				"34": {
+					"type": "mobile"
+				},
+				"38": {
+					"type": "mobile"
+				},
+				"41": {
+					"type": "mobile"
+				},
+				"43": {
+					"type": "mobile"
+				},
+				"44": {
+					"type": "mobile"
+				},
+				"45": {
+					"type": "mobile"
+				},
+				"47": {
+					"type": "mobile"
+				},
+				"48": {
+					"type": "mobile"
+				},
+				"51": {
+					"type": "mobile"
+				},
+				"53": {
+					"type": "mobile"
+				},
+				"54": {
+					"type": "mobile"
+				},
+				"55": {
+					"type": "mobile"
+				},
+				"61": {
+					"type": "mobile"
+				},
+				"62": {
+					"type": "mobile"
+				},
+				"65": {
+					"type": "mobile"
+				},
+				"67": {
+					"type": "mobile"
+				},
+				"68": {
+					"type": "mobile"
+				},
+				"69": {
+					"type": "mobile"
+				},
+				"71": {
+					"type": "mobile"
+				},
+				"73": {
+					"type": "mobile"
+				},
+				"75": {
+					"type": "mobile"
+				},
+				"77": {
+					"type": "mobile"
+				},
+				"79": {
+					"type": "mobile"
+				},
+				"81": {
+					"type": "mobile"
+				},
+				"82": {
+					"type": "mobile"
+				},
+				"83": {
+					"type": "mobile"
+				},
+				"84": {
+					"type": "mobile"
+				},
+				"85": {
+					"type": "mobile"
+				},
+				"86": {
+					"type": "mobile"
+				},
+				"91": {
+					"type": "mobile"
+				},
+				"92": {
+					"type": "mobile"
+				},
+				"95": {
+					"type": "mobile"
+				},
+				"96": {
+					"type": "mobile"
+				},
+				"98": {
+					"type": "mobile"
+				},
+				"119": {
+					"type": "mobile"
+				},
+				"129": {
+					"type": "mobile"
+				},
+				"139": {
+					"type": "mobile"
+				},
+				"149": {
+					"type": "mobile"
+				},
+				"159": {
+					"type": "mobile"
+				},
+				"169": {
+					"type": "mobile"
+				},
+				"179": {
+					"type": "mobile"
+				},
+				"189": {
+					"type": "mobile"
+				},
+				"199": {
+					"type": "mobile"
+				},
+				"219": {
+					"type": "mobile"
+				},
+				"229": {
+					"type": "mobile"
+				},
+				"249": {
+					"type": "mobile"
+				},
+				"279": {
+					"type": "mobile"
+				},
+				"289": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 204772000,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−05:00",
+			"UTC−04:00",
+			"UTC−03:00",
+			"UTC−02:00"
+		]
+	},
+	"BRB": {
+		"area": 430,
+		"currencies": [
+			"BBD"
+		],
+		"iso3166": {
+			"alpha2": "BB",
+			"alpha3": "BRB",
+			"independent": true,
+			"name": "Barbados",
+			"numeric": 52
+		},
+		"latitude": 13.16666666,
+		"longitude": -59.53333333,
+		"name": {
+			"de": "Barbados",
+			"en": "Barbados",
+			"es": "Barbados",
+			"fr": "Barbade",
+			"it": "Barbados",
+			"ja": "バルバドス"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"246": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 285000,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"BRN": {
+		"area": 5765,
+		"currencies": [
+			"BND"
+		],
+		"iso3166": {
+			"alpha2": "BN",
+			"alpha3": "BRN",
+			"independent": true,
+			"name": "Brunei Darussalam",
+			"numeric": 96
+		},
+		"latitude": 4.5,
+		"longitude": 114.66666666,
+		"name": {
+			"de": "Brunei",
+			"en": "Brunei",
+			"es": "Brunei",
+			"fr": "Brunei",
+			"it": "Brunei",
+			"ja": "ブルネイ・ダルサラーム"
+		},
+		"phone": {
+			"code": "673",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 393372,
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"timezones": [
+			"UTC+08:00"
+		]
+	},
+	"BTN": {
+		"area": 38394,
+		"currencies": [
+			"INR"
+		],
+		"iso3166": {
+			"alpha2": "BT",
+			"alpha3": "BTN",
+			"independent": true,
+			"name": "Bhutan",
+			"numeric": 64
+		},
+		"latitude": 27.5,
+		"longitude": 90.5,
+		"name": {
+			"de": "Bhutan",
+			"en": "Bhutan",
+			"es": "Bután",
+			"fr": "Bhoutan",
+			"it": "Bhutan",
+			"ja": "ブータン"
+		},
+		"phone": {
+			"code": "975",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"17": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 763920,
+		"region": "Asia",
+		"subregion": "Southern Asia",
+		"timezones": [
+			"UTC+06:00"
+		]
+	},
+	"BWA": {
+		"area": 582000,
+		"currencies": [
+			"BWP"
+		],
+		"iso3166": {
+			"alpha2": "BW",
+			"alpha3": "BWA",
+			"independent": true,
+			"name": "Botswana",
+			"numeric": 72
+		},
+		"latitude": -22,
+		"longitude": 24,
+		"name": {
+			"de": "Botswana",
+			"en": "Botswana",
+			"es": "Botswana",
+			"fr": "Botswana",
+			"it": "Botswana",
+			"ja": "ボツワナ"
+		},
+		"phone": {
+			"code": "267",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"71": {
+					"type": "mobile"
+				},
+				"72": {
+					"type": "mobile"
+				},
+				"73": {
+					"type": "mobile"
+				},
+				"74": {
+					"type": "mobile"
+				},
+				"75": {
+					"type": "mobile"
+				},
+				"76": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 2070984,
+		"region": "Africa",
+		"subregion": "Southern Africa",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"CAF": {
+		"area": 622984,
+		"currencies": [
+			"XAF"
+		],
+		"iso3166": {
+			"alpha2": "CF",
+			"alpha3": "CAF",
+			"independent": true,
+			"name": "Central African Republic",
+			"numeric": 140
+		},
+		"latitude": 7,
+		"longitude": 21,
+		"name": {
+			"de": "Zentralafrikanische Republik",
+			"en": "Central African Republic",
+			"es": "República Centroafricana",
+			"fr": "République centrafricaine",
+			"it": "Repubblica Centrafricana",
+			"ja": "中央アフリカ共和国"
+		},
+		"phone": {
+			"code": "236",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 4900000,
+		"region": "Africa",
+		"subregion": "Middle Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"CAN": {
+		"area": 9984670,
+		"currencies": [
+			"CAD"
+		],
+		"iso3166": {
+			"alpha2": "CA",
+			"alpha3": "CAN",
+			"independent": true,
+			"name": "Canada",
+			"numeric": 124
+		},
+		"latitude": 60,
+		"longitude": -95,
+		"name": {
+			"de": "Kanada",
+			"en": "Canada",
+			"es": "Canadá",
+			"fr": "Canada",
+			"it": "Canada",
+			"ja": "カナダ"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"204": {
+					"type": "mobile"
+				},
+				"226": {
+					"type": "mobile"
+				},
+				"236": {
+					"type": "mobile"
+				},
+				"249": {
+					"type": "mobile"
+				},
+				"250": {
+					"type": "mobile"
+				},
+				"289": {
+					"type": "mobile"
+				},
+				"306": {
+					"type": "mobile"
+				},
+				"343": {
+					"type": "mobile"
+				},
+				"365": {
+					"type": "mobile"
+				},
+				"403": {
+					"type": "mobile"
+				},
+				"416": {
+					"type": "mobile"
+				},
+				"418": {
+					"type": "mobile"
+				},
+				"431": {
+					"type": "mobile"
+				},
+				"437": {
+					"type": "mobile"
+				},
+				"438": {
+					"type": "mobile"
+				},
+				"450": {
+					"type": "mobile"
+				},
+				"506": {
+					"type": "mobile"
+				},
+				"514": {
+					"type": "mobile"
+				},
+				"519": {
+					"type": "mobile"
+				},
+				"579": {
+					"type": "mobile"
+				},
+				"581": {
+					"type": "mobile"
+				},
+				"587": {
+					"type": "mobile"
+				},
+				"600": {
+					"type": "mobile"
+				},
+				"604": {
+					"type": "mobile"
+				},
+				"613": {
+					"type": "mobile"
+				},
+				"639": {
+					"type": "mobile"
+				},
+				"647": {
+					"type": "mobile"
+				},
+				"705": {
+					"type": "mobile"
+				},
+				"709": {
+					"type": "mobile"
+				},
+				"778": {
+					"type": "mobile"
+				},
+				"780": {
+					"type": "mobile"
+				},
+				"807": {
+					"type": "mobile"
+				},
+				"819": {
+					"type": "mobile"
+				},
+				"867": {
+					"type": "mobile"
+				},
+				"873": {
+					"type": "mobile"
+				},
+				"902": {
+					"type": "mobile"
+				},
+				"905": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 35749600,
+		"region": "Americas",
+		"subregion": "Northern America",
+		"timezones": [
+			"UTC−08:00",
+			"UTC−07:00",
+			"UTC−06:00",
+			"UTC−05:00",
+			"UTC−04:00",
+			"UTC−03:30"
+		]
+	},
+	"CHE": {
+		"area": 41284,
+		"currencies": [
+			"CHF"
+		],
+		"iso3166": {
+			"alpha2": "CH",
+			"alpha3": "CHE",
+			"independent": true,
+			"name": "Switzerland",
+			"numeric": 756
+		},
+		"latitude": 47,
+		"longitude": 8,
+		"name": {
+			"de": "Schweiz",
+			"en": "Switzerland",
+			"es": "Suiza",
+			"fr": "Suisse",
+			"it": "Svizzera",
+			"ja": "スイス"
+		},
+		"phone": {
+			"code": "41",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 8256000,
+		"region": "Europe",
+		"subregion": "Western Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"CHL": {
+		"area": 756102,
+		"currencies": [
+			"CLP"
+		],
+		"iso3166": {
+			"alpha2": "CL",
+			"alpha3": "CHL",
+			"independent": true,
+			"name": "Chile",
+			"numeric": 152
+		},
+		"latitude": -30,
+		"longitude": -71,
+		"name": {
+			"de": "Chile",
+			"en": "Chile",
+			"es": "Chile",
+			"fr": "Chili",
+			"it": "Cile",
+			"ja": "チリ"
+		},
+		"phone": {
+			"code": "56",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 18006407,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−06:00",
+			"UTC−04:00"
+		]
+	},
+	"CHN": {
+		"area": 9640011,
+		"currencies": [
+			"CNY"
+		],
+		"iso3166": {
+			"alpha2": "CN",
+			"alpha3": "CHN",
+			"independent": true,
+			"name": "China",
+			"numeric": 156
+		},
+		"latitude": 35,
+		"longitude": 105,
+		"name": {
+			"de": "China",
+			"en": "China",
+			"es": "China",
+			"fr": "Chine",
+			"it": "Cina",
+			"ja": "中国"
+		},
+		"phone": {
+			"code": "86",
+			"lengths": [
+				11
+			],
+			"prefixes": {
+				"13": {
+					"type": "mobile"
+				},
+				"14": {
+					"type": "mobile"
+				},
+				"15": {
+					"type": "mobile"
+				},
+				"17": {
+					"type": "mobile"
+				},
+				"18": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 1371590000,
+		"region": "Asia",
+		"subregion": "Eastern Asia",
+		"timezones": [
+			"UTC+08:00"
+		]
+	},
+	"CIV": {
+		"area": 322463,
+		"currencies": [
+			"XOF"
+		],
+		"iso3166": {
+			"alpha2": "CI",
+			"alpha3": "CIV",
+			"independent": true,
+			"name": "Côte d'Ivoire",
+			"numeric": 384
+		},
+		"latitude": 8,
+		"longitude": -5,
+		"name": {
+			"de": "Elfenbeinküste",
+			"en": "Ivory Coast",
+			"es": "Costa de Marfil",
+			"fr": "Côte d'Ivoire",
+			"it": "Costa D'Avorio",
+			"ja": "コートジボワール"
+		},
+		"phone": {
+			"code": "225",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"0": {
+					"type": "mobile"
+				},
+				"4": {
+					"type": "mobile"
+				},
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 22671331,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"CMR": {
+		"area": 475442,
+		"currencies": [
+			"XAF"
+		],
+		"iso3166": {
+			"alpha2": "CM",
+			"alpha3": "CMR",
+			"independent": true,
+			"name": "Cameroon",
+			"numeric": 120
+		},
+		"latitude": 6,
+		"longitude": 12,
+		"name": {
+			"de": "Kamerun",
+			"en": "Cameroon",
+			"es": "Camerún",
+			"fr": "Cameroun",
+			"it": "Camerun",
+			"ja": "カメルーン"
+		},
+		"phone": {
+			"code": "237",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 23344000,
+		"region": "Africa",
+		"subregion": "Middle Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"COD": {
+		"area": 2344858,
+		"currencies": [
+			"CDF"
+		],
+		"iso3166": {
+			"alpha2": "CD",
+			"alpha3": "COD",
+			"independent": true,
+			"name": "Congo, the Democratic Republic of the",
+			"numeric": 180
+		},
+		"latitude": 0,
+		"longitude": 25,
+		"name": {
+			"de": "Kongo (Dem. Rep.)",
+			"en": "Democratic Republic of the Congo",
+			"es": "Congo (Rep. Dem.)",
+			"fr": "Congo (Rép. dém.)",
+			"it": "Congo (Rep. Dem.)",
+			"ja": "コンゴ民主共和国"
+		},
+		"phone": {
+			"code": "243",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"8": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 77267000,
+		"region": "Africa",
+		"subregion": "Middle Africa",
+		"timezones": [
+			"UTC+01:00",
+			"UTC+02:00"
+		]
+	},
+	"COG": {
+		"area": 342000,
+		"currencies": [
+			"XAF"
+		],
+		"iso3166": {
+			"alpha2": "CG",
+			"alpha3": "COG",
+			"independent": true,
+			"name": "Congo",
+			"numeric": 178
+		},
+		"latitude": -1,
+		"longitude": 15,
+		"name": {
+			"de": "Kongo",
+			"en": "Republic of the Congo",
+			"es": "Congo",
+			"fr": "Congo",
+			"it": "Congo",
+			"ja": "コンゴ共和国"
+		},
+		"phone": {
+			"code": "242",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"0": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 4620000,
+		"region": "Africa",
+		"subregion": "Middle Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"COK": {
+		"area": 236,
+		"currencies": [
+			"NZD"
+		],
+		"iso3166": {
+			"alpha2": "CK",
+			"alpha3": "COK",
+			"independent": false,
+			"name": "Cook Islands",
+			"numeric": 184
+		},
+		"latitude": -21.23333333,
+		"longitude": -159.76666666,
+		"name": {
+			"de": "Cookinseln",
+			"en": "Cook Islands",
+			"es": "Islas Cook",
+			"fr": "Îles Cook",
+			"it": "Isole Cook",
+			"ja": "クック諸島"
+		},
+		"phone": {
+			"code": "682",
+			"lengths": [
+				5
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 14974,
+		"region": "Oceania",
+		"subregion": "Polynesia",
+		"timezones": null
+	},
+	"COL": {
+		"area": 1141748,
+		"currencies": [
+			"COP"
+		],
+		"iso3166": {
+			"alpha2": "CO",
+			"alpha3": "COL",
+			"independent": true,
+			"name": "Colombia",
+			"numeric": 170
+		},
+		"latitude": 4,
+		"longitude": -72,
+		"name": {
+			"de": "Kolumbien",
+			"en": "Colombia",
+			"es": "Colombia",
+			"fr": "Colombie",
+			"it": "Colombia",
+			"ja": "コロンビア"
+		},
+		"phone": {
+			"code": "57",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 48266600,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−05:00"
+		]
+	},
+	"COM": {
+		"area": 1862,
+		"currencies": [
+			"KMF"
+		],
+		"iso3166": {
+			"alpha2": "KM",
+			"alpha3": "COM",
+			"independent": true,
+			"name": "Comoros",
+			"numeric": 174
+		},
+		"latitude": -12.16666666,
+		"longitude": 44.25,
+		"name": {
+			"de": "Union der Komoren",
+			"en": "Comoros",
+			"es": "Comoras",
+			"fr": "Comores",
+			"it": "Comore",
+			"ja": "コモロ"
+		},
+		"phone": {
+			"code": "269",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				},
+				"76": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 784745,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"CPV": {
+		"area": 4033,
+		"currencies": [
+			"CVE"
+		],
+		"iso3166": {
+			"alpha2": "CV",
+			"alpha3": "CPV",
+			"independent": true,
+			"name": "Cape Verde",
+			"numeric": 132
+		},
+		"latitude": 16,
+		"longitude": -24,
+		"name": {
+			"de": "Kap Verde",
+			"en": "Cape Verde",
+			"es": "Cabo Verde",
+			"fr": "Cap Vert",
+			"it": "Capo Verde",
+			"ja": "カーボベルデ"
+		},
+		"phone": {
+			"code": "238",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 524833,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC−01:00"
+		]
+	},
+	"CRI": {
+		"area": 51100,
+		"currencies": [
+			"CRC"
+		],
+		"iso3166": {
+			"alpha2": "CR",
+			"alpha3": "CRI",
+			"independent": true,
+			"name": "Costa Rica",
+			"numeric": 188
+		},
+		"latitude": 10,
+		"longitude": -84,
+		"name": {
+			"de": "Costa Rica",
+			"en": "Costa Rica",
+			"es": "Costa Rica",
+			"fr": "Costa Rica",
+			"it": "Costa Rica",
+			"ja": "コスタリカ"
+		},
+		"phone": {
+			"code": "506",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 4773130,
+		"region": "Americas",
+		"subregion": "Central America",
+		"timezones": [
+			"UTC−06:00"
+		]
+	},
+	"CUB": {
+		"area": 109884,
+		"currencies": [
+			"CUP"
+		],
+		"iso3166": {
+			"alpha2": "CU",
+			"alpha3": "CUB",
+			"independent": true,
+			"name": "Cuba",
+			"numeric": 192
+		},
+		"latitude": 21.5,
+		"longitude": -80,
+		"name": {
+			"de": "Kuba",
+			"en": "Cuba",
+			"es": "Cuba",
+			"fr": "Cuba",
+			"it": "Cuba",
+			"ja": "キューバ"
+		},
+		"phone": {
+			"code": "53",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 11238317,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−05:00"
+		]
+	},
+	"CYM": {
+		"area": 264,
+		"currencies": [
+			"KYD"
+		],
+		"iso3166": {
+			"alpha2": "KY",
+			"alpha3": "CYM",
+			"independent": false,
+			"name": "Cayman Islands",
+			"numeric": 136
+		},
+		"latitude": 19.5,
+		"longitude": -80.5,
+		"name": {
+			"de": "Kaimaninseln",
+			"en": "Cayman Islands",
+			"es": "Islas Caimán",
+			"fr": "Îles Caïmans",
+			"it": "Isole Cayman",
+			"ja": "ケイマン諸島"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"345": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 58238,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": null
+	},
+	"CYP": {
+		"area": 9251,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "CY",
+			"alpha3": "CYP",
+			"independent": true,
+			"name": "Cyprus",
+			"numeric": 196
+		},
+		"latitude": 35,
+		"longitude": 33,
+		"name": {
+			"de": "Zypern",
+			"en": "Cyprus",
+			"es": "Chipre",
+			"fr": "Chypre",
+			"it": "Cipro",
+			"ja": "キプロス"
+		},
+		"phone": {
+			"code": "357",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 858000,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"CZE": {
+		"area": 78865,
+		"currencies": [
+			"CZK"
+		],
+		"iso3166": {
+			"alpha2": "CZ",
+			"alpha3": "CZE",
+			"independent": true,
+			"name": "Czech Republic",
+			"numeric": 203
+		},
+		"latitude": 49.75,
+		"longitude": 15.5,
+		"name": {
+			"de": "Tschechische Republik",
+			"en": "Czech Republic",
+			"es": "República Checa",
+			"fr": "République tchèque",
+			"it": "Repubblica Ceca",
+			"ja": "チェコ"
+		},
+		"phone": {
+			"code": "420",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 10537818,
+		"region": "Europe",
+		"subregion": "Eastern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"DEU": {
+		"area": 357114,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "DE",
+			"alpha3": "DEU",
+			"independent": true,
+			"name": "Germany",
+			"numeric": 276
+		},
+		"latitude": 51,
+		"longitude": 9,
+		"name": {
+			"de": "Deutschland",
+			"en": "Germany",
+			"es": "Alemania",
+			"fr": "Allemagne",
+			"it": "Germania",
+			"ja": "ドイツ"
+		},
+		"phone": {
+			"code": "49",
+			"lengths": [
+				10,
+				11
+			],
+			"prefixes": {
+				"15": {
+					"type": "mobile"
+				},
+				"16": {
+					"type": "mobile"
+				},
+				"17": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 81083600,
+		"region": "Europe",
+		"subregion": "Western Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"DJI": {
+		"area": 23200,
+		"currencies": [
+			"DJF"
+		],
+		"iso3166": {
+			"alpha2": "DJ",
+			"alpha3": "DJI",
+			"independent": true,
+			"name": "Djibouti",
+			"numeric": 262
+		},
+		"latitude": 11.5,
+		"longitude": 43,
+		"name": {
+			"de": "Dschibuti",
+			"en": "Djibouti",
+			"es": "Yibuti",
+			"fr": "Djibouti",
+			"it": "Gibuti",
+			"ja": "ジブチ"
+		},
+		"phone": {
+			"code": "253",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"77": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 888000,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"DMA": {
+		"area": 751,
+		"currencies": [
+			"XCD"
+		],
+		"iso3166": {
+			"alpha2": "DM",
+			"alpha3": "DMA",
+			"independent": true,
+			"name": "Dominica",
+			"numeric": 212
+		},
+		"latitude": 15.41666666,
+		"longitude": -61.33333333,
+		"name": {
+			"de": "Dominica",
+			"en": "Dominica",
+			"es": "Dominica",
+			"fr": "Dominique",
+			"it": "Dominica",
+			"ja": "ドミニカ国"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"767": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 71293,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"DNK": {
+		"area": 43094,
+		"currencies": [
+			"DKK"
+		],
+		"iso3166": {
+			"alpha2": "DK",
+			"alpha3": "DNK",
+			"independent": true,
+			"name": "Denmark",
+			"numeric": 208
+		},
+		"latitude": 56,
+		"longitude": 10,
+		"name": {
+			"de": "Dänemark",
+			"en": "Denmark",
+			"es": "Dinamarca",
+			"fr": "Danemark",
+			"it": "Danimarca",
+			"ja": "デンマーク"
+		},
+		"phone": {
+			"code": "45",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"2": {
+					"type": "mobile"
+				},
+				"30": {
+					"type": "mobile"
+				},
+				"31": {
+					"type": "mobile"
+				},
+				"40": {
+					"type": "mobile"
+				},
+				"41": {
+					"type": "mobile"
+				},
+				"42": {
+					"type": "mobile"
+				},
+				"50": {
+					"type": "mobile"
+				},
+				"51": {
+					"type": "mobile"
+				},
+				"52": {
+					"type": "mobile"
+				},
+				"53": {
+					"type": "mobile"
+				},
+				"60": {
+					"type": "mobile"
+				},
+				"61": {
+					"type": "mobile"
+				},
+				"71": {
+					"type": "mobile"
+				},
+				"81": {
+					"type": "mobile"
+				},
+				"91": {
+					"type": "mobile"
+				},
+				"92": {
+					"type": "mobile"
+				},
+				"93": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 5678348,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": [
+			"UTC−04:00",
+			"UTC−03:00",
+			"UTC−01:00",
+			"UTC",
+			"UTC+01:00"
+		]
+	},
+	"DOM": {
+		"area": 48671,
+		"currencies": [
+			"DOP"
+		],
+		"iso3166": {
+			"alpha2": "DO",
+			"alpha3": "DOM",
+			"independent": true,
+			"name": "Dominican Republic",
+			"numeric": 214
+		},
+		"latitude": 19,
+		"longitude": -70.66666666,
+		"name": {
+			"de": "Dominikanische Republik",
+			"en": "Dominican Republic",
+			"es": "República Dominicana",
+			"fr": "République dominicaine",
+			"it": "Repubblica Dominicana",
+			"ja": "ドミニカ共和国"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"809": {
+					"type": "mobile"
+				},
+				"829": {
+					"type": "mobile"
+				},
+				"849": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 10528000,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"DZA": {
+		"area": 2381741,
+		"currencies": [
+			"DZD"
+		],
+		"iso3166": {
+			"alpha2": "DZ",
+			"alpha3": "DZA",
+			"independent": true,
+			"name": "Algeria",
+			"numeric": 12
+		},
+		"latitude": 28,
+		"longitude": 3,
+		"name": {
+			"de": "Algerien",
+			"en": "Algeria",
+			"es": "Argelia",
+			"fr": "Algérie",
+			"it": "Algeria",
+			"ja": "アルジェリア"
+		},
+		"phone": {
+			"code": "213",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 39500000,
+		"region": "Africa",
+		"subregion": "Northern Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"ECU": {
+		"area": 276841,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "EC",
+			"alpha3": "ECU",
+			"independent": true,
+			"name": "Ecuador",
+			"numeric": 218
+		},
+		"latitude": -2,
+		"longitude": -77.5,
+		"name": {
+			"de": "Ecuador",
+			"en": "Ecuador",
+			"es": "Ecuador",
+			"fr": "Équateur",
+			"it": "Ecuador",
+			"ja": "エクアドル"
+		},
+		"phone": {
+			"code": "593",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 16027500,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−06:00",
+			"UTC−05:00"
+		]
+	},
+	"EGY": {
+		"area": 1002450,
+		"currencies": [
+			"EGP"
+		],
+		"iso3166": {
+			"alpha2": "EG",
+			"alpha3": "EGY",
+			"independent": true,
+			"name": "Egypt",
+			"numeric": 818
+		},
+		"latitude": 27,
+		"longitude": 30,
+		"name": {
+			"de": "Ägypten",
+			"en": "Egypt",
+			"es": "Egipto",
+			"fr": "Égypte",
+			"it": "Egitto",
+			"ja": "エジプト"
+		},
+		"phone": {
+			"code": "20",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"1": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 89335600,
+		"region": "Africa",
+		"subregion": "Northern Africa",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"ERI": {
+		"area": 117600,
+		"currencies": [
+			"ERN"
+		],
+		"iso3166": {
+			"alpha2": "ER",
+			"alpha3": "ERI",
+			"independent": true,
+			"name": "Eritrea",
+			"numeric": 232
+		},
+		"latitude": 15,
+		"longitude": 39,
+		"name": {
+			"de": "Eritrea",
+			"en": "Eritrea",
+			"es": "Eritrea",
+			"fr": "Érythrée",
+			"it": "Eritrea",
+			"ja": "エリトリア"
+		},
+		"phone": {
+			"code": "291",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"1": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 5228000,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"ESP": {
+		"area": 505992,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "ES",
+			"alpha3": "ESP",
+			"independent": true,
+			"name": "Spain",
+			"numeric": 724
+		},
+		"latitude": 40,
+		"longitude": -4,
+		"name": {
+			"de": "Spanien",
+			"en": "Spain",
+			"es": "España",
+			"fr": "Espagne",
+			"it": "Spagna",
+			"ja": "スペイン"
+		},
+		"phone": {
+			"code": "34",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 46439864,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC",
+			"UTC+01:00"
+		]
+	},
+	"EST": {
+		"area": 45227,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "EE",
+			"alpha3": "EST",
+			"independent": true,
+			"name": "Estonia",
+			"numeric": 233
+		},
+		"latitude": 59,
+		"longitude": 26,
+		"name": {
+			"de": "Estland",
+			"en": "Estonia",
+			"es": "Estonia",
+			"fr": "Estonie",
+			"it": "Estonia",
+			"ja": "エストニア"
+		},
+		"phone": {
+			"code": "372",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 1313271,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"ETH": {
+		"area": 1104300,
+		"currencies": [
+			"ETB"
+		],
+		"iso3166": {
+			"alpha2": "ET",
+			"alpha3": "ETH",
+			"independent": true,
+			"name": "Ethiopia",
+			"numeric": 231
+		},
+		"latitude": 8,
+		"longitude": 38,
+		"name": {
+			"de": "Äthiopien",
+			"en": "Ethiopia",
+			"es": "Etiopía",
+			"fr": "Éthiopie",
+			"it": "Etiopia",
+			"ja": "エチオピア"
+		},
+		"phone": {
+			"code": "251",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 90076012,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"FIN": {
+		"area": 338424,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "FI",
+			"alpha3": "FIN",
+			"independent": true,
+			"name": "Finland",
+			"numeric": 246
+		},
+		"latitude": 64,
+		"longitude": 26,
+		"name": {
+			"de": "Finnland",
+			"en": "Finland",
+			"es": "Finlandia",
+			"fr": "Finlande",
+			"it": "Finlandia",
+			"ja": "フィンランド"
+		},
+		"phone": {
+			"code": "358",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"4": {
+					"type": "mobile"
+				},
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 5485215,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"FJI": {
+		"area": 18272,
+		"currencies": [
+			"FJD"
+		],
+		"iso3166": {
+			"alpha2": "FJ",
+			"alpha3": "FJI",
+			"independent": true,
+			"name": "Fiji",
+			"numeric": 242
+		},
+		"latitude": -18,
+		"longitude": 175,
+		"name": {
+			"de": "Fidschi",
+			"en": "Fiji",
+			"es": "Fiyi",
+			"fr": "Fidji",
+			"it": "Figi",
+			"ja": "フィジー"
+		},
+		"phone": {
+			"code": "679",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 859178,
+		"region": "Oceania",
+		"subregion": "Melanesia",
+		"timezones": [
+			"UTC+12:00"
+		]
+	},
+	"FLK": {
+		"area": 12173,
+		"currencies": [
+			"FKP"
+		],
+		"iso3166": {
+			"alpha2": "FK",
+			"alpha3": "FLK",
+			"independent": false,
+			"name": "Falkland Islands (Malvinas)",
+			"numeric": 238
+		},
+		"latitude": -51.75,
+		"longitude": -59,
+		"name": {
+			"de": "Falklandinseln",
+			"en": "Falkland Islands",
+			"es": "Islas Malvinas",
+			"fr": "Îles Malouines",
+			"it": "Isole Falkland o Isole Malvine",
+			"ja": "フォークランド（マルビナス）諸島"
+		},
+		"phone": {
+			"code": "500",
+			"lengths": [
+				5
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 3000,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": null
+	},
+	"FRA": {
+		"area": 640679,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "FR",
+			"alpha3": "FRA",
+			"independent": true,
+			"name": "France",
+			"numeric": 250
+		},
+		"latitude": 46,
+		"longitude": 2,
+		"name": {
+			"de": "Frankreich",
+			"en": "France",
+			"es": "Francia",
+			"fr": "France",
+			"it": "Francia",
+			"ja": "フランス"
+		},
+		"phone": {
+			"code": "33",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 66186000,
+		"region": "Europe",
+		"subregion": "Western Europe",
+		"timezones": [
+			"UTC−10:00",
+			"UTC−09:30",
+			"UTC−09:00",
+			"UTC−08:00",
+			"UTC−04:00",
+			"UTC−03:00",
+			"UTC+01:00",
+			"UTC+03:00",
+			"UTC+04:00",
+			"UTC+05:00",
+			"UTC+11:00",
+			"UTC+12:00"
+		]
+	},
+	"FRO": {
+		"area": 1393,
+		"currencies": [
+			"DKK"
+		],
+		"iso3166": {
+			"alpha2": "FO",
+			"alpha3": "FRO",
+			"independent": false,
+			"name": "Faroe Islands",
+			"numeric": 234
+		},
+		"latitude": 62,
+		"longitude": -7,
+		"name": {
+			"de": "Färöer-Inseln",
+			"en": "Faroe Islands",
+			"es": "Islas Faroe",
+			"fr": "Îles Féroé",
+			"it": "Isole Far Oer",
+			"ja": "フェロー諸島"
+		},
+		"phone": {
+			"code": "298",
+			"lengths": [
+				6
+			],
+			"prefixes": {}
+		},
+		"population": 48846,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": null
+	},
+	"FSM": {
+		"area": 702,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "FM",
+			"alpha3": "FSM",
+			"independent": true,
+			"name": "Micronesia, Federated States of",
+			"numeric": 583
+		},
+		"latitude": 6.91666666,
+		"longitude": 158.25,
+		"name": {
+			"de": "Mikronesien",
+			"en": "Federated States of Micronesia",
+			"es": "Micronesia",
+			"fr": "Micronésie",
+			"it": "Micronesia",
+			"ja": "ミクロネシア連邦"
+		},
+		"phone": {
+			"code": "691",
+			"lengths": [
+				7
+			],
+			"prefixes": {}
+		},
+		"population": 101351,
+		"region": "Oceania",
+		"subregion": "Micronesia",
+		"timezones": [
+			"UTC+10:00",
+			"UTC+11"
+		]
+	},
+	"GAB": {
+		"area": 267668,
+		"currencies": [
+			"XAF"
+		],
+		"iso3166": {
+			"alpha2": "GA",
+			"alpha3": "GAB",
+			"independent": true,
+			"name": "Gabon",
+			"numeric": 266
+		},
+		"latitude": -1,
+		"longitude": 11.75,
+		"name": {
+			"de": "Gabun",
+			"en": "Gabon",
+			"es": "Gabón",
+			"fr": "Gabon",
+			"it": "Gabon",
+			"ja": "ガボン"
+		},
+		"phone": {
+			"code": "241",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"05": {
+					"type": "mobile"
+				},
+				"06": {
+					"type": "mobile"
+				},
+				"07": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 1725000,
+		"region": "Africa",
+		"subregion": "Middle Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"GBR": {
+		"area": 242900,
+		"currencies": [
+			"GBP"
+		],
+		"iso3166": {
+			"alpha2": "GB",
+			"alpha3": "GBR",
+			"independent": true,
+			"name": "United Kingdom",
+			"numeric": 826
+		},
+		"latitude": 54,
+		"longitude": -2,
+		"name": {
+			"de": "Vereinigtes Königreich",
+			"en": "United Kingdom",
+			"es": "Reino Unido",
+			"fr": "Royaume-Uni",
+			"it": "Regno Unito",
+			"ja": "イギリス"
+		},
+		"phone": {
+			"code": "44",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 64800000,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": [
+			"UTC−08:00",
+			"UTC−05:00",
+			"UTC−04:00",
+			"UTC−03:00",
+			"UTC−02:00",
+			"UTC",
+			"UTC+01:00",
+			"UTC+02:00",
+			"UTC+06:00"
+		]
+	},
+	"GEO": {
+		"area": 69700,
+		"currencies": [
+			"GEL"
+		],
+		"iso3166": {
+			"alpha2": "GE",
+			"alpha3": "GEO",
+			"independent": true,
+			"name": "Georgia",
+			"numeric": 268
+		},
+		"latitude": 42,
+		"longitude": 43.5,
+		"name": {
+			"de": "Georgien",
+			"en": "Georgia",
+			"es": "Georgia",
+			"fr": "Géorgie",
+			"it": "Georgia",
+			"ja": "グルジア"
+		},
+		"phone": {
+			"code": "995",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 3729500,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": null
+	},
+	"GHA": {
+		"area": 238533,
+		"currencies": [
+			"GHS"
+		],
+		"iso3166": {
+			"alpha2": "GH",
+			"alpha3": "GHA",
+			"independent": true,
+			"name": "Ghana",
+			"numeric": 288
+		},
+		"latitude": 8,
+		"longitude": -2,
+		"name": {
+			"de": "Ghana",
+			"en": "Ghana",
+			"es": "Ghana",
+			"fr": "Ghana",
+			"it": "Ghana",
+			"ja": "ガーナ"
+		},
+		"phone": {
+			"code": "233",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"2": {
+					"type": "mobile"
+				},
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 27043093,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"GIB": {
+		"area": 6,
+		"currencies": [
+			"GIP"
+		],
+		"iso3166": {
+			"alpha2": "GI",
+			"alpha3": "GIB",
+			"independent": false,
+			"name": "Gibraltar",
+			"numeric": 292
+		},
+		"latitude": 36.13333333,
+		"longitude": -5.35,
+		"name": {
+			"de": "Gibraltar",
+			"en": "Gibraltar",
+			"es": "Gibraltar",
+			"fr": "Gibraltar",
+			"it": "Gibilterra",
+			"ja": "ジブラルタル"
+		},
+		"phone": {
+			"code": "350",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 32734,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": null
+	},
+	"GIN": {
+		"area": 245857,
+		"currencies": [
+			"GNF"
+		],
+		"iso3166": {
+			"alpha2": "GN",
+			"alpha3": "GIN",
+			"independent": true,
+			"name": "Guinea",
+			"numeric": 324
+		},
+		"latitude": 11,
+		"longitude": -10,
+		"name": {
+			"de": "Guinea",
+			"en": "Guinea",
+			"es": "Guinea",
+			"fr": "Guinée",
+			"it": "Guinea",
+			"ja": "ギニア"
+		},
+		"phone": {
+			"code": "224",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 10628972,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"GLP": {
+		"area": null,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "GP",
+			"alpha3": "GLP",
+			"independent": false,
+			"name": "Guadeloupe",
+			"numeric": 312
+		},
+		"latitude": 16.25,
+		"longitude": -61.583333,
+		"name": {
+			"de": "Guadeloupe",
+			"en": "Guadeloupe",
+			"es": "Guadalupe",
+			"fr": "Guadeloupe",
+			"it": "Guadeloupa",
+			"ja": "グアドループ"
+		},
+		"phone": {
+			"code": "590",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"690": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 403750,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": null
+	},
+	"GMB": {
+		"area": 11295,
+		"currencies": [
+			"GMD"
+		],
+		"iso3166": {
+			"alpha2": "GM",
+			"alpha3": "GMB",
+			"independent": true,
+			"name": "Gambia",
+			"numeric": 270
+		},
+		"latitude": 13.46666666,
+		"longitude": -16.56666666,
+		"name": {
+			"de": "Gambia",
+			"en": "The Gambia",
+			"es": "Gambia",
+			"fr": "Gambie",
+			"it": "Gambia",
+			"ja": "ガンビア"
+		},
+		"phone": {
+			"code": "220",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 1882450,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": null
+	},
+	"GNB": {
+		"area": 36125,
+		"currencies": [
+			"XOF"
+		],
+		"iso3166": {
+			"alpha2": "GW",
+			"alpha3": "GNB",
+			"independent": true,
+			"name": "Guinea-Bissau",
+			"numeric": 624
+		},
+		"latitude": 12,
+		"longitude": -15,
+		"name": {
+			"de": "Guinea-Bissau",
+			"en": "Guinea-Bissau",
+			"es": "Guinea-Bisáu",
+			"fr": "Guinée-Bissau",
+			"it": "Guinea-Bissau",
+			"ja": "ギニアビサウ"
+		},
+		"phone": {
+			"code": "245",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 1844000,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"GNQ": {
+		"area": 28051,
+		"currencies": [
+			"XAF"
+		],
+		"iso3166": {
+			"alpha2": "GQ",
+			"alpha3": "GNQ",
+			"independent": true,
+			"name": "Equatorial Guinea",
+			"numeric": 226
+		},
+		"latitude": 2,
+		"longitude": 10,
+		"name": {
+			"de": "Äquatorial-Guinea",
+			"en": "Equatorial Guinea",
+			"es": "Guinea Ecuatorial",
+			"fr": "Guinée-Équatoriale",
+			"it": "Guinea Equatoriale",
+			"ja": "赤道ギニア"
+		},
+		"phone": {
+			"code": "240",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"222": {
+					"type": "mobile"
+				},
+				"551": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 1430000,
+		"region": "Africa",
+		"subregion": "Middle Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"GRC": {
+		"area": 131990,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "GR",
+			"alpha3": "GRC",
+			"independent": true,
+			"name": "Greece",
+			"numeric": 300
+		},
+		"latitude": 39,
+		"longitude": 22,
+		"name": {
+			"de": "Griechenland",
+			"en": "Greece",
+			"es": "Grecia",
+			"fr": "Grèce",
+			"it": "Grecia",
+			"ja": "ギリシャ"
+		},
+		"phone": {
+			"code": "30",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 10846979,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"GRD": {
+		"area": 344,
+		"currencies": [
+			"XCD"
+		],
+		"iso3166": {
+			"alpha2": "GD",
+			"alpha3": "GRD",
+			"independent": true,
+			"name": "Grenada",
+			"numeric": 308
+		},
+		"latitude": 12.11666666,
+		"longitude": -61.66666666,
+		"name": {
+			"de": "Grenada",
+			"en": "Grenada",
+			"es": "Grenada",
+			"fr": "Grenade",
+			"it": "Grenada",
+			"ja": "グレナダ"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"473": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 103328,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"GRL": {
+		"area": 2166086,
+		"currencies": [
+			"DKK"
+		],
+		"iso3166": {
+			"alpha2": "GL",
+			"alpha3": "GRL",
+			"independent": false,
+			"name": "Greenland",
+			"numeric": 304
+		},
+		"latitude": 72,
+		"longitude": -40,
+		"name": {
+			"de": "Grönland",
+			"en": "Greenland",
+			"es": "Groenlandia",
+			"fr": "Groenland",
+			"it": "Groenlandia",
+			"ja": "グリーンランド"
+		},
+		"phone": {
+			"code": "299",
+			"lengths": [
+				6
+			],
+			"prefixes": {
+				"4": {
+					"type": "mobile"
+				},
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 56114,
+		"region": "Americas",
+		"subregion": "Northern America",
+		"timezones": null
+	},
+	"GTM": {
+		"area": 108889,
+		"currencies": [
+			"GTQ"
+		],
+		"iso3166": {
+			"alpha2": "GT",
+			"alpha3": "GTM",
+			"independent": true,
+			"name": "Guatemala",
+			"numeric": 320
+		},
+		"latitude": 15.5,
+		"longitude": -90.25,
+		"name": {
+			"de": "Guatemala",
+			"en": "Guatemala",
+			"es": "Guatemala",
+			"fr": "Guatemala",
+			"it": "Guatemala",
+			"ja": "グアテマラ"
+		},
+		"phone": {
+			"code": "502",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				},
+				"4": {
+					"type": "mobile"
+				},
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 16176133,
+		"region": "Americas",
+		"subregion": "Central America",
+		"timezones": [
+			"UTC−06:00"
+		]
+	},
+	"GUF": {
+		"area": null,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "GF",
+			"alpha3": "GUF",
+			"independent": false,
+			"name": "French Guiana",
+			"numeric": 254
+		},
+		"latitude": 4,
+		"longitude": -53,
+		"name": {
+			"de": "Französisch Guyana",
+			"en": "French Guiana",
+			"es": "Guayana Francesa",
+			"fr": "Guayane",
+			"it": "Guyana francese",
+			"ja": "フランス領ギアナ"
+		},
+		"phone": {
+			"code": "594",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"694": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 239648,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": null
+	},
+	"GUM": {
+		"area": 549,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "GU",
+			"alpha3": "GUM",
+			"independent": false,
+			"name": "Guam",
+			"numeric": 316
+		},
+		"latitude": 13.46666666,
+		"longitude": 144.78333333,
+		"name": {
+			"de": "Guam",
+			"en": "Guam",
+			"es": "Guam",
+			"fr": "Guam",
+			"it": "Guam",
+			"ja": "グアム"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"671": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 159358,
+		"region": "Oceania",
+		"subregion": "Micronesia",
+		"timezones": null
+	},
+	"GUY": {
+		"area": 214969,
+		"currencies": [
+			"GYD"
+		],
+		"iso3166": {
+			"alpha2": "GY",
+			"alpha3": "GUY",
+			"independent": true,
+			"name": "Guyana",
+			"numeric": 328
+		},
+		"latitude": 5,
+		"longitude": -59,
+		"name": {
+			"de": "Guyana",
+			"en": "Guyana",
+			"es": "Guyana",
+			"fr": "Guyane",
+			"it": "Guyana",
+			"ja": "ガイアナ"
+		},
+		"phone": {
+			"code": "592",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 746900,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"HKG": {
+		"area": 1104,
+		"currencies": [
+			"HKD"
+		],
+		"iso3166": {
+			"alpha2": "HK",
+			"alpha3": "HKG",
+			"independent": false,
+			"name": "Hong Kong",
+			"numeric": 344
+		},
+		"latitude": 22.25,
+		"longitude": 114.16666666,
+		"name": {
+			"de": "Hong Kong",
+			"en": "Hong Kong",
+			"es": "Hong Kong",
+			"fr": "Hong Kong",
+			"it": "Hong Kong",
+			"ja": "香港"
+		},
+		"phone": {
+			"code": "852",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 7298600,
+		"region": "Asia",
+		"subregion": "Eastern Asia",
+		"timezones": [
+			"UTC+08:00"
+		]
+	},
+	"HND": {
+		"area": 112492,
+		"currencies": [
+			"HNL"
+		],
+		"iso3166": {
+			"alpha2": "HN",
+			"alpha3": "HND",
+			"independent": true,
+			"name": "Honduras",
+			"numeric": 340
+		},
+		"latitude": 15,
+		"longitude": -86.5,
+		"name": {
+			"de": "Honduras",
+			"en": "Honduras",
+			"es": "Honduras",
+			"fr": "Honduras",
+			"it": "Honduras",
+			"ja": "ホンジュラス"
+		},
+		"phone": {
+			"code": "504",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 8725111,
+		"region": "Americas",
+		"subregion": "Central America",
+		"timezones": [
+			"UTC−06:00"
+		]
+	},
+	"HRV": {
+		"area": 56594,
+		"currencies": [
+			"HRK"
+		],
+		"iso3166": {
+			"alpha2": "HR",
+			"alpha3": "HRV",
+			"independent": true,
+			"name": "Croatia",
+			"numeric": 191
+		},
+		"latitude": 45.16666666,
+		"longitude": 15.5,
+		"name": {
+			"de": "Kroatien",
+			"en": "Croatia",
+			"es": "Croacia",
+			"fr": "Croatie",
+			"it": "Croazia",
+			"ja": "クロアチア"
+		},
+		"phone": {
+			"code": "385",
+			"lengths": [
+				8,
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 4246800,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"HTI": {
+		"area": 27750,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "HT",
+			"alpha3": "HTI",
+			"independent": true,
+			"name": "Haiti",
+			"numeric": 332
+		},
+		"latitude": 19,
+		"longitude": -72.41666666,
+		"name": {
+			"de": "Haiti",
+			"en": "Haiti",
+			"es": "Haiti",
+			"fr": "Haïti",
+			"it": "Haiti",
+			"ja": "ハイチ"
+		},
+		"phone": {
+			"code": "509",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				},
+				"4": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 10911819,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−05:00"
+		]
+	},
+	"HUN": {
+		"area": 93028,
+		"currencies": [
+			"HUF"
+		],
+		"iso3166": {
+			"alpha2": "HU",
+			"alpha3": "HUN",
+			"independent": true,
+			"name": "Hungary",
+			"numeric": 348
+		},
+		"latitude": 47,
+		"longitude": 20,
+		"name": {
+			"de": "Ungarn",
+			"en": "Hungary",
+			"es": "Hungría",
+			"fr": "Hongrie",
+			"it": "Ungheria",
+			"ja": "ハンガリー"
+		},
+		"phone": {
+			"code": "36",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"20": {
+					"type": "mobile"
+				},
+				"30": {
+					"type": "mobile"
+				},
+				"31": {
+					"type": "mobile"
+				},
+				"70": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 9849000,
+		"region": "Europe",
+		"subregion": "Eastern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"IDN": {
+		"area": 1904569,
+		"currencies": [
+			"IDR"
+		],
+		"iso3166": {
+			"alpha2": "ID",
+			"alpha3": "IDN",
+			"independent": true,
+			"name": "Indonesia",
+			"numeric": 360
+		},
+		"latitude": -5,
+		"longitude": 120,
+		"name": {
+			"de": "Indonesien",
+			"en": "Indonesia",
+			"es": "Indonesia",
+			"fr": "Indonésie",
+			"it": "Indonesia",
+			"ja": "インドネシア"
+		},
+		"phone": {
+			"code": "62",
+			"lengths": [
+				9,
+				10,
+				11
+			],
+			"prefixes": {
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 255461700,
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"timezones": [
+			"UTC+07:00",
+			"UTC+08:00",
+			"UTC+09:00"
+		]
+	},
+	"IND": {
+		"area": 3287590,
+		"currencies": [
+			"INR"
+		],
+		"iso3166": {
+			"alpha2": "IN",
+			"alpha3": "IND",
+			"independent": true,
+			"name": "India",
+			"numeric": 356
+		},
+		"latitude": 20,
+		"longitude": 77,
+		"name": {
+			"de": "Indien",
+			"en": "India",
+			"es": "India",
+			"fr": "Inde",
+			"it": "India",
+			"ja": "インド"
+		},
+		"phone": {
+			"code": "91",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 1275840000,
+		"region": "Asia",
+		"subregion": "Southern Asia",
+		"timezones": [
+			"UTC+05:30"
+		]
+	},
+	"IRL": {
+		"area": 70273,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "IE",
+			"alpha3": "IRL",
+			"independent": true,
+			"name": "Ireland",
+			"numeric": 372
+		},
+		"latitude": 53,
+		"longitude": -8,
+		"name": {
+			"de": "Irland",
+			"en": "Republic of Ireland",
+			"es": "Irlanda",
+			"fr": "Irlande",
+			"it": "Irlanda",
+			"ja": "アイルランド"
+		},
+		"phone": {
+			"code": "353",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"82": {
+					"type": "mobile"
+				},
+				"83": {
+					"type": "mobile"
+				},
+				"84": {
+					"type": "mobile"
+				},
+				"85": {
+					"type": "mobile"
+				},
+				"86": {
+					"type": "mobile"
+				},
+				"87": {
+					"type": "mobile"
+				},
+				"88": {
+					"type": "mobile"
+				},
+				"89": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 6378000,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"IRN": {
+		"area": 1648195,
+		"currencies": [
+			"IRR"
+		],
+		"iso3166": {
+			"alpha2": "IR",
+			"alpha3": "IRN",
+			"independent": true,
+			"name": "Iran, Islamic Republic of",
+			"numeric": 364
+		},
+		"latitude": 32,
+		"longitude": 53,
+		"name": {
+			"de": "Iran",
+			"en": "Iran",
+			"es": "Iran",
+			"fr": "Iran",
+			"it": null,
+			"ja": "イラン・イスラム共和国"
+		},
+		"phone": {
+			"code": "98",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 78572500,
+		"region": "Asia",
+		"subregion": "Southern Asia",
+		"timezones": [
+			"UTC+03:30"
+		]
+	},
+	"IRQ": {
+		"area": 438317,
+		"currencies": [
+			"IQD"
+		],
+		"iso3166": {
+			"alpha2": "IQ",
+			"alpha3": "IRQ",
+			"independent": true,
+			"name": "Iraq",
+			"numeric": 368
+		},
+		"latitude": 33,
+		"longitude": 44,
+		"name": {
+			"de": "Irak",
+			"en": "Iraq",
+			"es": "Irak",
+			"fr": "Irak",
+			"it": "Iraq",
+			"ja": "イラク"
+		},
+		"phone": {
+			"code": "964",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 36004552,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"ISL": {
+		"area": 103000,
+		"currencies": [
+			"ISK"
+		],
+		"iso3166": {
+			"alpha2": "IS",
+			"alpha3": "ISL",
+			"independent": true,
+			"name": "Iceland",
+			"numeric": 352
+		},
+		"latitude": 65,
+		"longitude": -18,
+		"name": {
+			"de": "Island",
+			"en": "Iceland",
+			"es": "Islandia",
+			"fr": "Islande",
+			"it": "Islanda",
+			"ja": "アイスランド"
+		},
+		"phone": {
+			"code": "354",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 330610,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"ISR": {
+		"area": 20770,
+		"currencies": [
+			"ILS"
+		],
+		"iso3166": {
+			"alpha2": "IL",
+			"alpha3": "ISR",
+			"independent": true,
+			"name": "Israel",
+			"numeric": 376
+		},
+		"latitude": 31.5,
+		"longitude": 34.75,
+		"name": {
+			"de": "Israel",
+			"en": "Israel",
+			"es": "Israel",
+			"fr": "Israël",
+			"it": "Israele",
+			"ja": "イスラエル"
+		},
+		"phone": {
+			"code": "972",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 8371600,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"ITA": {
+		"area": 301336,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "IT",
+			"alpha3": "ITA",
+			"independent": true,
+			"name": "Italy",
+			"numeric": 380
+		},
+		"latitude": 42.83333333,
+		"longitude": 12.83333333,
+		"name": {
+			"de": "Italien",
+			"en": "Italy",
+			"es": "Italia",
+			"fr": "Italie",
+			"it": "Italia",
+			"ja": "イタリア"
+		},
+		"phone": {
+			"code": "39",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 60753794,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"JAM": {
+		"area": 10991,
+		"currencies": [
+			"JMD"
+		],
+		"iso3166": {
+			"alpha2": "JM",
+			"alpha3": "JAM",
+			"independent": true,
+			"name": "Jamaica",
+			"numeric": 388
+		},
+		"latitude": 18.25,
+		"longitude": -77.5,
+		"name": {
+			"de": "Jamaika",
+			"en": "Jamaica",
+			"es": "Jamaica",
+			"fr": "Jamaïque",
+			"it": "Giamaica",
+			"ja": "ジャマイカ"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"876": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 2717991,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−05:00"
+		]
+	},
+	"JOR": {
+		"area": 89342,
+		"currencies": [
+			"JOD"
+		],
+		"iso3166": {
+			"alpha2": "JO",
+			"alpha3": "JOR",
+			"independent": true,
+			"name": "Jordan",
+			"numeric": 400
+		},
+		"latitude": 31,
+		"longitude": 36,
+		"name": {
+			"de": "Jordanien",
+			"en": "Jordan",
+			"es": "Jordania",
+			"fr": "Jordanie",
+			"it": "Giordania",
+			"ja": "ヨルダン"
+		},
+		"phone": {
+			"code": "962",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 6767600,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"JPN": {
+		"area": 377930,
+		"currencies": [
+			"JPY"
+		],
+		"iso3166": {
+			"alpha2": "JP",
+			"alpha3": "JPN",
+			"independent": true,
+			"name": "Japan",
+			"numeric": 392
+		},
+		"latitude": 36,
+		"longitude": 138,
+		"name": {
+			"de": "Japan",
+			"en": "Japan",
+			"es": "Japón",
+			"fr": "Japon",
+			"it": "Giappone",
+			"ja": "日本"
+		},
+		"phone": {
+			"code": "81",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"70": {
+					"type": "mobile"
+				},
+				"80": {
+					"type": "mobile"
+				},
+				"90": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 126865000,
+		"region": "Asia",
+		"subregion": "Eastern Asia",
+		"timezones": [
+			"UTC+09:00"
+		]
+	},
+	"KAZ": {
+		"area": 2724900,
+		"currencies": [
+			"KZT"
+		],
+		"iso3166": {
+			"alpha2": "KZ",
+			"alpha3": "KAZ",
+			"independent": true,
+			"name": "Kazakhstan",
+			"numeric": 398
+		},
+		"latitude": 48,
+		"longitude": 68,
+		"name": {
+			"de": "Kasachstan",
+			"en": "Kazakhstan",
+			"es": "Kazajistán",
+			"fr": "Kazakhstan",
+			"it": "Kazakistan",
+			"ja": "カザフスタン"
+		},
+		"phone": {
+			"code": "7",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"70": {
+					"type": "mobile"
+				},
+				"77": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 17541200,
+		"region": "Asia",
+		"subregion": "Central Asia",
+		"timezones": [
+			"UTC+05:00",
+			"UTC+06:00"
+		]
+	},
+	"KEN": {
+		"area": 580367,
+		"currencies": [
+			"KES"
+		],
+		"iso3166": {
+			"alpha2": "KE",
+			"alpha3": "KEN",
+			"independent": true,
+			"name": "Kenya",
+			"numeric": 404
+		},
+		"latitude": 1,
+		"longitude": 38,
+		"name": {
+			"de": "Kenia",
+			"en": "Kenya",
+			"es": "Kenia",
+			"fr": "Kenya",
+			"it": "Kenya",
+			"ja": "ケニア"
+		},
+		"phone": {
+			"code": "254",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 46050000,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"KGZ": {
+		"area": 199951,
+		"currencies": [
+			"KGS"
+		],
+		"iso3166": {
+			"alpha2": "KG",
+			"alpha3": "KGZ",
+			"independent": true,
+			"name": "Kyrgyzstan",
+			"numeric": 417
+		},
+		"latitude": 41,
+		"longitude": 75,
+		"name": {
+			"de": "Kirgisistan",
+			"en": "Kyrgyzstan",
+			"es": "Kirguizistán",
+			"fr": "Kirghizistan",
+			"it": "Kirghizistan",
+			"ja": "キルギス"
+		},
+		"phone": {
+			"code": "996",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 5944400,
+		"region": "Asia",
+		"subregion": "Central Asia",
+		"timezones": [
+			"UTC+06:00"
+		]
+	},
+	"KHM": {
+		"area": 181035,
+		"currencies": [
+			"KHR"
+		],
+		"iso3166": {
+			"alpha2": "KH",
+			"alpha3": "KHM",
+			"independent": true,
+			"name": "Cambodia",
+			"numeric": 116
+		},
+		"latitude": 13,
+		"longitude": 105,
+		"name": {
+			"de": "Kambodscha",
+			"en": "Cambodia",
+			"es": "Camboya",
+			"fr": "Cambodge",
+			"it": "Cambogia",
+			"ja": "カンボジア"
+		},
+		"phone": {
+			"code": "855",
+			"lengths": [
+				8,
+				9
+			],
+			"prefixes": {
+				"1": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 15405157,
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"timezones": [
+			"UTC+07:00"
+		]
+	},
+	"KIR": {
+		"area": 811,
+		"currencies": [
+			"AUD"
+		],
+		"iso3166": {
+			"alpha2": "KI",
+			"alpha3": "KIR",
+			"independent": true,
+			"name": "Kiribati",
+			"numeric": 296
+		},
+		"latitude": 1.41666666,
+		"longitude": 173,
+		"name": {
+			"de": "Kiribati",
+			"en": "Kiribati",
+			"es": "Kiribati",
+			"fr": "Kiribati",
+			"it": "Kiribati",
+			"ja": "キリバス"
+		},
+		"phone": {
+			"code": "686",
+			"lengths": [
+				5
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				},
+				"30": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 106461,
+		"region": "Oceania",
+		"subregion": "Micronesia",
+		"timezones": [
+			"UTC+12:00",
+			"UTC+13:00",
+			"UTC+14:00"
+		]
+	},
+	"KNA": {
+		"area": 261,
+		"currencies": [
+			"XCD"
+		],
+		"iso3166": {
+			"alpha2": "KN",
+			"alpha3": "KNA",
+			"independent": true,
+			"name": "Saint Kitts and Nevis",
+			"numeric": 659
+		},
+		"latitude": 17.33333333,
+		"longitude": -62.75,
+		"name": {
+			"de": "St. Kitts und Nevis",
+			"en": "Saint Kitts and Nevis",
+			"es": "San Cristóbal y Nieves",
+			"fr": "Saint-Christophe-et-Niévès",
+			"it": "Saint Kitts e Nevis",
+			"ja": "セントクリストファー・ネイビス"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"869": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 56000,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"KOR": {
+		"area": 100210,
+		"currencies": [
+			"KRW"
+		],
+		"iso3166": {
+			"alpha2": "KR",
+			"alpha3": "KOR",
+			"independent": true,
+			"name": "Korea, Republic of",
+			"numeric": 410
+		},
+		"latitude": 37,
+		"longitude": 127.5,
+		"name": {
+			"de": "Südkorea",
+			"en": "South Korea",
+			"es": "Corea del Sur",
+			"fr": "Corée du Sud",
+			"it": "Corea del Sud",
+			"ja": "大韓民国"
+		},
+		"phone": {
+			"code": "82",
+			"lengths": [
+				9,
+				10
+			],
+			"prefixes": {
+				"1": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 51448183,
+		"region": "Asia",
+		"subregion": "Eastern Asia",
+		"timezones": [
+			"UTC+09:00"
+		]
+	},
+	"KWT": {
+		"area": 17818,
+		"currencies": [
+			"KWD"
+		],
+		"iso3166": {
+			"alpha2": "KW",
+			"alpha3": "KWT",
+			"independent": true,
+			"name": "Kuwait",
+			"numeric": 414
+		},
+		"latitude": 29.5,
+		"longitude": 45.75,
+		"name": {
+			"de": "Kuwait",
+			"en": "Kuwait",
+			"es": "Kuwait",
+			"fr": "Koweït",
+			"it": "Kuwait",
+			"ja": "クウェート"
+		},
+		"phone": {
+			"code": "965",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 3268431,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"LAO": {
+		"area": 236800,
+		"currencies": [
+			"LAK"
+		],
+		"iso3166": {
+			"alpha2": "LA",
+			"alpha3": "LAO",
+			"independent": true,
+			"name": "Lao People's Democratic Republic",
+			"numeric": 418
+		},
+		"latitude": 18,
+		"longitude": 105,
+		"name": {
+			"de": "Laos",
+			"en": "Laos",
+			"es": "Laos",
+			"fr": "Laos",
+			"it": "Laos",
+			"ja": "ラオス人民民主共和国"
+		},
+		"phone": {
+			"code": "856",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"20": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 6802000,
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"timezones": [
+			"UTC+07:00"
+		]
+	},
+	"LBN": {
+		"area": 10452,
+		"currencies": [
+			"LBP"
+		],
+		"iso3166": {
+			"alpha2": "LB",
+			"alpha3": "LBN",
+			"independent": true,
+			"name": "Lebanon",
+			"numeric": 422
+		},
+		"latitude": 33.83333333,
+		"longitude": 35.83333333,
+		"name": {
+			"de": "Libanon",
+			"en": "Lebanon",
+			"es": "Líbano",
+			"fr": "Liban",
+			"it": "Libano",
+			"ja": "レバノン"
+		},
+		"phone": {
+			"code": "961",
+			"lengths": [
+				7,
+				8
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 4104000,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"LBR": {
+		"area": 111369,
+		"currencies": [
+			"LRD"
+		],
+		"iso3166": {
+			"alpha2": "LR",
+			"alpha3": "LBR",
+			"independent": true,
+			"name": "Liberia",
+			"numeric": 430
+		},
+		"latitude": 6.5,
+		"longitude": -9.5,
+		"name": {
+			"de": "Liberia",
+			"en": "Liberia",
+			"es": "Liberia",
+			"fr": "Liberia",
+			"it": "Liberia",
+			"ja": "リベリア"
+		},
+		"phone": {
+			"code": "231",
+			"lengths": [
+				7,
+				8
+			],
+			"prefixes": {
+				"4": {
+					"type": "mobile"
+				},
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 4503000,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"LBY": {
+		"area": 1759540,
+		"currencies": [
+			"LYD"
+		],
+		"iso3166": {
+			"alpha2": "LY",
+			"alpha3": "LBY",
+			"independent": true,
+			"name": "Libya",
+			"numeric": 434
+		},
+		"latitude": 25,
+		"longitude": 17,
+		"name": {
+			"de": "Libyen",
+			"en": "Libya",
+			"es": "Libia",
+			"fr": "Libye",
+			"it": "Libia",
+			"ja": "リビア"
+		},
+		"phone": {
+			"code": "218",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 6278000,
+		"region": "Africa",
+		"subregion": "Northern Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"LCA": {
+		"area": 616,
+		"currencies": [
+			"XCD"
+		],
+		"iso3166": {
+			"alpha2": "LC",
+			"alpha3": "LCA",
+			"independent": true,
+			"name": "Saint Lucia",
+			"numeric": 662
+		},
+		"latitude": 13.88333333,
+		"longitude": -60.96666666,
+		"name": {
+			"de": "Saint Lucia",
+			"en": "Saint Lucia",
+			"es": "Santa Lucía",
+			"fr": "Saint-Lucie",
+			"it": "Santa Lucia",
+			"ja": "セントルシア"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"758": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 185000,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"LIE": {
+		"area": 160,
+		"currencies": [
+			"CHF"
+		],
+		"iso3166": {
+			"alpha2": "LI",
+			"alpha3": "LIE",
+			"independent": true,
+			"name": "Liechtenstein",
+			"numeric": 438
+		},
+		"latitude": 47.26666666,
+		"longitude": 9.53333333,
+		"name": {
+			"de": "Liechtenstein",
+			"en": "Liechtenstein",
+			"es": "Liechtenstein",
+			"fr": "Liechtenstein",
+			"it": "Liechtenstein",
+			"ja": "リヒテンシュタイン"
+		},
+		"phone": {
+			"code": "423",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 37370,
+		"region": "Europe",
+		"subregion": "Western Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"LKA": {
+		"area": 65610,
+		"currencies": [
+			"LKR"
+		],
+		"iso3166": {
+			"alpha2": "LK",
+			"alpha3": "LKA",
+			"independent": true,
+			"name": "Sri Lanka",
+			"numeric": 144
+		},
+		"latitude": 7,
+		"longitude": 81,
+		"name": {
+			"de": "Sri Lanka",
+			"en": "Sri Lanka",
+			"es": "Sri Lanka",
+			"fr": "Sri Lanka",
+			"it": "Sri Lanka",
+			"ja": "スリランカ"
+		},
+		"phone": {
+			"code": "94",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 20675000,
+		"region": "Asia",
+		"subregion": "Southern Asia",
+		"timezones": [
+			"UTC+05:30"
+		]
+	},
+	"LSO": {
+		"area": 30355,
+		"currencies": [
+			"ZAR"
+		],
+		"iso3166": {
+			"alpha2": "LS",
+			"alpha3": "LSO",
+			"independent": true,
+			"name": "Lesotho",
+			"numeric": 426
+		},
+		"latitude": -29.5,
+		"longitude": 28.5,
+		"name": {
+			"de": "Lesotho",
+			"en": "Lesotho",
+			"es": "Lesotho",
+			"fr": "Lesotho",
+			"it": "Lesotho",
+			"ja": "レソト"
+		},
+		"phone": {
+			"code": "266",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 2135000,
+		"region": "Africa",
+		"subregion": "Southern Africa",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"LTU": {
+		"area": 65300,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "LT",
+			"alpha3": "LTU",
+			"independent": true,
+			"name": "Lithuania",
+			"numeric": 440
+		},
+		"latitude": 56,
+		"longitude": 24,
+		"name": {
+			"de": "Litauen",
+			"en": "Lithuania",
+			"es": "Lituania",
+			"fr": "Lituanie",
+			"it": "Lituania",
+			"ja": "リトアニア"
+		},
+		"phone": {
+			"code": "370",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 2900787,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"LUX": {
+		"area": 2586,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "LU",
+			"alpha3": "LUX",
+			"independent": true,
+			"name": "Luxembourg",
+			"numeric": 442
+		},
+		"latitude": 49.75,
+		"longitude": 6.16666666,
+		"name": {
+			"de": "Luxemburg",
+			"en": "Luxembourg",
+			"es": "Luxemburgo",
+			"fr": "Luxembourg",
+			"it": "Lussemburgo",
+			"ja": "ルクセンブルク"
+		},
+		"phone": {
+			"code": "352",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 562958,
+		"region": "Europe",
+		"subregion": "Western Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"LVA": {
+		"area": 64559,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "LV",
+			"alpha3": "LVA",
+			"independent": true,
+			"name": "Latvia",
+			"numeric": 428
+		},
+		"latitude": 57,
+		"longitude": 25,
+		"name": {
+			"de": "Lettland",
+			"en": "Latvia",
+			"es": "Letonia",
+			"fr": "Lettonie",
+			"it": "Lettonia",
+			"ja": "ラトビア"
+		},
+		"phone": {
+			"code": "371",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"2": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 1980700,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"MAC": {
+		"area": 30,
+		"currencies": [
+			"MOP"
+		],
+		"iso3166": {
+			"alpha2": "MO",
+			"alpha3": "MAC",
+			"independent": false,
+			"name": "Macao",
+			"numeric": 446
+		},
+		"latitude": 22.16666666,
+		"longitude": 113.55,
+		"name": {
+			"de": "Macao",
+			"en": "Macau",
+			"es": "Macao",
+			"fr": "Macao",
+			"it": "Macao",
+			"ja": "マカオ"
+		},
+		"phone": {
+			"code": "853",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 642900,
+		"region": "Asia",
+		"subregion": "Eastern Asia",
+		"timezones": [
+			"UTC+08:00"
+		]
+	},
+	"MAR": {
+		"area": 446550,
+		"currencies": [
+			"MAD"
+		],
+		"iso3166": {
+			"alpha2": "MA",
+			"alpha3": "MAR",
+			"independent": true,
+			"name": "Morocco",
+			"numeric": 504
+		},
+		"latitude": 32,
+		"longitude": -5,
+		"name": {
+			"de": "Marokko",
+			"en": "Morocco",
+			"es": "Marruecos",
+			"fr": "Maroc",
+			"it": "Marocco",
+			"ja": "モロッコ"
+		},
+		"phone": {
+			"code": "212",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 33337529,
+		"region": "Africa",
+		"subregion": "Northern Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"MCO": {
+		"area": 2.02,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "MC",
+			"alpha3": "MCO",
+			"independent": true,
+			"name": "Monaco",
+			"numeric": 492
+		},
+		"latitude": 43.73333333,
+		"longitude": 7.4,
+		"name": {
+			"de": "Monaco",
+			"en": "Monaco",
+			"es": "Mónaco",
+			"fr": "Monaco",
+			"it": "Principato di Monaco",
+			"ja": "モナコ"
+		},
+		"phone": {
+			"code": "377",
+			"lengths": [
+				8,
+				9
+			],
+			"prefixes": {
+				"4": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 37800,
+		"region": "Europe",
+		"subregion": "Western Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"MDA": {
+		"area": 33846,
+		"currencies": [
+			"MDL"
+		],
+		"iso3166": {
+			"alpha2": "MD",
+			"alpha3": "MDA",
+			"independent": true,
+			"name": "Moldova, Republic of",
+			"numeric": 498
+		},
+		"latitude": 47,
+		"longitude": 29,
+		"name": {
+			"de": "Moldawie",
+			"en": "Moldova",
+			"es": "Moldavia",
+			"fr": "Moldavie",
+			"it": "Moldavia",
+			"ja": "モルドバ共和国"
+		},
+		"phone": {
+			"code": "373",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 3555200,
+		"region": "Europe",
+		"subregion": "Eastern Europe",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"MDG": {
+		"area": 587041,
+		"currencies": [
+			"MGA"
+		],
+		"iso3166": {
+			"alpha2": "MG",
+			"alpha3": "MDG",
+			"independent": true,
+			"name": "Madagascar",
+			"numeric": 450
+		},
+		"latitude": -20,
+		"longitude": 47,
+		"name": {
+			"de": "Madagaskar",
+			"en": "Madagascar",
+			"es": "Madagascar",
+			"fr": "Madagascar",
+			"it": "Madagascar",
+			"ja": "マダガスカル"
+		},
+		"phone": {
+			"code": "261",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 22434363,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"MDV": {
+		"area": 300,
+		"currencies": [
+			"MVR"
+		],
+		"iso3166": {
+			"alpha2": "MV",
+			"alpha3": "MDV",
+			"independent": true,
+			"name": "Maldives",
+			"numeric": 462
+		},
+		"latitude": 3.25,
+		"longitude": 73,
+		"name": {
+			"de": "Malediven",
+			"en": "Maldives",
+			"es": "Maldivas",
+			"fr": "Maldives",
+			"it": "Maldive",
+			"ja": "モルディブ"
+		},
+		"phone": {
+			"code": "960",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 341256,
+		"region": "Asia",
+		"subregion": "Southern Asia",
+		"timezones": [
+			"UTC+05:00"
+		]
+	},
+	"MEX": {
+		"area": 1964375,
+		"currencies": [
+			"MXN"
+		],
+		"iso3166": {
+			"alpha2": "MX",
+			"alpha3": "MEX",
+			"independent": true,
+			"name": "Mexico",
+			"numeric": 484
+		},
+		"latitude": 23,
+		"longitude": -102,
+		"name": {
+			"de": "Mexiko",
+			"en": "Mexico",
+			"es": "México",
+			"fr": "Mexique",
+			"it": "Messico",
+			"ja": "メキシコ"
+		},
+		"phone": {
+			"code": "52",
+			"lengths": [
+				10,
+				11
+			],
+			"prefixes": {}
+		},
+		"population": 121740000,
+		"region": "Americas",
+		"subregion": "Central America",
+		"timezones": [
+			"UTC−08:00",
+			"UTC−07:00",
+			"UTC−06:00"
+		]
+	},
+	"MHL": {
+		"area": 181,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "MH",
+			"alpha3": "MHL",
+			"independent": true,
+			"name": "Marshall Islands",
+			"numeric": 584
+		},
+		"latitude": 9,
+		"longitude": 168,
+		"name": {
+			"de": "Marshallinseln",
+			"en": "Marshall Islands",
+			"es": "Islas Marshall",
+			"fr": "Îles Marshall",
+			"it": "Isole Marshall",
+			"ja": "マーシャル諸島"
+		},
+		"phone": {
+			"code": "692",
+			"lengths": [
+				7
+			],
+			"prefixes": {}
+		},
+		"population": 56086,
+		"region": "Oceania",
+		"subregion": "Micronesia",
+		"timezones": [
+			"UTC+12:00"
+		]
+	},
+	"MKD": {
+		"area": 25713,
+		"currencies": [
+			"MKD"
+		],
+		"iso3166": {
+			"alpha2": "MK",
+			"alpha3": "MKD",
+			"independent": true,
+			"name": "Macedonia, the Former Yugoslav Republic of",
+			"numeric": 807
+		},
+		"latitude": 41.83333333,
+		"longitude": 22,
+		"name": {
+			"de": "Mazedonien",
+			"en": "Republic of Macedonia",
+			"es": "Macedonia",
+			"fr": "Macédoine",
+			"it": "Macedonia",
+			"ja": "マケドニア旧ユーゴスラビア共和国"
+		},
+		"phone": {
+			"code": "389",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 2058539,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"MLI": {
+		"area": 1240192,
+		"currencies": [
+			"XOF"
+		],
+		"iso3166": {
+			"alpha2": "ML",
+			"alpha3": "MLI",
+			"independent": true,
+			"name": "Mali",
+			"numeric": 466
+		},
+		"latitude": 17,
+		"longitude": -4,
+		"name": {
+			"de": "Mali",
+			"en": "Mali",
+			"es": "Mali",
+			"fr": "Mali",
+			"it": "Mali",
+			"ja": "マリ"
+		},
+		"phone": {
+			"code": "223",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 17600000,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"MLT": {
+		"area": 316,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "MT",
+			"alpha3": "MLT",
+			"independent": true,
+			"name": "Malta",
+			"numeric": 470
+		},
+		"latitude": 35.83333333,
+		"longitude": 14.58333333,
+		"name": {
+			"de": "Malta",
+			"en": "Malta",
+			"es": "Malta",
+			"fr": "Malte",
+			"it": "Malta",
+			"ja": "マルタ"
+		},
+		"phone": {
+			"code": "356",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"79": {
+					"type": "mobile"
+				},
+				"99": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 445426,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"MMR": {
+		"area": 676578,
+		"currencies": [
+			"MMK"
+		],
+		"iso3166": {
+			"alpha2": "MM",
+			"alpha3": "MMR",
+			"independent": true,
+			"name": "Myanmar",
+			"numeric": 104
+		},
+		"latitude": 22,
+		"longitude": 98,
+		"name": {
+			"de": "Myanmar",
+			"en": "Myanmar",
+			"es": "Myanmar",
+			"fr": "Myanmar",
+			"it": "Birmania",
+			"ja": "ミャンマー"
+		},
+		"phone": {
+			"code": "95",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 53897000,
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"timezones": [
+			"UTC+06:30"
+		]
+	},
+	"MNE": {
+		"area": 13812,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "ME",
+			"alpha3": "MNE",
+			"independent": true,
+			"name": "Montenegro",
+			"numeric": 499
+		},
+		"latitude": 42.5,
+		"longitude": 19.3,
+		"name": {
+			"de": "Montenegro",
+			"en": "Montenegro",
+			"es": "Montenegro",
+			"fr": "Monténégro",
+			"it": "Montenegro",
+			"ja": "モンテネグロ"
+		},
+		"phone": {
+			"code": "382",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 621207,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"MNG": {
+		"area": 1564110,
+		"currencies": [
+			"MNT"
+		],
+		"iso3166": {
+			"alpha2": "MN",
+			"alpha3": "MNG",
+			"independent": true,
+			"name": "Mongolia",
+			"numeric": 496
+		},
+		"latitude": 46,
+		"longitude": 105,
+		"name": {
+			"de": "Mongolei",
+			"en": "Mongolia",
+			"es": "Mongolia",
+			"fr": "Mongolie",
+			"it": "Mongolia",
+			"ja": "モンゴル"
+		},
+		"phone": {
+			"code": "976",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 3031099,
+		"region": "Asia",
+		"subregion": "Eastern Asia",
+		"timezones": [
+			"UTC+07:00",
+			"UTC+08:00"
+		]
+	},
+	"MNP": {
+		"area": 464,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "MP",
+			"alpha3": "MNP",
+			"independent": false,
+			"name": "Northern Mariana Islands",
+			"numeric": 580
+		},
+		"latitude": 15.2,
+		"longitude": 145.75,
+		"name": {
+			"de": "Nördliche Marianen",
+			"en": "Northern Mariana Islands",
+			"es": "Islas Marianas del Norte",
+			"fr": "Îles Mariannes du Nord",
+			"it": "Isole Marianne Settentrionali",
+			"ja": "北マリアナ諸島"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"670": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 53883,
+		"region": "Oceania",
+		"subregion": "Micronesia",
+		"timezones": null
+	},
+	"MOZ": {
+		"area": 801590,
+		"currencies": [
+			"MZN"
+		],
+		"iso3166": {
+			"alpha2": "MZ",
+			"alpha3": "MOZ",
+			"independent": true,
+			"name": "Mozambique",
+			"numeric": 508
+		},
+		"latitude": -18.25,
+		"longitude": 35,
+		"name": {
+			"de": "Mosambik",
+			"en": "Mozambique",
+			"es": "Mozambique",
+			"fr": "Mozambique",
+			"it": "Mozambico",
+			"ja": "モザンビーク"
+		},
+		"phone": {
+			"code": "258",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 25727911,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"MRT": {
+		"area": 1030700,
+		"currencies": [
+			"MRO"
+		],
+		"iso3166": {
+			"alpha2": "MR",
+			"alpha3": "MRT",
+			"independent": true,
+			"name": "Mauritania",
+			"numeric": 478
+		},
+		"latitude": 20,
+		"longitude": -12,
+		"name": {
+			"de": "Mauretanien",
+			"en": "Mauritania",
+			"es": "Mauritania",
+			"fr": "Mauritanie",
+			"it": "Mauritania",
+			"ja": "モーリタニア"
+		},
+		"phone": {
+			"code": "222",
+			"lengths": [
+				8
+			],
+			"prefixes": {}
+		},
+		"population": 3631775,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"MSR": {
+		"area": 102,
+		"currencies": [
+			"XCD"
+		],
+		"iso3166": {
+			"alpha2": "MS",
+			"alpha3": "MSR",
+			"independent": false,
+			"name": "Montserrat",
+			"numeric": 500
+		},
+		"latitude": 16.75,
+		"longitude": -62.2,
+		"name": {
+			"de": "Montserrat",
+			"en": "Montserrat",
+			"es": "Montserrat",
+			"fr": "Montserrat",
+			"it": "Montserrat",
+			"ja": "モントセラト"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"664": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 4922,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": null
+	},
+	"MTQ": {
+		"area": null,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "MQ",
+			"alpha3": "MTQ",
+			"independent": false,
+			"name": "Martinique",
+			"numeric": 474
+		},
+		"latitude": 14.666667,
+		"longitude": -61,
+		"name": {
+			"de": "Martinique",
+			"en": "Martinique",
+			"es": "Martinica",
+			"fr": "Martinique",
+			"it": "Martinica",
+			"ja": "マルティニーク"
+		},
+		"phone": {
+			"code": "596",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"696": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 381326,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": null
+	},
+	"MUS": {
+		"area": 2040,
+		"currencies": [
+			"MUR"
+		],
+		"iso3166": {
+			"alpha2": "MU",
+			"alpha3": "MUS",
+			"independent": true,
+			"name": "Mauritius",
+			"numeric": 480
+		},
+		"latitude": -20.28333333,
+		"longitude": 57.55,
+		"name": {
+			"de": "Mauritius",
+			"en": "Mauritius",
+			"es": "Mauricio",
+			"fr": "Île Maurice",
+			"it": "Mauritius",
+			"ja": "モーリシャス"
+		},
+		"phone": {
+			"code": "230",
+			"lengths": [
+				7
+			],
+			"prefixes": {}
+		},
+		"population": 1261208,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+04:00"
+		]
+	},
+	"MWI": {
+		"area": 118484,
+		"currencies": [
+			"MWK"
+		],
+		"iso3166": {
+			"alpha2": "MW",
+			"alpha3": "MWI",
+			"independent": true,
+			"name": "Malawi",
+			"numeric": 454
+		},
+		"latitude": -13.5,
+		"longitude": 34,
+		"name": {
+			"de": "Malawi",
+			"en": "Malawi",
+			"es": "Malawi",
+			"fr": "Malawi",
+			"it": "Malawi",
+			"ja": "マラウイ"
+		},
+		"phone": {
+			"code": "265",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"77": {
+					"type": "mobile"
+				},
+				"88": {
+					"type": "mobile"
+				},
+				"99": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 16310431,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"MYS": {
+		"area": 330803,
+		"currencies": [
+			"MYR"
+		],
+		"iso3166": {
+			"alpha2": "MY",
+			"alpha3": "MYS",
+			"independent": true,
+			"name": "Malaysia",
+			"numeric": 458
+		},
+		"latitude": 2.5,
+		"longitude": 112.5,
+		"name": {
+			"de": "Malaysia",
+			"en": "Malaysia",
+			"es": "Malasia",
+			"fr": "Malaisie",
+			"it": "Malesia",
+			"ja": "マレーシア"
+		},
+		"phone": {
+			"code": "60",
+			"lengths": [
+				9,
+				10
+			],
+			"prefixes": {
+				"1": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 30678800,
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"timezones": [
+			"UTC+08:00"
+		]
+	},
+	"MYT": {
+		"area": null,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "YT",
+			"alpha3": "MYT",
+			"independent": false,
+			"name": "Mayotte",
+			"numeric": 175
+		},
+		"latitude": -12.83333333,
+		"longitude": 45.16666666,
+		"name": {
+			"de": "Mayotte",
+			"en": "Mayotte",
+			"es": "Mayotte",
+			"fr": "Mayotte",
+			"it": "Mayotte",
+			"ja": "マヨット"
+		},
+		"phone": {
+			"code": "269",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"639": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 212645,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": null
+	},
+	"NAM": {
+		"area": 825615,
+		"currencies": [
+			"ZAR"
+		],
+		"iso3166": {
+			"alpha2": "NA",
+			"alpha3": "NAM",
+			"independent": true,
+			"name": "Namibia",
+			"numeric": 516
+		},
+		"latitude": -22,
+		"longitude": 17,
+		"name": {
+			"de": "Namibia",
+			"en": "Namibia",
+			"es": "Namibia",
+			"fr": "Namibie",
+			"it": "Namibia",
+			"ja": "ナミビア"
+		},
+		"phone": {
+			"code": "264",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"60": {
+					"type": "mobile"
+				},
+				"81": {
+					"type": "mobile"
+				},
+				"82": {
+					"type": "mobile"
+				},
+				"85": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 2280700,
+		"region": "Africa",
+		"subregion": "Southern Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"NCL": {
+		"area": 18575,
+		"currencies": [
+			"XPF"
+		],
+		"iso3166": {
+			"alpha2": "NC",
+			"alpha3": "NCL",
+			"independent": false,
+			"name": "New Caledonia",
+			"numeric": 540
+		},
+		"latitude": -21.5,
+		"longitude": 165.5,
+		"name": {
+			"de": "Neukaledonien",
+			"en": "New Caledonia",
+			"es": "Nueva Caledonia",
+			"fr": "Nouvelle-Calédonie",
+			"it": "Nuova Caledonia",
+			"ja": "ニューカレドニア"
+		},
+		"phone": {
+			"code": "687",
+			"lengths": [
+				6
+			],
+			"prefixes": {}
+		},
+		"population": 268767,
+		"region": "Oceania",
+		"subregion": "Melanesia",
+		"timezones": null
+	},
+	"NER": {
+		"area": 1267000,
+		"currencies": [
+			"XOF"
+		],
+		"iso3166": {
+			"alpha2": "NE",
+			"alpha3": "NER",
+			"independent": true,
+			"name": "Niger",
+			"numeric": 562
+		},
+		"latitude": 16,
+		"longitude": 8,
+		"name": {
+			"de": "Niger",
+			"en": "Niger",
+			"es": "Níger",
+			"fr": "Niger",
+			"it": "Niger",
+			"ja": "ニジェール"
+		},
+		"phone": {
+			"code": "227",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 19899000,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"NFK": {
+		"area": 36,
+		"currencies": [
+			"AUD"
+		],
+		"iso3166": {
+			"alpha2": "NF",
+			"alpha3": "NFK",
+			"independent": false,
+			"name": "Norfolk Island",
+			"numeric": 574
+		},
+		"latitude": -29.03333333,
+		"longitude": 167.95,
+		"name": {
+			"de": "Norfolkinsel",
+			"en": "Norfolk Island",
+			"es": "Isla de Norfolk",
+			"fr": "Île de Norfolk",
+			"it": "Isola Norfolk",
+			"ja": "ノーフォーク島"
+		},
+		"phone": {
+			"code": "672",
+			"lengths": [
+				5
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 2302,
+		"region": "Oceania",
+		"subregion": "Australia and New Zealand",
+		"timezones": null
+	},
+	"NGA": {
+		"area": 923768,
+		"currencies": [
+			"NGN"
+		],
+		"iso3166": {
+			"alpha2": "NG",
+			"alpha3": "NGA",
+			"independent": true,
+			"name": "Nigeria",
+			"numeric": 566
+		},
+		"latitude": 10,
+		"longitude": 8,
+		"name": {
+			"de": "Nigeria",
+			"en": "Nigeria",
+			"es": "Nigeria",
+			"fr": "Nigéria",
+			"it": "Nigeria",
+			"ja": "ナイジェリア"
+		},
+		"phone": {
+			"code": "234",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"70": {
+					"type": "mobile"
+				},
+				"80": {
+					"type": "mobile"
+				},
+				"81": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 182202000,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"NIC": {
+		"area": 130373,
+		"currencies": [
+			"NIO"
+		],
+		"iso3166": {
+			"alpha2": "NI",
+			"alpha3": "NIC",
+			"independent": true,
+			"name": "Nicaragua",
+			"numeric": 558
+		},
+		"latitude": 13,
+		"longitude": -85,
+		"name": {
+			"de": "Nicaragua",
+			"en": "Nicaragua",
+			"es": "Nicaragua",
+			"fr": "Nicaragua",
+			"it": "Nicaragua",
+			"ja": "ニカラグア"
+		},
+		"phone": {
+			"code": "505",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 6198154,
+		"region": "Americas",
+		"subregion": "Central America",
+		"timezones": [
+			"UTC−06:00"
+		]
+	},
+	"NIU": {
+		"area": 260,
+		"currencies": [
+			"NZD"
+		],
+		"iso3166": {
+			"alpha2": "NU",
+			"alpha3": "NIU",
+			"independent": false,
+			"name": "Niue",
+			"numeric": 570
+		},
+		"latitude": -19.03333333,
+		"longitude": -169.86666666,
+		"name": {
+			"de": "Niue",
+			"en": "Niue",
+			"es": "Niue",
+			"fr": "Niue",
+			"it": "Niue",
+			"ja": "ニウエ"
+		},
+		"phone": {
+			"code": "683",
+			"lengths": [
+				4
+			],
+			"prefixes": {}
+		},
+		"population": 1613,
+		"region": "Oceania",
+		"subregion": "Polynesia",
+		"timezones": null
+	},
+	"NLD": {
+		"area": 41850,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "NL",
+			"alpha3": "NLD",
+			"independent": true,
+			"name": "Netherlands",
+			"numeric": 528
+		},
+		"latitude": 52.5,
+		"longitude": 5.75,
+		"name": {
+			"de": "Niederlande",
+			"en": "Netherlands",
+			"es": "Países Bajos",
+			"fr": "Pays-Bas",
+			"it": "Paesi Bassi",
+			"ja": "オランダ"
+		},
+		"phone": {
+			"code": "31",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 16916000,
+		"region": "Europe",
+		"subregion": "Western Europe",
+		"timezones": null
+	},
+	"NOR": {
+		"area": 323802,
+		"currencies": [
+			"NOK"
+		],
+		"iso3166": {
+			"alpha2": "NO",
+			"alpha3": "NOR",
+			"independent": true,
+			"name": "Norway",
+			"numeric": 578
+		},
+		"latitude": 62,
+		"longitude": 10,
+		"name": {
+			"de": "Norwegen",
+			"en": "Norway",
+			"es": "Noruega",
+			"fr": "Norvège",
+			"it": "Norvegia",
+			"ja": "ノルウェー"
+		},
+		"phone": {
+			"code": "47",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"4": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 5176998,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"NPL": {
+		"area": 147181,
+		"currencies": [
+			"NPR"
+		],
+		"iso3166": {
+			"alpha2": "NP",
+			"alpha3": "NPL",
+			"independent": true,
+			"name": "Nepal",
+			"numeric": 524
+		},
+		"latitude": 28,
+		"longitude": 84,
+		"name": {
+			"de": "Népal",
+			"en": "Nepal",
+			"es": "Nepal",
+			"fr": "Népal",
+			"it": "Nepal",
+			"ja": "ネパール"
+		},
+		"phone": {
+			"code": "977",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"97": {
+					"type": "mobile"
+				},
+				"98": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 28037904,
+		"region": "Asia",
+		"subregion": "Southern Asia",
+		"timezones": [
+			"UTC+05:45"
+		]
+	},
+	"NRU": {
+		"area": 21,
+		"currencies": [
+			"AUD"
+		],
+		"iso3166": {
+			"alpha2": "NR",
+			"alpha3": "NRU",
+			"independent": true,
+			"name": "Nauru",
+			"numeric": 520
+		},
+		"latitude": -0.53333333,
+		"longitude": 166.91666666,
+		"name": {
+			"de": "Nauru",
+			"en": "Nauru",
+			"es": "Nauru",
+			"fr": "Nauru",
+			"it": "Nauru",
+			"ja": "ナウル"
+		},
+		"phone": {
+			"code": "674",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"555": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 10084,
+		"region": "Oceania",
+		"subregion": "Micronesia",
+		"timezones": [
+			"UTC+12:00"
+		]
+	},
+	"NZL": {
+		"area": 270467,
+		"currencies": [
+			"NZD"
+		],
+		"iso3166": {
+			"alpha2": "NZ",
+			"alpha3": "NZL",
+			"independent": true,
+			"name": "New Zealand",
+			"numeric": 554
+		},
+		"latitude": -41,
+		"longitude": 174,
+		"name": {
+			"de": "Neuseeland",
+			"en": "New Zealand",
+			"es": "Nueva Zelanda",
+			"fr": "Nouvelle-Zélande",
+			"it": "Nuova Zelanda",
+			"ja": "ニュージーランド"
+		},
+		"phone": {
+			"code": "64",
+			"lengths": [
+				8,
+				9,
+				10
+			],
+			"prefixes": {
+				"2": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 4609440,
+		"region": "Oceania",
+		"subregion": "Australia and New Zealand",
+		"timezones": [
+			"UTC−11:00",
+			"UTC−10:00",
+			"UTC+12:00",
+			"UTC+12:45",
+			"UTC+13:00"
+		]
+	},
+	"OMN": {
+		"area": 309500,
+		"currencies": [
+			"OMR"
+		],
+		"iso3166": {
+			"alpha2": "OM",
+			"alpha3": "OMN",
+			"independent": true,
+			"name": "Oman",
+			"numeric": 512
+		},
+		"latitude": 21,
+		"longitude": 57,
+		"name": {
+			"de": "Oman",
+			"en": "Oman",
+			"es": "Omán",
+			"fr": "Oman",
+			"it": "oman",
+			"ja": "オマーン"
+		},
+		"phone": {
+			"code": "968",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 4185440,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+04:00"
+		]
+	},
+	"PAK": {
+		"area": 881912,
+		"currencies": [
+			"PKR"
+		],
+		"iso3166": {
+			"alpha2": "PK",
+			"alpha3": "PAK",
+			"independent": true,
+			"name": "Pakistan",
+			"numeric": 586
+		},
+		"latitude": 30,
+		"longitude": 70,
+		"name": {
+			"de": "Pakistan",
+			"en": "Pakistan",
+			"es": "Pakistán",
+			"fr": "Pakistan",
+			"it": "Pakistan",
+			"ja": "パキスタン"
+		},
+		"phone": {
+			"code": "92",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 190668000,
+		"region": "Asia",
+		"subregion": "Southern Asia",
+		"timezones": [
+			"UTC+05:00"
+		]
+	},
+	"PAN": {
+		"area": 75417,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "PA",
+			"alpha3": "PAN",
+			"independent": true,
+			"name": "Panama",
+			"numeric": 591
+		},
+		"latitude": 9,
+		"longitude": -80,
+		"name": {
+			"de": "Panama",
+			"en": "Panama",
+			"es": "Panamá",
+			"fr": "Panama",
+			"it": "Panama",
+			"ja": "パナマ"
+		},
+		"phone": {
+			"code": "507",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 3764166,
+		"region": "Americas",
+		"subregion": "Central America",
+		"timezones": [
+			"UTC−05:00"
+		]
+	},
+	"PER": {
+		"area": 1285216,
+		"currencies": [
+			"PEN"
+		],
+		"iso3166": {
+			"alpha2": "PE",
+			"alpha3": "PER",
+			"independent": true,
+			"name": "Peru",
+			"numeric": 604
+		},
+		"latitude": -10,
+		"longitude": -76,
+		"name": {
+			"de": "Peru",
+			"en": "Peru",
+			"es": "Perú",
+			"fr": "Pérou",
+			"it": "Perù",
+			"ja": "ペルー"
+		},
+		"phone": {
+			"code": "51",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 31151643,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−05:00"
+		]
+	},
+	"PHL": {
+		"area": 342353,
+		"currencies": [
+			"PHP"
+		],
+		"iso3166": {
+			"alpha2": "PH",
+			"alpha3": "PHL",
+			"independent": true,
+			"name": "Philippines",
+			"numeric": 608
+		},
+		"latitude": 13,
+		"longitude": 122,
+		"name": {
+			"de": "Philippinen",
+			"en": "Philippines",
+			"es": "Filipinas",
+			"fr": "Philippines",
+			"it": "Filippine",
+			"ja": "フィリピン"
+		},
+		"phone": {
+			"code": "63",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 101920000,
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"timezones": [
+			"UTC+08:00"
+		]
+	},
+	"PLW": {
+		"area": 459,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "PW",
+			"alpha3": "PLW",
+			"independent": true,
+			"name": "Palau",
+			"numeric": 585
+		},
+		"latitude": 7.5,
+		"longitude": 134.5,
+		"name": {
+			"de": "Palau",
+			"en": "Palau",
+			"es": "Palau",
+			"fr": "Palaos",
+			"it": "Palau",
+			"ja": "パラオ"
+		},
+		"phone": {
+			"code": "680",
+			"lengths": [
+				7
+			],
+			"prefixes": {}
+		},
+		"population": 20901,
+		"region": "Oceania",
+		"subregion": "Micronesia",
+		"timezones": [
+			"UTC+09:00"
+		]
+	},
+	"PNG": {
+		"area": 462840,
+		"currencies": [
+			"PGK"
+		],
+		"iso3166": {
+			"alpha2": "PG",
+			"alpha3": "PNG",
+			"independent": true,
+			"name": "Papua New Guinea",
+			"numeric": 598
+		},
+		"latitude": -6,
+		"longitude": 147,
+		"name": {
+			"de": "Papua-Neuguinea",
+			"en": "Papua New Guinea",
+			"es": "Papúa Nueva Guinea",
+			"fr": "Papouasie-Nouvelle-Guinée",
+			"it": "Papua Nuova Guinea",
+			"ja": "パプアニューギニア"
+		},
+		"phone": {
+			"code": "675",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 7398500,
+		"region": "Oceania",
+		"subregion": "Melanesia",
+		"timezones": [
+			"UTC+10:00"
+		]
+	},
+	"POL": {
+		"area": 312679,
+		"currencies": [
+			"PLN"
+		],
+		"iso3166": {
+			"alpha2": "PL",
+			"alpha3": "POL",
+			"independent": true,
+			"name": "Poland",
+			"numeric": 616
+		},
+		"latitude": 52,
+		"longitude": 20,
+		"name": {
+			"de": "Polen",
+			"en": "Poland",
+			"es": "Polonia",
+			"fr": "Pologne",
+			"it": "Polonia",
+			"ja": "ポーランド"
+		},
+		"phone": {
+			"code": "48",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 38484000,
+		"region": "Europe",
+		"subregion": "Eastern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"PRI": {
+		"area": 8870,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "PR",
+			"alpha3": "PRI",
+			"independent": false,
+			"name": "Puerto Rico",
+			"numeric": 630
+		},
+		"latitude": 18.25,
+		"longitude": -66.5,
+		"name": {
+			"de": "Puerto Rico",
+			"en": "Puerto Rico",
+			"es": "Puerto Rico",
+			"fr": "Porto Rico",
+			"it": "Porto Rico",
+			"ja": "プエルトリコ"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"787": {
+					"type": "mobile"
+				},
+				"939": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 3548397,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": null
+	},
+	"PRT": {
+		"area": 92090,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "PT",
+			"alpha3": "PRT",
+			"independent": true,
+			"name": "Portugal",
+			"numeric": 620
+		},
+		"latitude": 39.5,
+		"longitude": -8,
+		"name": {
+			"de": "Portugal",
+			"en": "Portugal",
+			"es": "Portugal",
+			"fr": "Portugal",
+			"it": "Portogallo",
+			"ja": "ポルトガル"
+		},
+		"phone": {
+			"code": "351",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 10374822,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC−01:00",
+			"UTC"
+		]
+	},
+	"PRY": {
+		"area": 406752,
+		"currencies": [
+			"PYG"
+		],
+		"iso3166": {
+			"alpha2": "PY",
+			"alpha3": "PRY",
+			"independent": true,
+			"name": "Paraguay",
+			"numeric": 600
+		},
+		"latitude": -23,
+		"longitude": -58,
+		"name": {
+			"de": "Paraguay",
+			"en": "Paraguay",
+			"es": "Paraguay",
+			"fr": "Paraguay",
+			"it": "Paraguay",
+			"ja": "パラグアイ"
+		},
+		"phone": {
+			"code": "595",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 7003406,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"PSE": {
+		"area": null,
+		"currencies": [ "ILS", "JOD", "USD" ],
+		"iso3166": {
+			"alpha2": "PS",
+			"alpha3": "PSE",
+			"independent": false,
+			"name": "Palestine, State of",
+			"numeric": 275
+		},
+		"latitude": 31.9,
+		"longitude": 35.2,
+		"name": {
+			"de": "Palästina",
+			"en": "Palestine",
+			"es": "Palestina",
+			"fr": "Palestine",
+			"it": "Palestina",
+			"ja": "パレスチナ"
+		},
+		"phone": {
+			"code": "970",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 4682467,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": null
+	},
+	"PYF": {
+		"area": 4167,
+		"currencies": [
+			"XPF"
+		],
+		"iso3166": {
+			"alpha2": "PF",
+			"alpha3": "PYF",
+			"independent": false,
+			"name": "French Polynesia",
+			"numeric": 258
+		},
+		"latitude": -15,
+		"longitude": -140,
+		"name": {
+			"de": "Französisch-Polynesien",
+			"en": "French Polynesia",
+			"es": "Polinesia Francesa",
+			"fr": "Polynésie française",
+			"it": "Polinesia Francese",
+			"ja": "フランス領ポリネシア"
+		},
+		"phone": {
+			"code": "689",
+			"lengths": [
+				6
+			],
+			"prefixes": {}
+		},
+		"population": 268270,
+		"region": "Oceania",
+		"subregion": "Polynesia",
+		"timezones": null
+	},
+	"QAT": {
+		"area": 11586,
+		"currencies": [
+			"QAR"
+		],
+		"iso3166": {
+			"alpha2": "QA",
+			"alpha3": "QAT",
+			"independent": true,
+			"name": "Qatar",
+			"numeric": 634
+		},
+		"latitude": 25.5,
+		"longitude": 51.25,
+		"name": {
+			"de": "Katar",
+			"en": "Qatar",
+			"es": "Catar",
+			"fr": "Qatar",
+			"it": "Qatar",
+			"ja": "カタール"
+		},
+		"phone": {
+			"code": "974",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"33": {
+					"type": "mobile"
+				},
+				"55": {
+					"type": "mobile"
+				},
+				"66": {
+					"type": "mobile"
+				},
+				"77": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 2120129,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"REU": {
+		"area": null,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "RE",
+			"alpha3": "REU",
+			"independent": false,
+			"name": "Réunion",
+			"numeric": 638
+		},
+		"latitude": -21.15,
+		"longitude": 55.5,
+		"name": {
+			"de": "Réunion",
+			"en": "Réunion",
+			"es": "Reunión",
+			"fr": "Réunion",
+			"it": "Riunione",
+			"ja": "レユニオン"
+		},
+		"phone": {
+			"code": "262",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"692": {
+					"type": "mobile"
+				},
+				"693": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 840974,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": null
+	},
+	"ROU": {
+		"area": 238391,
+		"currencies": [
+			"RON"
+		],
+		"iso3166": {
+			"alpha2": "RO",
+			"alpha3": "ROU",
+			"independent": true,
+			"name": "Romania",
+			"numeric": 642
+		},
+		"latitude": 46,
+		"longitude": 25,
+		"name": {
+			"de": "Rumänien",
+			"en": "Romania",
+			"es": "Rumania",
+			"fr": "Roumanie",
+			"it": "Romania",
+			"ja": "ルーマニア"
+		},
+		"phone": {
+			"code": "40",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 19942642,
+		"region": "Europe",
+		"subregion": "Eastern Europe",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"RUS": {
+		"area": 17124442,
+		"currencies": [
+			"RUB"
+		],
+		"iso3166": {
+			"alpha2": "RU",
+			"alpha3": "RUS",
+			"independent": true,
+			"name": "Russian Federation",
+			"numeric": 643
+		},
+		"latitude": 60,
+		"longitude": 100,
+		"name": {
+			"de": "Russland",
+			"en": "Russia",
+			"es": "Rusia",
+			"fr": "Russie",
+			"it": "Russia",
+			"ja": "ロシア連邦"
+		},
+		"phone": {
+			"code": "7",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 146556330,
+		"region": "Europe",
+		"subregion": "Eastern Europe",
+		"timezones": [
+			"UTC+03:00",
+			"UTC+04:00",
+			"UTC+06:00",
+			"UTC+07:00",
+			"UTC+08:00",
+			"UTC+09:00",
+			"UTC+10:00",
+			"UTC+11:00",
+			"UTC+12:00"
+		]
+	},
+	"RWA": {
+		"area": 26338,
+		"currencies": [
+			"RWF"
+		],
+		"iso3166": {
+			"alpha2": "RW",
+			"alpha3": "RWA",
+			"independent": true,
+			"name": "Rwanda",
+			"numeric": 646
+		},
+		"latitude": -2,
+		"longitude": 30,
+		"name": {
+			"de": "Ruanda",
+			"en": "Rwanda",
+			"es": "Ruanda",
+			"fr": "Rwanda",
+			"it": "Ruanda",
+			"ja": "ルワンダ"
+		},
+		"phone": {
+			"code": "250",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 11262564,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"SAU": {
+		"area": 2149690,
+		"currencies": [
+			"SAR"
+		],
+		"iso3166": {
+			"alpha2": "SA",
+			"alpha3": "SAU",
+			"independent": true,
+			"name": "Saudi Arabia",
+			"numeric": 682
+		},
+		"latitude": 25,
+		"longitude": 45,
+		"name": {
+			"de": "Saudi-Arabien",
+			"en": "Saudi Arabia",
+			"es": "Arabia Saudí",
+			"fr": "Arabie Saoudite",
+			"it": "Arabia Saudita",
+			"ja": "サウジアラビア"
+		},
+		"phone": {
+			"code": "966",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 31521418,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"SDN": {
+		"area": 1886068,
+		"currencies": [
+			"SDG"
+		],
+		"iso3166": {
+			"alpha2": "SD",
+			"alpha3": "SDN",
+			"independent": true,
+			"name": "Sudan",
+			"numeric": 729
+		},
+		"latitude": 15,
+		"longitude": 30,
+		"name": {
+			"de": "Sudan",
+			"en": "Sudan",
+			"es": "Sudán",
+			"fr": "Soudan",
+			"it": "Sudan",
+			"ja": "スーダン"
+		},
+		"phone": {
+			"code": "249",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 38435252,
+		"region": "Africa",
+		"subregion": "Northern Africa",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"SEN": {
+		"area": 196722,
+		"currencies": [
+			"XOF"
+		],
+		"iso3166": {
+			"alpha2": "SN",
+			"alpha3": "SEN",
+			"independent": true,
+			"name": "Senegal",
+			"numeric": 686
+		},
+		"latitude": 14,
+		"longitude": -14,
+		"name": {
+			"de": "Senegal",
+			"en": "Senegal",
+			"es": "Senegal",
+			"fr": "Sénégal",
+			"it": "Senegal",
+			"ja": "セネガル"
+		},
+		"phone": {
+			"code": "221",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 13508715,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"SGP": {
+		"area": 710,
+		"currencies": [
+			"SGD"
+		],
+		"iso3166": {
+			"alpha2": "SG",
+			"alpha3": "SGP",
+			"independent": true,
+			"name": "Singapore",
+			"numeric": 702
+		},
+		"latitude": 1.36666666,
+		"longitude": 103.8,
+		"name": {
+			"de": "Singapur",
+			"en": "Singapore",
+			"es": "Singapur",
+			"fr": "Singapour",
+			"it": "Singapore",
+			"ja": "シンガポール"
+		},
+		"phone": {
+			"code": "65",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"8": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 5469700,
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"timezones": [
+			"UTC+08:00"
+		]
+	},
+	"SHN": {
+		"area": null,
+		"currencies": [
+			"SHP"
+		],
+		"iso3166": {
+			"alpha2": "SH",
+			"alpha3": "SHN",
+			"independent": false,
+			"name": "Saint Helena, Ascension and Tristan da Cunha",
+			"numeric": 654
+		},
+		"latitude": -15.95,
+		"longitude": -5.7,
+		"name": {
+			"de": "Sankt Helena",
+			"en": "Saint Helena",
+			"es": "Santa Helena",
+			"fr": "Sainte-Hélène",
+			"it": "Sant'Elena",
+			"ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ"
+		},
+		"phone": {
+			"code": "290",
+			"lengths": [
+				4
+			],
+			"prefixes": {}
+		},
+		"population": 4255,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": null
+	},
+	"SJM": {
+		"area": null,
+		"currencies": [
+			"NOK"
+		],
+		"iso3166": {
+			"alpha2": "SJ",
+			"alpha3": "SJM",
+			"independent": false,
+			"name": "Svalbard and Jan Mayen",
+			"numeric": 744
+		},
+		"latitude": 78,
+		"longitude": 20,
+		"name": {
+			"de": "Svalbard und Jan Mayen",
+			"en": "Svalbard and Jan Mayen",
+			"es": "Islas Svalbard y Jan Mayen",
+			"fr": "Svalbard et Jan Mayen",
+			"it": "Svalbard e Jan Mayen",
+			"ja": "スヴァールバル諸島およびヤンマイエン島"
+		},
+		"phone": {
+			"code": "47",
+			"lengths": [
+				8
+			],
+			"prefixes": {}
+		},
+		"population": 2562,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": null
+	},
+	"SLB": {
+		"area": 28896,
+		"currencies": [
+			"SBD"
+		],
+		"iso3166": {
+			"alpha2": "SB",
+			"alpha3": "SLB",
+			"independent": true,
+			"name": "Solomon Islands",
+			"numeric": 90
+		},
+		"latitude": -8,
+		"longitude": 159,
+		"name": {
+			"de": "Salomonen",
+			"en": "Solomon Islands",
+			"es": "Islas Salomón",
+			"fr": "Îles Salomon",
+			"it": "Isole Salomone",
+			"ja": "ソロモン諸島"
+		},
+		"phone": {
+			"code": "677",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 581344,
+		"region": "Oceania",
+		"subregion": "Melanesia",
+		"timezones": [
+			"UTC+11:00"
+		]
+	},
+	"SLE": {
+		"area": 71740,
+		"currencies": [
+			"SLL"
+		],
+		"iso3166": {
+			"alpha2": "SL",
+			"alpha3": "SLE",
+			"independent": true,
+			"name": "Sierra Leone",
+			"numeric": 694
+		},
+		"latitude": 8.5,
+		"longitude": -11.5,
+		"name": {
+			"de": "Sierra Leone",
+			"en": "Sierra Leone",
+			"es": "Sierra Leone",
+			"fr": "Sierra Leone",
+			"it": "Sierra Leone",
+			"ja": "シエラレオネ"
+		},
+		"phone": {
+			"code": "232",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"21": {
+					"type": "mobile"
+				},
+				"25": {
+					"type": "mobile"
+				},
+				"30": {
+					"type": "mobile"
+				},
+				"33": {
+					"type": "mobile"
+				},
+				"34": {
+					"type": "mobile"
+				},
+				"40": {
+					"type": "mobile"
+				},
+				"44": {
+					"type": "mobile"
+				},
+				"50": {
+					"type": "mobile"
+				},
+				"55": {
+					"type": "mobile"
+				},
+				"76": {
+					"type": "mobile"
+				},
+				"77": {
+					"type": "mobile"
+				},
+				"78": {
+					"type": "mobile"
+				},
+				"79": {
+					"type": "mobile"
+				},
+				"88": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 6453000,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"SLV": {
+		"area": 21041,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "SV",
+			"alpha3": "SLV",
+			"independent": true,
+			"name": "El Salvador",
+			"numeric": 222
+		},
+		"latitude": 13.83333333,
+		"longitude": -88.91666666,
+		"name": {
+			"de": "El Salvador",
+			"en": "El Salvador",
+			"es": "El Salvador",
+			"fr": "Salvador",
+			"it": "El Salvador",
+			"ja": "エルサルバドル"
+		},
+		"phone": {
+			"code": "503",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 6401240,
+		"region": "Americas",
+		"subregion": "Central America",
+		"timezones": [
+			"UTC−06:00"
+		]
+	},
+	"SMR": {
+		"area": 61,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "SM",
+			"alpha3": "SMR",
+			"independent": true,
+			"name": "San Marino",
+			"numeric": 674
+		},
+		"latitude": 43.76666666,
+		"longitude": 12.41666666,
+		"name": {
+			"de": "San Marino",
+			"en": "San Marino",
+			"es": "San Marino",
+			"fr": "Saint-Marin",
+			"it": "San Marino",
+			"ja": "サンマリノ"
+		},
+		"phone": {
+			"code": "378",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 32831,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"SOM": {
+		"area": 637657,
+		"currencies": [
+			"SOS"
+		],
+		"iso3166": {
+			"alpha2": "SO",
+			"alpha3": "SOM",
+			"independent": true,
+			"name": "Somalia",
+			"numeric": 706
+		},
+		"latitude": 10,
+		"longitude": 49,
+		"name": {
+			"de": "Somalia",
+			"en": "Somalia",
+			"es": "Somalia",
+			"fr": "Somalie",
+			"it": "Somalia",
+			"ja": "ソマリア"
+		},
+		"phone": {
+			"code": "252",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 10787000,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"SPM": {
+		"area": 242,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "PM",
+			"alpha3": "SPM",
+			"independent": false,
+			"name": "Saint Pierre and Miquelon",
+			"numeric": 666
+		},
+		"latitude": 46.83333333,
+		"longitude": -56.33333333,
+		"name": {
+			"de": "Saint-Pierre und Miquelon",
+			"en": "Saint Pierre and Miquelon",
+			"es": "San Pedro y Miquelón",
+			"fr": "Saint-Pierre-et-Miquelon",
+			"it": "Saint-Pierre e Miquelon",
+			"ja": "サンピエール島・ミクロン島"
+		},
+		"phone": {
+			"code": "508",
+			"lengths": [
+				6
+			],
+			"prefixes": {
+				"55": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 6069,
+		"region": "Americas",
+		"subregion": "Northern America",
+		"timezones": null
+	},
+	"SRB": {
+		"area": 88361,
+		"currencies": [
+			"RSD"
+		],
+		"iso3166": {
+			"alpha2": "RS",
+			"alpha3": "SRB",
+			"independent": true,
+			"name": "Serbia",
+			"numeric": 688
+		},
+		"latitude": 44,
+		"longitude": 21,
+		"name": {
+			"de": "Serbien",
+			"en": "Serbia",
+			"es": "Serbia",
+			"fr": "Serbie",
+			"it": "Serbia",
+			"ja": "セルビア"
+		},
+		"phone": {
+			"code": "381",
+			"lengths": [
+				8,
+				9
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 7114393,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"STP": {
+		"area": 964,
+		"currencies": [
+			"STD"
+		],
+		"iso3166": {
+			"alpha2": "ST",
+			"alpha3": "STP",
+			"independent": true,
+			"name": "Sao Tome and Principe",
+			"numeric": 678
+		},
+		"latitude": 1,
+		"longitude": 7,
+		"name": {
+			"de": "São Tomé und Príncipe",
+			"en": "São Tomé and Príncipe",
+			"es": "Santo Tomé y Príncipe",
+			"fr": "Sao Tomé-et-Principe",
+			"it": "São Tomé e Príncipe",
+			"ja": "サントメ・プリンシペ"
+		},
+		"phone": {
+			"code": "239",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"98": {
+					"type": "mobile"
+				},
+				"99": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 187356,
+		"region": "Africa",
+		"subregion": "Middle Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"SUR": {
+		"area": 163820,
+		"currencies": [
+			"SRD"
+		],
+		"iso3166": {
+			"alpha2": "SR",
+			"alpha3": "SUR",
+			"independent": true,
+			"name": "Suriname",
+			"numeric": 740
+		},
+		"latitude": 4,
+		"longitude": -56,
+		"name": {
+			"de": "Suriname",
+			"en": "Suriname",
+			"es": "Surinam",
+			"fr": "Surinam",
+			"it": "Suriname",
+			"ja": "スリナム"
+		},
+		"phone": {
+			"code": "597",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 534189,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−03:00"
+		]
+	},
+	"SVK": {
+		"area": 49037,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "SK",
+			"alpha3": "SVK",
+			"independent": true,
+			"name": "Slovakia",
+			"numeric": 703
+		},
+		"latitude": 48.66666666,
+		"longitude": 19.5,
+		"name": {
+			"de": "Slowakei",
+			"en": "Slovakia",
+			"es": "República Eslovaca",
+			"fr": "Slovaquie",
+			"it": "Slovacchia",
+			"ja": "スロバキア"
+		},
+		"phone": {
+			"code": "421",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 5421349,
+		"region": "Europe",
+		"subregion": "Eastern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"SVN": {
+		"area": 20273,
+		"currencies": [
+			"EUR"
+		],
+		"iso3166": {
+			"alpha2": "SI",
+			"alpha3": "SVN",
+			"independent": true,
+			"name": "Slovenia",
+			"numeric": 705
+		},
+		"latitude": 46.11666666,
+		"longitude": 14.81666666,
+		"name": {
+			"de": "Slowenien",
+			"en": "Slovenia",
+			"es": "Eslovenia",
+			"fr": "Slovénie",
+			"it": "Slovenia",
+			"ja": "スロベニア"
+		},
+		"phone": {
+			"code": "386",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"3": {
+					"type": "mobile"
+				},
+				"4": {
+					"type": "mobile"
+				},
+				"5": {
+					"type": "mobile"
+				},
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 2067683,
+		"region": "Europe",
+		"subregion": "Southern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"SWE": {
+		"area": 450295,
+		"currencies": [
+			"SEK"
+		],
+		"iso3166": {
+			"alpha2": "SE",
+			"alpha3": "SWE",
+			"independent": true,
+			"name": "Sweden",
+			"numeric": 752
+		},
+		"latitude": 62,
+		"longitude": 15,
+		"name": {
+			"de": "Schweden",
+			"en": "Sweden",
+			"es": "Suecia",
+			"fr": "Suède",
+			"it": "Svezia",
+			"ja": "スウェーデン"
+		},
+		"phone": {
+			"code": "46",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 9793172,
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"SXM": {
+		"area": 34,
+		"currencies": [
+			"ANG"
+		],
+		"iso3166": {
+			"alpha2": "SX",
+			"alpha3": "SXM",
+			"independent": false,
+			"name": "Sint Maarten (Dutch part)",
+			"numeric": 534
+		},
+		"latitude": 18.033333,
+		"longitude": -63.05,
+		"name": {
+			"de": null,
+			"en": "Sint Maarten",
+			"es": null,
+			"fr": null,
+			"it": null,
+			"ja": null
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"721": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 37429,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": null
+	},
+	"SYC": {
+		"area": 452,
+		"currencies": [
+			"SCR"
+		],
+		"iso3166": {
+			"alpha2": "SC",
+			"alpha3": "SYC",
+			"independent": true,
+			"name": "Seychelles",
+			"numeric": 690
+		},
+		"latitude": -4.58333333,
+		"longitude": 55.66666666,
+		"name": {
+			"de": "Seychellen",
+			"en": "Seychelles",
+			"es": "Seychelles",
+			"fr": "Seychelles",
+			"it": "Seychelles",
+			"ja": "セーシェル"
+		},
+		"phone": {
+			"code": "248",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"2": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 89949,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+04:00"
+		]
+	},
+	"SYR": {
+		"area": 185180,
+		"currencies": [
+			"SYP"
+		],
+		"iso3166": {
+			"alpha2": "SY",
+			"alpha3": "SYR",
+			"independent": true,
+			"name": "Syrian Arab Republic",
+			"numeric": 760
+		},
+		"latitude": 35,
+		"longitude": 38,
+		"name": {
+			"de": "Syrien",
+			"en": "Syria",
+			"es": "Siria",
+			"fr": "Syrie",
+			"it": "Siria",
+			"ja": "シリア・アラブ共和国"
+		},
+		"phone": {
+			"code": "963",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 23339517,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"TCA": {
+		"area": 948,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "TC",
+			"alpha3": "TCA",
+			"independent": false,
+			"name": "Turks and Caicos Islands",
+			"numeric": 796
+		},
+		"latitude": 21.75,
+		"longitude": -71.58333333,
+		"name": {
+			"de": "Turks- und Caicosinseln",
+			"en": "Turks and Caicos Islands",
+			"es": "Islas Turks y Caicos",
+			"fr": "Îles Turques-et-Caïques",
+			"it": "Isole Turks e Caicos",
+			"ja": "タークス・カイコス諸島"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"6492": {
+					"type": "mobile"
+				},
+				"6493": {
+					"type": "mobile"
+				},
+				"6494": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 31458,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": null
+	},
+	"TCD": {
+		"area": 1284000,
+		"currencies": [
+			"XAF"
+		],
+		"iso3166": {
+			"alpha2": "TD",
+			"alpha3": "TCD",
+			"independent": true,
+			"name": "Chad",
+			"numeric": 148
+		},
+		"latitude": 15,
+		"longitude": 19,
+		"name": {
+			"de": "Tschad",
+			"en": "Chad",
+			"es": "Chad",
+			"fr": "Tchad",
+			"it": "Ciad",
+			"ja": "チャド"
+		},
+		"phone": {
+			"code": "235",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 14037000,
+		"region": "Africa",
+		"subregion": "Middle Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"TGO": {
+		"area": 56785,
+		"currencies": [
+			"XOF"
+		],
+		"iso3166": {
+			"alpha2": "TG",
+			"alpha3": "TGO",
+			"independent": true,
+			"name": "Togo",
+			"numeric": 768
+		},
+		"latitude": 8,
+		"longitude": 1.16666666,
+		"name": {
+			"de": "Togo",
+			"en": "Togo",
+			"es": "Togo",
+			"fr": "Togo",
+			"it": "Togo",
+			"ja": "トーゴ"
+		},
+		"phone": {
+			"code": "228",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 7305000,
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"timezones": [
+			"UTC"
+		]
+	},
+	"THA": {
+		"area": 513120,
+		"currencies": [
+			"THB"
+		],
+		"iso3166": {
+			"alpha2": "TH",
+			"alpha3": "THA",
+			"independent": true,
+			"name": "Thailand",
+			"numeric": 764
+		},
+		"latitude": 15,
+		"longitude": 100,
+		"name": {
+			"de": "Thailand",
+			"en": "Thailand",
+			"es": "Tailandia",
+			"fr": "Thaïlande",
+			"it": "Tailandia",
+			"ja": "タイ"
+		},
+		"phone": {
+			"code": "66",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"8": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 65104000,
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"timezones": [
+			"UTC+07:00"
+		]
+	},
+	"TJK": {
+		"area": 143100,
+		"currencies": [
+			"TJS"
+		],
+		"iso3166": {
+			"alpha2": "TJ",
+			"alpha3": "TJK",
+			"independent": true,
+			"name": "Tajikistan",
+			"numeric": 762
+		},
+		"latitude": 39,
+		"longitude": 71,
+		"name": {
+			"de": "Tadschikistan",
+			"en": "Tajikistan",
+			"es": "Tayikistán",
+			"fr": "Tadjikistan",
+			"it": "Tagikistan",
+			"ja": "タジキスタン"
+		},
+		"phone": {
+			"code": "992",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 8354000,
+		"region": "Asia",
+		"subregion": "Central Asia",
+		"timezones": [
+			"UTC+05:00"
+		]
+	},
+	"TKL": {
+		"area": 12,
+		"currencies": [
+			"NZD"
+		],
+		"iso3166": {
+			"alpha2": "TK",
+			"alpha3": "TKL",
+			"independent": false,
+			"name": "Tokelau",
+			"numeric": 772
+		},
+		"latitude": -9,
+		"longitude": -172,
+		"name": {
+			"de": "Tokelau",
+			"en": "Tokelau",
+			"es": "Islas Tokelau",
+			"fr": "Tokelau",
+			"it": "Isole Tokelau",
+			"ja": "トケラウ"
+		},
+		"phone": {
+			"code": "690",
+			"lengths": [
+				4
+			],
+			"prefixes": {}
+		},
+		"population": 1411,
+		"region": "Oceania",
+		"subregion": "Polynesia",
+		"timezones": null
+	},
+	"TKM": {
+		"area": 488100,
+		"currencies": [
+			"TMT"
+		],
+		"iso3166": {
+			"alpha2": "TM",
+			"alpha3": "TKM",
+			"independent": true,
+			"name": "Turkmenistan",
+			"numeric": 795
+		},
+		"latitude": 40,
+		"longitude": 60,
+		"name": {
+			"de": "Turkmenistan",
+			"en": "Turkmenistan",
+			"es": "Turkmenistán",
+			"fr": "Turkménistan",
+			"it": "Turkmenistan",
+			"ja": "トルクメニスタン"
+		},
+		"phone": {
+			"code": "993",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 4751120,
+		"region": "Asia",
+		"subregion": "Central Asia",
+		"timezones": [
+			"UTC+05:00"
+		]
+	},
+	"TLS": {
+		"area": 14874,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "TL",
+			"alpha3": "TLS",
+			"independent": true,
+			"name": "Timor-Leste",
+			"numeric": 626
+		},
+		"latitude": -8.83333333,
+		"longitude": 125.91666666,
+		"name": {
+			"de": "Timor-Leste",
+			"en": "East Timor",
+			"es": "Timor Oriental",
+			"fr": "Timor oriental",
+			"it": "Timor Est",
+			"ja": "東ティモール"
+		},
+		"phone": {
+			"code": "670",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 1212107,
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"timezones": [
+			"UTC+09:00"
+		]
+	},
+	"TON": {
+		"area": 747,
+		"currencies": [
+			"TOP"
+		],
+		"iso3166": {
+			"alpha2": "TO",
+			"alpha3": "TON",
+			"independent": true,
+			"name": "Tonga",
+			"numeric": 776
+		},
+		"latitude": -20,
+		"longitude": -175,
+		"name": {
+			"de": "Tonga",
+			"en": "Tonga",
+			"es": "Tonga",
+			"fr": "Tonga",
+			"it": "Tonga",
+			"ja": "トンガ"
+		},
+		"phone": {
+			"code": "676",
+			"lengths": [
+				5
+			],
+			"prefixes": {}
+		},
+		"population": 103252,
+		"region": "Oceania",
+		"subregion": "Polynesia",
+		"timezones": [
+			"UTC+13:00"
+		]
+	},
+	"TTO": {
+		"area": 5130,
+		"currencies": [
+			"TTD"
+		],
+		"iso3166": {
+			"alpha2": "TT",
+			"alpha3": "TTO",
+			"independent": true,
+			"name": "Trinidad and Tobago",
+			"numeric": 780
+		},
+		"latitude": 11,
+		"longitude": -61,
+		"name": {
+			"de": "Trinidad und Tobago",
+			"en": "Trinidad and Tobago",
+			"es": "Trinidad y Tobago",
+			"fr": "Trinité et Tobago",
+			"it": "Trinidad e Tobago",
+			"ja": "トリニダード・トバゴ"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"868": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 1340557,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"TUN": {
+		"area": 163610,
+		"currencies": [
+			"TND"
+		],
+		"iso3166": {
+			"alpha2": "TN",
+			"alpha3": "TUN",
+			"independent": true,
+			"name": "Tunisia",
+			"numeric": 788
+		},
+		"latitude": 34,
+		"longitude": 9,
+		"name": {
+			"de": "Tunesien",
+			"en": "Tunisia",
+			"es": "Túnez",
+			"fr": "Tunisie",
+			"it": "Tunisia",
+			"ja": "チュニジア"
+		},
+		"phone": {
+			"code": "216",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"2": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 10982754,
+		"region": "Africa",
+		"subregion": "Northern Africa",
+		"timezones": [
+			"UTC+01:00"
+		]
+	},
+	"TUR": {
+		"area": 783562,
+		"currencies": [
+			"TRY"
+		],
+		"iso3166": {
+			"alpha2": "TR",
+			"alpha3": "TUR",
+			"independent": true,
+			"name": "Turkey",
+			"numeric": 792
+		},
+		"latitude": 39,
+		"longitude": 35,
+		"name": {
+			"de": "Türkei",
+			"en": "Turkey",
+			"es": "Turquía",
+			"fr": "Turquie",
+			"it": "Turchia",
+			"ja": "トルコ"
+		},
+		"phone": {
+			"code": "90",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 77695904,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"TUV": {
+		"area": 26,
+		"currencies": [
+			"AUD"
+		],
+		"iso3166": {
+			"alpha2": "TV",
+			"alpha3": "TUV",
+			"independent": true,
+			"name": "Tuvalu",
+			"numeric": 798
+		},
+		"latitude": -8,
+		"longitude": 178,
+		"name": {
+			"de": "Tuvalu",
+			"en": "Tuvalu",
+			"es": "Tuvalu",
+			"fr": "Tuvalu",
+			"it": "Tuvalu",
+			"ja": "ツバル"
+		},
+		"phone": {
+			"code": "688",
+			"lengths": [
+				5
+			],
+			"prefixes": {}
+		},
+		"population": 10640,
+		"region": "Oceania",
+		"subregion": "Polynesia",
+		"timezones": [
+			"UTC+12:00"
+		]
+	},
+	"TWN": {
+		"area": 36193,
+		"currencies": [
+			"TWD"
+		],
+		"iso3166": {
+			"alpha2": "TW",
+			"alpha3": "TWN",
+			"independent": true,
+			"name": "Taiwan, Province of China",
+			"numeric": 158
+		},
+		"latitude": 23.5,
+		"longitude": 121,
+		"name": {
+			"de": "Taiwan",
+			"en": "Taiwan",
+			"es": "Taiwán",
+			"fr": "Taïwan",
+			"it": "Taiwan",
+			"ja": "台湾（台湾省/中華民国）"
+		},
+		"phone": {
+			"code": "886",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 23461708,
+		"region": "Asia",
+		"subregion": "Eastern Asia",
+		"timezones": [
+			"UTC+08:00"
+		]
+	},
+	"TZA": {
+		"area": 945087,
+		"currencies": [
+			"TZS"
+		],
+		"iso3166": {
+			"alpha2": "TZ",
+			"alpha3": "TZA",
+			"independent": true,
+			"name": "Tanzania, United Republic of",
+			"numeric": 834
+		},
+		"latitude": -6,
+		"longitude": 35,
+		"name": {
+			"de": "Tansania",
+			"en": "Tanzania",
+			"es": "Tanzania",
+			"fr": "Tanzanie",
+			"it": "Tanzania",
+			"ja": "タンザニア"
+		},
+		"phone": {
+			"code": "255",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 53470000,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"UGA": {
+		"area": 241550,
+		"currencies": [
+			"UGX"
+		],
+		"iso3166": {
+			"alpha2": "UG",
+			"alpha3": "UGA",
+			"independent": true,
+			"name": "Uganda",
+			"numeric": 800
+		},
+		"latitude": 1,
+		"longitude": 32,
+		"name": {
+			"de": "Uganda",
+			"en": "Uganda",
+			"es": "Uganda",
+			"fr": "Uganda",
+			"it": "Uganda",
+			"ja": "ウガンダ"
+		},
+		"phone": {
+			"code": "256",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 34856813,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"UKR": {
+		"area": 603700,
+		"currencies": [
+			"UAH"
+		],
+		"iso3166": {
+			"alpha2": "UA",
+			"alpha3": "UKR",
+			"independent": true,
+			"name": "Ukraine",
+			"numeric": 804
+		},
+		"latitude": 49,
+		"longitude": 32,
+		"name": {
+			"de": "Ukraine",
+			"en": "Ukraine",
+			"es": "Ucrania",
+			"fr": "Ukraine",
+			"it": "Ucraina",
+			"ja": "ウクライナ"
+		},
+		"phone": {
+			"code": "380",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				},
+				"39": {
+					"type": "mobile"
+				},
+				"50": {
+					"type": "mobile"
+				},
+				"63": {
+					"type": "mobile"
+				},
+				"66": {
+					"type": "mobile"
+				},
+				"67": {
+					"type": "mobile"
+				},
+				"68": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 42836922,
+		"region": "Europe",
+		"subregion": "Eastern Europe",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"URY": {
+		"area": 181034,
+		"currencies": [
+			"UYU"
+		],
+		"iso3166": {
+			"alpha2": "UY",
+			"alpha3": "URY",
+			"independent": true,
+			"name": "Uruguay",
+			"numeric": 858
+		},
+		"latitude": -33,
+		"longitude": -56,
+		"name": {
+			"de": "Uruguay",
+			"en": "Uruguay",
+			"es": "Uruguay",
+			"fr": "Uruguay",
+			"it": "Uruguay",
+			"ja": "ウルグアイ"
+		},
+		"phone": {
+			"code": "598",
+			"lengths": [
+				8
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 3415866,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−03:00"
+		]
+	},
+	"USA": {
+		"area": 9629091,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "US",
+			"alpha3": "USA",
+			"independent": true,
+			"name": "United States",
+			"numeric": 840
+		},
+		"latitude": 38,
+		"longitude": -97,
+		"name": {
+			"de": "Vereinigte Staaten von Amerika",
+			"en": "United States",
+			"es": "Estados Unidos",
+			"fr": "États-Unis",
+			"it": "Stati Uniti D'America",
+			"ja": "アメリカ合衆国"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"201": {
+					"type": "mobile"
+				},
+				"202": {
+					"type": "mobile"
+				},
+				"203": {
+					"type": "mobile"
+				},
+				"205": {
+					"type": "mobile"
+				},
+				"206": {
+					"type": "mobile"
+				},
+				"207": {
+					"type": "mobile"
+				},
+				"208": {
+					"type": "mobile"
+				},
+				"209": {
+					"type": "mobile"
+				},
+				"210": {
+					"type": "mobile"
+				},
+				"212": {
+					"type": "mobile"
+				},
+				"213": {
+					"type": "mobile"
+				},
+				"214": {
+					"type": "mobile"
+				},
+				"215": {
+					"type": "mobile"
+				},
+				"216": {
+					"type": "mobile"
+				},
+				"217": {
+					"type": "mobile"
+				},
+				"218": {
+					"type": "mobile"
+				},
+				"219": {
+					"type": "mobile"
+				},
+				"224": {
+					"type": "mobile"
+				},
+				"225": {
+					"type": "mobile"
+				},
+				"227": {
+					"type": "mobile"
+				},
+				"228": {
+					"type": "mobile"
+				},
+				"229": {
+					"type": "mobile"
+				},
+				"231": {
+					"type": "mobile"
+				},
+				"234": {
+					"type": "mobile"
+				},
+				"239": {
+					"type": "mobile"
+				},
+				"240": {
+					"type": "mobile"
+				},
+				"248": {
+					"type": "mobile"
+				},
+				"251": {
+					"type": "mobile"
+				},
+				"252": {
+					"type": "mobile"
+				},
+				"253": {
+					"type": "mobile"
+				},
+				"254": {
+					"type": "mobile"
+				},
+				"256": {
+					"type": "mobile"
+				},
+				"260": {
+					"type": "mobile"
+				},
+				"262": {
+					"type": "mobile"
+				},
+				"267": {
+					"type": "mobile"
+				},
+				"269": {
+					"type": "mobile"
+				},
+				"270": {
+					"type": "mobile"
+				},
+				"272": {
+					"type": "mobile"
+				},
+				"274": {
+					"type": "mobile"
+				},
+				"276": {
+					"type": "mobile"
+				},
+				"278": {
+					"type": "mobile"
+				},
+				"281": {
+					"type": "mobile"
+				},
+				"283": {
+					"type": "mobile"
+				},
+				"301": {
+					"type": "mobile"
+				},
+				"302": {
+					"type": "mobile"
+				},
+				"303": {
+					"type": "mobile"
+				},
+				"304": {
+					"type": "mobile"
+				},
+				"305": {
+					"type": "mobile"
+				},
+				"307": {
+					"type": "mobile"
+				},
+				"308": {
+					"type": "mobile"
+				},
+				"309": {
+					"type": "mobile"
+				},
+				"310": {
+					"type": "mobile"
+				},
+				"312": {
+					"type": "mobile"
+				},
+				"313": {
+					"type": "mobile"
+				},
+				"314": {
+					"type": "mobile"
+				},
+				"315": {
+					"type": "mobile"
+				},
+				"316": {
+					"type": "mobile"
+				},
+				"317": {
+					"type": "mobile"
+				},
+				"318": {
+					"type": "mobile"
+				},
+				"319": {
+					"type": "mobile"
+				},
+				"320": {
+					"type": "mobile"
+				},
+				"321": {
+					"type": "mobile"
+				},
+				"323": {
+					"type": "mobile"
+				},
+				"325": {
+					"type": "mobile"
+				},
+				"327": {
+					"type": "mobile"
+				},
+				"330": {
+					"type": "mobile"
+				},
+				"331": {
+					"type": "mobile"
+				},
+				"334": {
+					"type": "mobile"
+				},
+				"336": {
+					"type": "mobile"
+				},
+				"337": {
+					"type": "mobile"
+				},
+				"339": {
+					"type": "mobile"
+				},
+				"341": {
+					"type": "mobile"
+				},
+				"346": {
+					"type": "mobile"
+				},
+				"347": {
+					"type": "mobile"
+				},
+				"351": {
+					"type": "mobile"
+				},
+				"352": {
+					"type": "mobile"
+				},
+				"360": {
+					"type": "mobile"
+				},
+				"361": {
+					"type": "mobile"
+				},
+				"364": {
+					"type": "mobile"
+				},
+				"369": {
+					"type": "mobile"
+				},
+				"380": {
+					"type": "mobile"
+				},
+				"385": {
+					"type": "mobile"
+				},
+				"386": {
+					"type": "mobile"
+				},
+				"401": {
+					"type": "mobile"
+				},
+				"402": {
+					"type": "mobile"
+				},
+				"404": {
+					"type": "mobile"
+				},
+				"405": {
+					"type": "mobile"
+				},
+				"406": {
+					"type": "mobile"
+				},
+				"407": {
+					"type": "mobile"
+				},
+				"408": {
+					"type": "mobile"
+				},
+				"409": {
+					"type": "mobile"
+				},
+				"410": {
+					"type": "mobile"
+				},
+				"412": {
+					"type": "mobile"
+				},
+				"413": {
+					"type": "mobile"
+				},
+				"414": {
+					"type": "mobile"
+				},
+				"415": {
+					"type": "mobile"
+				},
+				"417": {
+					"type": "mobile"
+				},
+				"419": {
+					"type": "mobile"
+				},
+				"423": {
+					"type": "mobile"
+				},
+				"424": {
+					"type": "mobile"
+				},
+				"425": {
+					"type": "mobile"
+				},
+				"430": {
+					"type": "mobile"
+				},
+				"432": {
+					"type": "mobile"
+				},
+				"434": {
+					"type": "mobile"
+				},
+				"435": {
+					"type": "mobile"
+				},
+				"440": {
+					"type": "mobile"
+				},
+				"442": {
+					"type": "mobile"
+				},
+				"443": {
+					"type": "mobile"
+				},
+				"445": {
+					"type": "mobile"
+				},
+				"447": {
+					"type": "mobile"
+				},
+				"458": {
+					"type": "mobile"
+				},
+				"464": {
+					"type": "mobile"
+				},
+				"469": {
+					"type": "mobile"
+				},
+				"470": {
+					"type": "mobile"
+				},
+				"475": {
+					"type": "mobile"
+				},
+				"478": {
+					"type": "mobile"
+				},
+				"479": {
+					"type": "mobile"
+				},
+				"480": {
+					"type": "mobile"
+				},
+				"484": {
+					"type": "mobile"
+				},
+				"501": {
+					"type": "mobile"
+				},
+				"502": {
+					"type": "mobile"
+				},
+				"503": {
+					"type": "mobile"
+				},
+				"504": {
+					"type": "mobile"
+				},
+				"505": {
+					"type": "mobile"
+				},
+				"507": {
+					"type": "mobile"
+				},
+				"508": {
+					"type": "mobile"
+				},
+				"509": {
+					"type": "mobile"
+				},
+				"510": {
+					"type": "mobile"
+				},
+				"512": {
+					"type": "mobile"
+				},
+				"513": {
+					"type": "mobile"
+				},
+				"515": {
+					"type": "mobile"
+				},
+				"516": {
+					"type": "mobile"
+				},
+				"517": {
+					"type": "mobile"
+				},
+				"518": {
+					"type": "mobile"
+				},
+				"520": {
+					"type": "mobile"
+				},
+				"530": {
+					"type": "mobile"
+				},
+				"531": {
+					"type": "mobile"
+				},
+				"534": {
+					"type": "mobile"
+				},
+				"539": {
+					"type": "mobile"
+				},
+				"540": {
+					"type": "mobile"
+				},
+				"541": {
+					"type": "mobile"
+				},
+				"551": {
+					"type": "mobile"
+				},
+				"557": {
+					"type": "mobile"
+				},
+				"559": {
+					"type": "mobile"
+				},
+				"561": {
+					"type": "mobile"
+				},
+				"562": {
+					"type": "mobile"
+				},
+				"563": {
+					"type": "mobile"
+				},
+				"564": {
+					"type": "mobile"
+				},
+				"567": {
+					"type": "mobile"
+				},
+				"570": {
+					"type": "mobile"
+				},
+				"571": {
+					"type": "mobile"
+				},
+				"573": {
+					"type": "mobile"
+				},
+				"574": {
+					"type": "mobile"
+				},
+				"575": {
+					"type": "mobile"
+				},
+				"580": {
+					"type": "mobile"
+				},
+				"582": {
+					"type": "mobile"
+				},
+				"585": {
+					"type": "mobile"
+				},
+				"586": {
+					"type": "mobile"
+				},
+				"601": {
+					"type": "mobile"
+				},
+				"602": {
+					"type": "mobile"
+				},
+				"603": {
+					"type": "mobile"
+				},
+				"605": {
+					"type": "mobile"
+				},
+				"606": {
+					"type": "mobile"
+				},
+				"607": {
+					"type": "mobile"
+				},
+				"608": {
+					"type": "mobile"
+				},
+				"609": {
+					"type": "mobile"
+				},
+				"610": {
+					"type": "mobile"
+				},
+				"612": {
+					"type": "mobile"
+				},
+				"614": {
+					"type": "mobile"
+				},
+				"615": {
+					"type": "mobile"
+				},
+				"616": {
+					"type": "mobile"
+				},
+				"617": {
+					"type": "mobile"
+				},
+				"618": {
+					"type": "mobile"
+				},
+				"619": {
+					"type": "mobile"
+				},
+				"620": {
+					"type": "mobile"
+				},
+				"623": {
+					"type": "mobile"
+				},
+				"626": {
+					"type": "mobile"
+				},
+				"627": {
+					"type": "mobile"
+				},
+				"628": {
+					"type": "mobile"
+				},
+				"630": {
+					"type": "mobile"
+				},
+				"631": {
+					"type": "mobile"
+				},
+				"636": {
+					"type": "mobile"
+				},
+				"641": {
+					"type": "mobile"
+				},
+				"646": {
+					"type": "mobile"
+				},
+				"650": {
+					"type": "mobile"
+				},
+				"651": {
+					"type": "mobile"
+				},
+				"657": {
+					"type": "mobile"
+				},
+				"659": {
+					"type": "mobile"
+				},
+				"660": {
+					"type": "mobile"
+				},
+				"661": {
+					"type": "mobile"
+				},
+				"662": {
+					"type": "mobile"
+				},
+				"667": {
+					"type": "mobile"
+				},
+				"669": {
+					"type": "mobile"
+				},
+				"678": {
+					"type": "mobile"
+				},
+				"679": {
+					"type": "mobile"
+				},
+				"681": {
+					"type": "mobile"
+				},
+				"682": {
+					"type": "mobile"
+				},
+				"689": {
+					"type": "mobile"
+				},
+				"701": {
+					"type": "mobile"
+				},
+				"702": {
+					"type": "mobile"
+				},
+				"703": {
+					"type": "mobile"
+				},
+				"704": {
+					"type": "mobile"
+				},
+				"706": {
+					"type": "mobile"
+				},
+				"707": {
+					"type": "mobile"
+				},
+				"708": {
+					"type": "mobile"
+				},
+				"712": {
+					"type": "mobile"
+				},
+				"713": {
+					"type": "mobile"
+				},
+				"714": {
+					"type": "mobile"
+				},
+				"715": {
+					"type": "mobile"
+				},
+				"716": {
+					"type": "mobile"
+				},
+				"717": {
+					"type": "mobile"
+				},
+				"718": {
+					"type": "mobile"
+				},
+				"719": {
+					"type": "mobile"
+				},
+				"720": {
+					"type": "mobile"
+				},
+				"724": {
+					"type": "mobile"
+				},
+				"725": {
+					"type": "mobile"
+				},
+				"727": {
+					"type": "mobile"
+				},
+				"730": {
+					"type": "mobile"
+				},
+				"731": {
+					"type": "mobile"
+				},
+				"732": {
+					"type": "mobile"
+				},
+				"734": {
+					"type": "mobile"
+				},
+				"737": {
+					"type": "mobile"
+				},
+				"740": {
+					"type": "mobile"
+				},
+				"747": {
+					"type": "mobile"
+				},
+				"752": {
+					"type": "mobile"
+				},
+				"754": {
+					"type": "mobile"
+				},
+				"757": {
+					"type": "mobile"
+				},
+				"760": {
+					"type": "mobile"
+				},
+				"762": {
+					"type": "mobile"
+				},
+				"763": {
+					"type": "mobile"
+				},
+				"764": {
+					"type": "mobile"
+				},
+				"765": {
+					"type": "mobile"
+				},
+				"769": {
+					"type": "mobile"
+				},
+				"770": {
+					"type": "mobile"
+				},
+				"772": {
+					"type": "mobile"
+				},
+				"773": {
+					"type": "mobile"
+				},
+				"774": {
+					"type": "mobile"
+				},
+				"775": {
+					"type": "mobile"
+				},
+				"779": {
+					"type": "mobile"
+				},
+				"781": {
+					"type": "mobile"
+				},
+				"785": {
+					"type": "mobile"
+				},
+				"786": {
+					"type": "mobile"
+				},
+				"801": {
+					"type": "mobile"
+				},
+				"802": {
+					"type": "mobile"
+				},
+				"803": {
+					"type": "mobile"
+				},
+				"804": {
+					"type": "mobile"
+				},
+				"805": {
+					"type": "mobile"
+				},
+				"806": {
+					"type": "mobile"
+				},
+				"808": {
+					"type": "mobile"
+				},
+				"810": {
+					"type": "mobile"
+				},
+				"812": {
+					"type": "mobile"
+				},
+				"813": {
+					"type": "mobile"
+				},
+				"814": {
+					"type": "mobile"
+				},
+				"815": {
+					"type": "mobile"
+				},
+				"816": {
+					"type": "mobile"
+				},
+				"817": {
+					"type": "mobile"
+				},
+				"818": {
+					"type": "mobile"
+				},
+				"828": {
+					"type": "mobile"
+				},
+				"830": {
+					"type": "mobile"
+				},
+				"831": {
+					"type": "mobile"
+				},
+				"832": {
+					"type": "mobile"
+				},
+				"835": {
+					"type": "mobile"
+				},
+				"843": {
+					"type": "mobile"
+				},
+				"845": {
+					"type": "mobile"
+				},
+				"847": {
+					"type": "mobile"
+				},
+				"848": {
+					"type": "mobile"
+				},
+				"850": {
+					"type": "mobile"
+				},
+				"856": {
+					"type": "mobile"
+				},
+				"857": {
+					"type": "mobile"
+				},
+				"858": {
+					"type": "mobile"
+				},
+				"859": {
+					"type": "mobile"
+				},
+				"860": {
+					"type": "mobile"
+				},
+				"862": {
+					"type": "mobile"
+				},
+				"863": {
+					"type": "mobile"
+				},
+				"864": {
+					"type": "mobile"
+				},
+				"865": {
+					"type": "mobile"
+				},
+				"870": {
+					"type": "mobile"
+				},
+				"872": {
+					"type": "mobile"
+				},
+				"878": {
+					"type": "mobile"
+				},
+				"901": {
+					"type": "mobile"
+				},
+				"903": {
+					"type": "mobile"
+				},
+				"904": {
+					"type": "mobile"
+				},
+				"906": {
+					"type": "mobile"
+				},
+				"907": {
+					"type": "mobile"
+				},
+				"908": {
+					"type": "mobile"
+				},
+				"909": {
+					"type": "mobile"
+				},
+				"910": {
+					"type": "mobile"
+				},
+				"912": {
+					"type": "mobile"
+				},
+				"913": {
+					"type": "mobile"
+				},
+				"914": {
+					"type": "mobile"
+				},
+				"915": {
+					"type": "mobile"
+				},
+				"916": {
+					"type": "mobile"
+				},
+				"917": {
+					"type": "mobile"
+				},
+				"918": {
+					"type": "mobile"
+				},
+				"919": {
+					"type": "mobile"
+				},
+				"920": {
+					"type": "mobile"
+				},
+				"925": {
+					"type": "mobile"
+				},
+				"927": {
+					"type": "mobile"
+				},
+				"928": {
+					"type": "mobile"
+				},
+				"929": {
+					"type": "mobile"
+				},
+				"931": {
+					"type": "mobile"
+				},
+				"935": {
+					"type": "mobile"
+				},
+				"936": {
+					"type": "mobile"
+				},
+				"937": {
+					"type": "mobile"
+				},
+				"938": {
+					"type": "mobile"
+				},
+				"940": {
+					"type": "mobile"
+				},
+				"941": {
+					"type": "mobile"
+				},
+				"947": {
+					"type": "mobile"
+				},
+				"949": {
+					"type": "mobile"
+				},
+				"951": {
+					"type": "mobile"
+				},
+				"952": {
+					"type": "mobile"
+				},
+				"954": {
+					"type": "mobile"
+				},
+				"956": {
+					"type": "mobile"
+				},
+				"957": {
+					"type": "mobile"
+				},
+				"959": {
+					"type": "mobile"
+				},
+				"970": {
+					"type": "mobile"
+				},
+				"971": {
+					"type": "mobile"
+				},
+				"972": {
+					"type": "mobile"
+				},
+				"973": {
+					"type": "mobile"
+				},
+				"975": {
+					"type": "mobile"
+				},
+				"978": {
+					"type": "mobile"
+				},
+				"979": {
+					"type": "mobile"
+				},
+				"980": {
+					"type": "mobile"
+				},
+				"984": {
+					"type": "mobile"
+				},
+				"985": {
+					"type": "mobile"
+				},
+				"989": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 321645000,
+		"region": "Americas",
+		"subregion": "Northern America",
+		"timezones": [
+			"UTC−12:00",
+			"UTC−11:00",
+			"UTC−10:00",
+			"UTC−09:00",
+			"UTC−08:00",
+			"UTC−07:00",
+			"UTC−06:00",
+			"UTC−05:00",
+			"UTC−04:00",
+			"UTC+10:00",
+			"UTC+12:00"
+		]
+	},
+	"UZB": {
+		"area": 447400,
+		"currencies": [
+			"UZS"
+		],
+		"iso3166": {
+			"alpha2": "UZ",
+			"alpha3": "UZB",
+			"independent": true,
+			"name": "Uzbekistan",
+			"numeric": 860
+		},
+		"latitude": 41,
+		"longitude": 64,
+		"name": {
+			"de": "Usbekistan",
+			"en": "Uzbekistan",
+			"es": "Uzbekistán",
+			"fr": "Ouzbékistan",
+			"it": "Uzbekistan",
+			"ja": "ウズベキスタン"
+		},
+		"phone": {
+			"code": "998",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 31022500,
+		"region": "Asia",
+		"subregion": "Central Asia",
+		"timezones": [
+			"UTC+05:00"
+		]
+	},
+	"VCT": {
+		"area": 389,
+		"currencies": [
+			"XCD"
+		],
+		"iso3166": {
+			"alpha2": "VC",
+			"alpha3": "VCT",
+			"independent": true,
+			"name": "Saint Vincent and the Grenadines",
+			"numeric": 670
+		},
+		"latitude": 13.25,
+		"longitude": -61.2,
+		"name": {
+			"de": "Saint Vincent und die Grenadinen",
+			"en": "Saint Vincent and the Grenadines",
+			"es": "San Vicente y Granadinas",
+			"fr": "Saint-Vincent-et-les-Grenadines",
+			"it": "Saint Vincent e Grenadine",
+			"ja": "セントビンセントおよびグレナディーン諸島"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"784": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 109991,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": [
+			"UTC−04:00"
+		]
+	},
+	"VEN": {
+		"area": 916445,
+		"currencies": [
+			"VEF"
+		],
+		"iso3166": {
+			"alpha2": "VE",
+			"alpha3": "VEN",
+			"independent": true,
+			"name": "Venezuela, Bolivarian Republic of",
+			"numeric": 862
+		},
+		"latitude": 8,
+		"longitude": -66,
+		"name": {
+			"de": "Venezuela",
+			"en": "Venezuela",
+			"es": "Venezuela",
+			"fr": "Venezuela",
+			"it": "Venezuela",
+			"ja": "ベネズエラ・ボリバル共和国"
+		},
+		"phone": {
+			"code": "58",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"4": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 30620404,
+		"region": "Americas",
+		"subregion": "South America",
+		"timezones": [
+			"UTC−04:30"
+		]
+	},
+	"VGB": {
+		"area": 151,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "VG",
+			"alpha3": "VGB",
+			"independent": false,
+			"name": "Virgin Islands, British",
+			"numeric": 92
+		},
+		"latitude": 18.431383,
+		"longitude": -64.62305,
+		"name": {
+			"de": "Britische Jungferninseln",
+			"en": "British Virgin Islands",
+			"es": "Islas Vírgenes del Reino Unido",
+			"fr": "Îles Vierges britanniques",
+			"it": "Isole Vergini Britanniche",
+			"ja": "イギリス領ヴァージン諸島"
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"284": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 28054,
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"timezones": null
+	},
+	"VIR": {
+		"area": null,
+		"currencies": [
+			"USD"
+		],
+		"iso3166": {
+			"alpha2": "VI",
+			"alpha3": "VIR",
+			"independent": false,
+			"name": "Virgin Islands, U.S.",
+			"numeric": 850
+		},
+		"latitude": null,
+		"longitude": null,
+		"name": {
+			"en": "Virgin Islands, U.S."
+		},
+		"phone": {
+			"code": "1",
+			"lengths": [
+				10
+			],
+			"prefixes": {
+				"340": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": null,
+		"region": null,
+		"subregion": null,
+		"timezones": []
+	},
+	"VNM": {
+		"area": 331212,
+		"currencies": [
+			"VND"
+		],
+		"iso3166": {
+			"alpha2": "VN",
+			"alpha3": "VNM",
+			"independent": true,
+			"name": "Viet Nam",
+			"numeric": 704
+		},
+		"latitude": 16.16666666,
+		"longitude": 107.83333333,
+		"name": {
+			"de": "Vietnam",
+			"en": "Vietnam",
+			"es": "Vietnam",
+			"fr": "Viêt Nam",
+			"it": "Vietnam",
+			"ja": "ベトナム"
+		},
+		"phone": {
+			"code": "84",
+			"lengths": [
+				9,
+				10
+			],
+			"prefixes": {
+				"1": {
+					"type": "mobile"
+				},
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 91812000,
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"timezones": [
+			"UTC+07:00"
+		]
+	},
+	"VUT": {
+		"area": 12189,
+		"currencies": [
+			"VUV"
+		],
+		"iso3166": {
+			"alpha2": "VU",
+			"alpha3": "VUT",
+			"independent": true,
+			"name": "Vanuatu",
+			"numeric": 548
+		},
+		"latitude": -16,
+		"longitude": 167,
+		"name": {
+			"de": "Vanuatu",
+			"en": "Vanuatu",
+			"es": "Vanuatu",
+			"fr": "Vanuatu",
+			"it": "Vanuatu",
+			"ja": "バヌアツ"
+		},
+		"phone": {
+			"code": "678",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"5": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 264652,
+		"region": "Oceania",
+		"subregion": "Melanesia",
+		"timezones": [
+			"UTC+11:00"
+		]
+	},
+	"WLF": {
+		"area": 142,
+		"currencies": [
+			"XPF"
+		],
+		"iso3166": {
+			"alpha2": "WF",
+			"alpha3": "WLF",
+			"independent": false,
+			"name": "Wallis and Futuna",
+			"numeric": 876
+		},
+		"latitude": -13.3,
+		"longitude": -176.2,
+		"name": {
+			"de": "Wallis und Futuna",
+			"en": "Wallis and Futuna",
+			"es": "Wallis y Futuna",
+			"fr": "Wallis-et-Futuna",
+			"it": "Wallis e Futuna",
+			"ja": "ウォリス・フツナ"
+		},
+		"phone": {
+			"code": "681",
+			"lengths": [
+				6
+			],
+			"prefixes": {}
+		},
+		"population": 13135,
+		"region": "Oceania",
+		"subregion": "Polynesia",
+		"timezones": null
+	},
+	"WSM": {
+		"area": 2842,
+		"currencies": [
+			"WST"
+		],
+		"iso3166": {
+			"alpha2": "WS",
+			"alpha3": "WSM",
+			"independent": true,
+			"name": "Samoa",
+			"numeric": 882
+		},
+		"latitude": -13.58333333,
+		"longitude": -172.33333333,
+		"name": {
+			"de": "Samoa",
+			"en": "Samoa",
+			"es": "Samoa",
+			"fr": "Samoa",
+			"it": "Samoa",
+			"ja": "サモア"
+		},
+		"phone": {
+			"code": "685",
+			"lengths": [
+				7
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 187820,
+		"region": "Oceania",
+		"subregion": "Polynesia",
+		"timezones": [
+			"UTC+13:00"
+		]
+	},
+	"YEM": {
+		"area": 527968,
+		"currencies": [
+			"YER"
+		],
+		"iso3166": {
+			"alpha2": "YE",
+			"alpha3": "YEM",
+			"independent": true,
+			"name": "Yemen",
+			"numeric": 887
+		},
+		"latitude": 15,
+		"longitude": 48,
+		"name": {
+			"de": "Jemen",
+			"en": "Yemen",
+			"es": "Yemen",
+			"fr": "Yémen",
+			"it": "Yemen",
+			"ja": "イエメン"
+		},
+		"phone": {
+			"code": "967",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"7": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 25956000,
+		"region": "Asia",
+		"subregion": "Western Asia",
+		"timezones": [
+			"UTC+03:00"
+		]
+	},
+	"ZAF": {
+		"area": 1221037,
+		"currencies": [
+			"ZAR"
+		],
+		"iso3166": {
+			"alpha2": "ZA",
+			"alpha3": "ZAF",
+			"independent": true,
+			"name": "South Africa",
+			"numeric": 710
+		},
+		"latitude": -29,
+		"longitude": 24,
+		"name": {
+			"de": "Republik Südafrika",
+			"en": "South Africa",
+			"es": "República de Sudáfrica",
+			"fr": "Afrique du Sud",
+			"it": "Sud Africa",
+			"ja": "南アフリカ"
+		},
+		"phone": {
+			"code": "27",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"6": {
+					"type": "mobile"
+				},
+				"7": {
+					"type": "mobile"
+				},
+				"8": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 54956900,
+		"region": "Africa",
+		"subregion": "Southern Africa",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"ZMB": {
+		"area": 752612,
+		"currencies": [
+			"ZMW"
+		],
+		"iso3166": {
+			"alpha2": "ZM",
+			"alpha3": "ZMB",
+			"independent": true,
+			"name": "Zambia",
+			"numeric": 894
+		},
+		"latitude": -15,
+		"longitude": 30,
+		"name": {
+			"de": "Sambia",
+			"en": "Zambia",
+			"es": "Zambia",
+			"fr": "Zambie",
+			"it": "Zambia",
+			"ja": "ザンビア"
+		},
+		"phone": {
+			"code": "260",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"9": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 15473905,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+02:00"
+		]
+	},
+	"ZWE": {
+		"area": 390757,
+		"currencies": [
+			"ZWL"
+		],
+		"iso3166": {
+			"alpha2": "ZW",
+			"alpha3": "ZWE",
+			"independent": true,
+			"name": "Zimbabwe",
+			"numeric": 716
+		},
+		"latitude": -20,
+		"longitude": 30,
+		"name": {
+			"de": "Simbabwe",
+			"en": "Zimbabwe",
+			"es": "Zimbabue",
+			"fr": "Zimbabwe",
+			"it": "Zimbabwe",
+			"ja": "ジンバブエ"
+		},
+		"phone": {
+			"code": "263",
+			"lengths": [
+				9
+			],
+			"prefixes": {
+				"71": {
+					"type": "mobile"
+				},
+				"73": {
+					"type": "mobile"
+				},
+				"77": {
+					"type": "mobile"
+				}
+			}
+		},
+		"population": 13061239,
+		"region": "Africa",
+		"subregion": "Eastern Africa",
+		"timezones": [
+			"UTC+02:00"
+		]
+	}
+}

@@ -7,21 +7,21 @@ A library for getting data about countries.
 ```javascript
 const countrydata = require( 'countrydata' );
 
-// look up country data by ISO3166 alpha3 code
-const usa_by_alpha3 = countrydata.alpha3.USA;
+// look up country data by ISO3166 alpha3 code (default and fastest lookup)
+const usa = countrydata.get( 'USA' );
 
 // look up country by ISO3166 alpha2
-const usa_by_alpha2 = countrydata.alpha2.US;
+const usa_by_alpha2 = countrydata.get( 'US' );
 
 // look up country by ISO3166 numeric
-const usaByNumeric = countrydata.numeric[ 840 ];
+const usa_by_numeric = countrydata.get( 840 );
 
-// .all is the array of all countries, which you can use for finding/filtering, eg:
-const countries_using_usd = countrydata.all.filter( country => {
-    return country.iso3166.currency.code === 'USD';
+// .all() will return an array of all countries
+const countries_using_usd = countrydata.all().filter( country => {
+    return country.currencies.some( ( currency ) => ( currency.code === 'USD' ) );
 } );
 
-const usa_by_find = countrydata.all.find( country => {
+const usa_by_find = countrydata.all().find( country => {
     return country.name.en && country.name.en === 'United States';
 } );
 ```
@@ -44,8 +44,8 @@ Contributions are encouraged and appreciated. To make the process as quick and p
 
 1. Implement your new feature or bugfix
 2. Add or update tests to ensure coverage
-3. Ensure your code passes jshint according to the .jshintrc
-4. Ensure your code is formatted according to the .jsbeautifyrc
+3. Ensure your code passes eslint using the included .eslintrc
+4. Ensure your code is formatted according to the .eslintrc
 5. Submit
 
 ## License

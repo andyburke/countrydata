@@ -5,9 +5,12 @@ const countrydata = require( '../index.js' );
 const test = require( 'tape' );
 
 test( 'get by alpha2', ( t ) => {
-	countrydata.all.forEach( ( country ) => {
-		const found_country = countrydata.alpha2[ country.iso3166.alpha2 ];
-		t.deepEqual( found_country, country, `${ country.iso3166.alpha2 }: correct` );
+	countrydata.all().forEach( ( country ) => {
+		t.test( country?.name?.en, ( _t ) => {
+			const found_country = countrydata.get( country.iso3166.alpha2 );
+			_t.deepEqual( found_country, country, `${ country.iso3166.alpha2 }: correct` );
+			_t.end();
+		} );
 	} );
 	t.end();
 } );
