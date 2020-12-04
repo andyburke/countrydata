@@ -1,6 +1,6 @@
 {
   "name": "countrydata",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "A library for getting data about countries.",
   "main": "index.js",
   "files": [
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/andyburke/countrydata#readme",
   "devDependencies": {
-    "eslint": "^7.7.0",
+    "eslint": "^7.14.0",
     "tap-spec": "^5.0.0",
     "tape": "^5.0.1"
   }
